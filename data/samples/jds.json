@@ -1,0 +1,65 @@
+[
+  {
+    "job_title": "Senior Frontend Developer",
+    "company": "TechInnovate",
+    "location": "Remote / New York",
+    "employment_type": "Full-time",
+    "summary": "We are looking for a Senior Frontend Developer to lead our UI/UX transition to a modern React-based architecture.",
+    "responsibilities": [
+      "Develop highly responsive web applications using React and Next.js.",
+      "Collaborate with designers to ensure high-quality UI/UX implementation.",
+      "Optimize application performance and ensure cross-browser compatibility.",
+      "Mentor junior team members and conduct code reviews."
+    ],
+    "requirements": {
+      "years_of_experience": { "min": 5 },
+      "education": ["Computer Science degree or equivalent experience"]
+    },
+    "skills_required": [
+      { "name": "React", "minimum_proficiency": "Expert" },
+      { "name": "TypeScript", "minimum_proficiency": "Intermediate" },
+      { "name": "CSS/SASS", "minimum_proficiency": "Expert" }
+    ],
+    "skills_preferred": [
+      { "name": "Next.js" },
+      { "name": "Tailwind CSS" },
+      { "name": "GraphQL" }
+    ],
+    "benefits": [
+      "Competitive salary and equity package",
+      "Flexible working hours",
+      "Health and dental insurance"
+    ]
+  },
+  {
+    "job_title": "AI Product Manager",
+    "company": "FinEdge GenAI",
+    "location": "London, UK",
+    "employment_type": "Full-time",
+    "summary": "Lead the product strategy for our generative AI finance assistant.",
+    "responsibilities": [
+      "Define product roadmap and prioritize feature backlogs.",
+      "Work closely with AI researchers and engineers to deliver LLM-based solutions.",
+      "Gather user feedback and translate them into technical requirements.",
+      "Analyze market trends in generative AI."
+    ],
+    "requirements": {
+      "years_of_experience": { "min": 3 },
+      "education": ["MBA or Technical degree preferred"]
+    },
+    "skills_required": [
+      { "name": "Product Management", "minimum_proficiency": "Expert" },
+      { "name": "Generative AI", "minimum_proficiency": "Intermediate" },
+      { "name": "Agile Methodology", "minimum_proficiency": "Expert" }
+    ],
+    "skills_preferred": [
+      { "name": "Financial Services Experience" },
+      { "name": "LLM Fine-tuning Knowledge" }
+    ],
+    "benefits": [
+      "Remote-first culture",
+      "Generous PTO",
+      "Learning and development budget"
+    ]
+  }
+]

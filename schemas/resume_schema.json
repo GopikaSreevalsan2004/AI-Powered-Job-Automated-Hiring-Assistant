@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Schema",
+  "type": "object",
+  "properties": {
+    "candidate_id": { "type": "string", "format": "uuid" },
+    "full_name": { "type": "string" },
+    "contact_info": {
+      "type": "object",
+      "properties": {
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "location": { "type": "string" },
+        "linkedin": { "type": "string", "format": "uri" },
+        "github": { "type": "string", "format": "uri" },
+        "portfolio": { "type": "string", "format": "uri" }
+      },
+      "required": ["email"]
+    },
+    "summary": { "type": "string" },
+    "experiences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "company": { "type": "string" },
+          "role": { "type": "string" },
+          "location": { "type": "string" },
+          "start_date": { "type": "string", "format": "date" },
+          "end_date": { "type": "string", "format": "date" },
+          "is_current": { "type": "boolean" },
+          "description": { "type": "string" },
+          "key_achievements": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "skills_used": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["company", "role", "start_date"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "institution": { "type": "string" },
+          "degree": { "type": "string" },
+          "field_of_study": { "type": "string" },
+          "start_date": { "type": "string", "format": "date" },
+          "end_date": { "type": "string", "format": "date" },
+          "gpa": { "type": "string" }
+        },
+        "required": ["institution", "degree"]
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "level": { "type": "string", "enum": ["Beginner", "Intermediate", "Expert", "Lead"] },
+          "category": { "type": "string", "enum": ["Technical", "Soft", "Tool", "Domain Knowledge"] }
+        },
+        "required": ["name"]
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "issuing_organization": { "type": "string" },
+          "issue_date": { "type": "string", "format": "date" },
+          "expiry_date": { "type": "string", "format": "date" },
+          "credential_id": { "type": "string" }
+        },
+        "required": ["name", "issuing_organization"]
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "language": { "type": "string" },
+          "proficiency": { "type": "string", "enum": ["Native", "Fluent", "Conversational", "Basic"] }
+        }
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "description": { "type": "string" },
+          "link": { "type": "string", "format": "uri" },
+          "technologies": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  },
+  "required": ["full_name", "contact_info", "experiences", "skills"]
+}

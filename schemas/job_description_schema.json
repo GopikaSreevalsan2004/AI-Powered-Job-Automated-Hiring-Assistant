@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Job Description Schema",
+  "type": "object",
+  "properties": {
+    "job_id": { "type": "string", "format": "uuid" },
+    "job_title": { "type": "string" },
+    "company": { "type": "string" },
+    "location": { "type": "string" },
+    "employment_type": { "type": "string", "enum": ["Full-time", "Part-time", "Contract", "Internship"] },
+    "summary": { "type": "string" },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "requirements": {
+      "type": "object",
+      "properties": {
+        "years_of_experience": {
+          "type": "object",
+          "properties": {
+            "min": { "type": "integer" },
+            "max": { "type": "integer" }
+          }
+        },
+        "education": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "skills_required": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "minimum_proficiency": { "type": "string", "enum": ["Beginner", "Intermediate", "Expert", "Lead"] }
+        },
+        "required": ["name"]
+      }
+    },
+    "skills_preferred": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" }
+        },
+        "required": ["name"]
+      }
+    },
+    "benefits": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "required": ["job_title", "company", "responsibilities", "skills_required"]
+}

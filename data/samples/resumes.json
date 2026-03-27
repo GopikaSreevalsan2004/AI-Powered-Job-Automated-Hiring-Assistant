@@ -1,0 +1,144 @@
+[
+  {
+    "full_name": "Alice Johnson",
+    "contact_info": {
+      "email": "alice.johnson@example.com",
+      "phone": "+1-555-010-9988",
+      "location": "San Francisco, CA",
+      "linkedin": "https://linkedin.com/in/alicejohnson",
+      "github": "https://github.com/alicej"
+    },
+    "summary": "Senior Software Engineer with 8+ years of experience in full-stack development. Specialist in distributed systems and cloud architecture using Python, Go, and AWS.",
+    "experiences": [
+      {
+        "company": "CloudScale Systems",
+        "role": "Senior Software Engineer",
+        "location": "San Francisco, CA",
+        "start_date": "2020-03-01",
+        "is_current": true,
+        "description": "Led the migration of microservices to Kubernetes, improving deployment frequency by 40%.",
+        "key_achievements": [
+          "Developed a real-time data processing pipeline handling 1M+ requests/sec.",
+          "Mentored a team of 5 junior developers."
+        ],
+        "skills_used": ["Python", "Kubernetes", "AWS", "Go"]
+      },
+      {
+        "company": "DataFlow Corp",
+        "role": "Software Engineer",
+        "location": "Palo Alto, CA",
+        "start_date": "2016-06-01",
+        "end_date": "2020-02-28",
+        "description": "Built and maintained RESTful APIs for a high-traffic e-commerce platform.",
+        "key_achievements": [
+          "Optimized database queries, reducing latency by 25%.",
+          "Implemented automated CI/CD pipelines using Jenkins."
+        ],
+        "skills_used": ["JavaScript", "Node.js", "PostgreSQL"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "start_date": "2012-09-01",
+        "end_date": "2016-06-01"
+      }
+    ],
+    "skills": [
+      { "name": "Python", "level": "Expert", "category": "Technical" },
+      { "name": "Kubernetes", "level": "Expert", "category": "Tool" },
+      { "name": "AWS", "level": "Intermediate", "category": "Tool" },
+      { "name": "Go", "level": "Intermediate", "category": "Technical" },
+      { "name": "Team Mentorship", "level": "Expert", "category": "Soft" }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect – Professional",
+        "issuing_organization": "Amazon Web Services",
+        "issue_date": "2021-05-15"
+      }
+    ]
+  },
+  {
+    "full_name": "Marcus Chen",
+    "contact_info": {
+      "email": "m.chen@example.com",
+      "phone": "+1-123-456-7890",
+      "location": "Austin, TX",
+      "linkedin": "https://linkedin.com/in/mchen-marketing"
+    },
+    "summary": "Dynamic Marketing Manager with a focus on data-driven growth strategies and brand positioning for SaaS products.",
+    "experiences": [
+      {
+        "company": "SaaSGo",
+        "role": "Growth Marketing Manager",
+        "location": "Austin, TX",
+        "start_date": "2019-01-15",
+        "is_current": true,
+        "description": "Managing a $500k monthly ad budget across Google and Meta platforms.",
+        "key_achievements": [
+          "Increased MQLs by 150% YoY through targeted SEO and SEM campaigns.",
+          "Launched 3 major product features with comprehensive GTM strategies."
+        ],
+        "skills_used": ["Google Ads", "HubSpot", "SEO", "Content Marketing"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Texas at Austin",
+        "degree": "BBA",
+        "field_of_study": "Marketing",
+        "start_date": "2014-08-01",
+        "end_date": "2018-05-15"
+      }
+    ],
+    "skills": [
+      { "name": "Data Analytics", "level": "Expert", "category": "Technical" },
+      { "name": "SEO", "level": "Expert", "category": "Tool" },
+      { "name": "HubSpot", "level": "Intermediate", "category": "Tool" },
+      { "name": "Public Speaking", "level": "Intermediate", "category": "Soft" }
+    ]
+  },
+  {
+    "full_name": "Dr. Sarah Miller",
+    "contact_info": {
+      "email": "s.miller@example.com",
+      "phone": "+44 20 7946 0958",
+      "location": "London, UK",
+      "github": "https://github.com/smiller-ds"
+    },
+    "summary": "PhD in Physics turned Data Scientist with a passion for machine learning and predictive modeling.",
+    "experiences": [
+      {
+        "company": "Alpha Insights",
+        "role": "Lead Data Scientist",
+        "location": "London, UK",
+        "start_date": "2021-10-01",
+        "is_current": true,
+        "description": "Leading the AI/ML initiative for supply chain optimization.",
+        "key_achievements": [
+          "Developed a demand forecasting model with 92% accuracy.",
+          "Implemented A/B testing framework for product recommendations."
+        ],
+        "skills_used": ["Python", "PyTorch", "SQL", "Scikit-Learn"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Oxford",
+        "degree": "Doctor of Philosophy",
+        "field_of_study": "Physics",
+        "start_date": "2016-10-01",
+        "end_date": "2020-09-30"
+      }
+    ],
+    "skills": [
+      { "name": "Python", "level": "Expert", "category": "Technical" },
+      { "name": "PyTorch", "level": "Expert", "category": "Technical" },
+      { "name": "Machine Learning", "level": "Expert", "category": "Domain Knowledge" },
+      { "name": "Statistical Analysis", "level": "Expert", "category": "Technical" }
+    ]
+  }
+]

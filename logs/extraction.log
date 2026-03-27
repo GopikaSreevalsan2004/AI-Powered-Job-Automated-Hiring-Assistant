@@ -1,0 +1,12 @@
+2026-03-27 13:13:28,675 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-03-27 13:13:28,677 WARNING [extraction_engine]: No resume files found in data/resumes
+2026-03-27 13:24:06,543 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-03-27 13:24:06,544 INFO [extraction_engine]: Found 1 resumes to process.
+2026-03-27 13:24:06,545 INFO [extraction_engine]: Processing: Resume1.pdf
+2026-03-27 13:24:06,811 INFO [extraction_engine]: Successfully processed and saved to: data/processed\Resume1.txt
+2026-03-27 13:24:06,811 INFO [extraction_engine]: Resume extraction process completed.
+2026-03-27 13:31:19,416 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-03-27 13:31:19,417 INFO [extraction_engine]: Found 1 resumes to process.
+2026-03-27 13:31:19,418 INFO [extraction_engine]: Processing: Resume1.pdf
+2026-03-27 13:31:19,764 INFO [extraction_engine]: Successfully processed and saved to: data/processed\Resume1.txt
+2026-03-27 13:31:19,764 INFO [extraction_engine]: Resume extraction process completed.

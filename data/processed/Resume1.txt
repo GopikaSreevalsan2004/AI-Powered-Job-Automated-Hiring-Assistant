@@ -1,0 +1,15 @@
+--- Page 1 --- GOPIKA S S Email: gopikasreevalsan@gmail.com|Phone: +91 9037076189 GitHub: https://github.com/GopikaSreevalsan2004 PROFILE Enthusiastic and detail-oriented Data Science student with a strong foundation in Python, machine learning, and data analysis. Passionate about extracting insights from data and building data-driven solutions. Quick learner with strong problem-solving 
+SKILLS
+ and a keen interest in analytics and predictive modelling. Eager to contribute to a dynamic team and grow in a professional data science environment. INTERNSHIP /
+EXPERIENCE
+ Data Science &AI - Scope India | (Ongoing) July 2025 • Developed and analysed datasets using Python, Pandas, and NumPy for data cleaning, preprocessing, and exploratory data analysis. • Built and evaluated machine learning models using algorithms such as Linear Regression, Logistic Regression, and Decision Trees. • Worked on data visualization using Matplotlib and Seaborn to present insights clearly. • Implemented end-to-end data science 
+PROJECTS
+, including data collection, feature engineering, model training, and performance evaluation. • Collaborated with team members to interpret results and improve model accuracy and efficiency 
+PROJECTS
+ Online Food Store Web Application Developed a responsive and modern online food store web application using HTML, CSS, JavaScript, Bootstrap, Python, and MSSQL. The platform focuses on a userfriendly interface with smooth navigation to ensure an efficient and seamless ordering 
+EXPERIENCE
+ across all devices. functionalities include food item listing, category filtering, cart management, order processing, and secure data handling. --- Page 2 --- AI-Based Multiple Disease Prediction System (Ongoing Project) Developed an AI-based web application that predicts multiple diseases using machine learning algorithms. The system analyzes user health data and symptoms to provide early disease prediction and risk assessment. Implemented using Python, machine learning models, and a user-friendly interface to assist in preliminary healthcare analysis. TECH 
+SKILLS
+ PROGRAMMING LANGUAGES : Python, Html, JavaScript DATA ANALYTICS TOOLS : Pandas, NumPy, Scikit-learn DATA SCIENCE : Machine Learning PYTHON FRAMEWORKS : Django DATABASE : SQL(Mysql, Sqlite) DATA VISUALIZATION : Power BI, Tableau, Matplotlib, Seaborn 
+EDUCATION
+ Bachelor of Science in Mathematics (BSC), 2022-2025 Mathama Gandhi College, Kesavadasapuram(Kerala University) Higher Secondary School , 2020-2022 LMS Higher Secondary School, Thiruvananthapuram Secondary School , 2020 Kaviyattu English Medium School, Thiruvananthapuram LANGUAGES • ENGLISH • MALAYALAM • TAMIL DECLARATION I do hereby declare that all the above information is true to the best of my knowledge and belief. GOPIKA S S
