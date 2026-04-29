@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Personal Info",
+        "text": "--- Page 1 --- Elena Rodriguez Spark Developer"
+    },
+    {
+        "label": "Summary",
+        "text": "Developer specialized in high-performance Spark applications for real-time analytics and streaming data processing."
+    },
+    {
+        "label": "Skills",
+        "text": "Scala, Spark Streaming, Spark SQL, Docker, Kubernetes"
+    },
+    {
+        "label": "Experience",
+        "text": "Spark Developer at Velocity Data. Built real-time monitoring tools for high- frequency transactions."
+    }
+]

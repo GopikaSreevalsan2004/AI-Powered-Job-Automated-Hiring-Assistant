@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Personal Info",
+        "text": "--- Page 1 --- Li Wei Hadoop Developer"
+    },
+    {
+        "label": "Summary",
+        "text": "Technical specialist focused on Hadoop ecosystem optimization. Expert in MapReduce and Hive query tuning for massive datasets."
+    },
+    {
+        "label": "Skills",
+        "text": "Java, HBase, MapReduce, Hive, Shell Scripting"
+    },
+    {
+        "label": "Experience",
+        "text": "Hadoop Developer at DataBridge. Implemented efficient ETL workflows and resolved job failures."
+    }
+]

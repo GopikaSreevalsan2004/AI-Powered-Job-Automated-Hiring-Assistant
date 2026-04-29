@@ -116,16 +116,21 @@ class ResumeSectionClassifier:
         if not cleaned or len(cleaned) > 50:
             return False
             
+        words = cleaned.split()
+        
+        if len(words) > 5:
+            return False
+            
         # Often title cased or entirely upper cased
         if cleaned.istitle() or cleaned.isupper():
             return True
             
-        # Often ends with colon or starts/ends with special symbols
+        # Often ends with colon
         if cleaned.endswith(':'):
             return True
             
-        # If it's 1-3 words, high chance of being a header
-        if len(cleaned.split()) <= 4:
+        # If it's 1-3 words, high chance of being a header if it doesn't end with sentence punctuation
+        if len(words) <= 3 and not cleaned[-1] in {'.', ',', ';'}:
             return True
             
         return False
@@ -173,7 +178,7 @@ class ResumeSectionClassifier:
                 # 2. NLP Based Match (if rule based failed)
                 if not new_section:
                     # Perhaps they wrote "My Awesome Projects"
-                    nlp_section = self.get_nlp_based_section(trimmed, threshold=0.1)
+                    nlp_section = self.get_nlp_based_section(trimmed, threshold=0.2)
                     if nlp_section:
                         new_section = nlp_section
                 

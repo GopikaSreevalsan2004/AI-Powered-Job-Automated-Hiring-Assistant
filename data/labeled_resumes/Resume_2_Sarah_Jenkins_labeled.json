@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Personal Info",
+        "text": "--- Page 1 --- Sarah Jenkins Senior Big Data Engineer"
+    },
+    {
+        "label": "Summary",
+        "text": "Senior leader with 6+ years of"
+    },
+    {
+        "label": "Experience",
+        "text": "in data architecture and mentoring engineering teams. Specialist in cloud-native data migrations."
+    },
+    {
+        "label": "Skills",
+        "text": "AWS, Azure, Data Architecture, PySpark, Team Leadership"
+    },
+    {
+        "label": "Experience",
+        "text": "Lead Engineer at CloudScale. Designed enterprise architectures and enforced best practices."
+    }
+]

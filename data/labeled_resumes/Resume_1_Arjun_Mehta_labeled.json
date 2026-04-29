@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Personal Info",
+        "text": "--- Page 1 --- Arjun Mehta Big Data Engineer"
+    },
+    {
+        "label": "Summary",
+        "text": "Experienced Big Data Engineer focused on designing and maintaining scalable processing systems for large volumes of data. Expertise in building robust pipelines to support analytics."
+    },
+    {
+        "label": "Skills",
+        "text": "Python, Java, Hadoop, Spark, Hive, SQL, Kafka"
+    },
+    {
+        "label": "Experience",
+        "text": "Big Data Engineer at TechStream. Developed scalable pipelines and managed ETL workflows."
+    }
+]

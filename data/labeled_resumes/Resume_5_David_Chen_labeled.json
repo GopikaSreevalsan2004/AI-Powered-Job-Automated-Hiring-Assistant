@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Personal Info",
+        "text": "--- Page 1 --- David Chen ML Data Engineer"
+    },
+    {
+        "label": "Summary",
+        "text": "Engineer proficient in building pipelines for machine learning models. Expert in feature engineering and data versioning."
+    },
+    {
+        "label": "Skills",
+        "text": "Python, TensorFlow, Feature Engineering, DVC, MLOps"
+    },
+    {
+        "label": "Experience",
+        "text": "ML Engineer at Neural Innovations. Optimized model training pipelines and automated data cleaning."
+    }
+]
