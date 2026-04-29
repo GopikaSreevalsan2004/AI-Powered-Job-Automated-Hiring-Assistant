@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Machine Learning",
+    "confidence_score": 0.95,
+    "category": "Technical",
+    "level": "Intermediate",
+    "mentions": 2
+  },
+  {
+    "name": "TensorFlow",
+    "confidence_score": 0.9,
+    "category": "Technical",
+    "level": "Intermediate",
+    "mentions": 1
+  },
+  {
+    "name": "Python",
+    "confidence_score": 0.9,
+    "category": "Technical",
+    "level": "Intermediate",
+    "mentions": 1
+  }
+]

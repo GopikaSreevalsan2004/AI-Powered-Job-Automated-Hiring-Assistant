@@ -20,3 +20,40 @@
 2026-04-29 12:51:30,661 INFO [extraction_engine]: Processing: Resume1.pdf
 2026-04-29 12:51:30,891 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume1.txt and skills to data/processed\Resume1_skills.json
 2026-04-29 12:51:30,891 INFO [extraction_engine]: Resume extraction process completed.
+2026-04-29 14:55:14,701 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-04-29 14:55:14,718 WARNING [extraction_engine]: spacy not installed. Falling back to regex extraction.
+2026-04-29 14:55:14,722 INFO [extraction_engine]: Found 11 resumes to process.
+2026-04-29 14:55:14,723 INFO [extraction_engine]: Processing: Resume1.pdf
+2026-04-29 14:55:15,241 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume1_experience.json
+2026-04-29 14:55:15,242 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume1.txt and skills to data/processed\Resume1_skills.json
+2026-04-29 14:55:15,242 INFO [extraction_engine]: Processing: Resume_10_Dr._Helena_Vance.pdf
+2026-04-29 14:55:15,303 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_10_Dr._Helena_Vance_experience.json
+2026-04-29 14:55:15,303 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_10_Dr._Helena_Vance.txt and skills to data/processed\Resume_10_Dr._Helena_Vance_skills.json
+2026-04-29 14:55:15,304 INFO [extraction_engine]: Processing: Resume_1_Arjun_Mehta.pdf
+2026-04-29 14:55:15,360 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_1_Arjun_Mehta_experience.json
+2026-04-29 14:55:15,360 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_1_Arjun_Mehta.txt and skills to data/processed\Resume_1_Arjun_Mehta_skills.json
+2026-04-29 14:55:15,362 INFO [extraction_engine]: Processing: Resume_2_Sarah_Jenkins.pdf
+2026-04-29 14:55:15,419 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_2_Sarah_Jenkins_experience.json
+2026-04-29 14:55:15,419 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_2_Sarah_Jenkins.txt and skills to data/processed\Resume_2_Sarah_Jenkins_skills.json
+2026-04-29 14:55:15,420 INFO [extraction_engine]: Processing: Resume_3_Li_Wei.pdf
+2026-04-29 14:55:15,475 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_3_Li_Wei_experience.json
+2026-04-29 14:55:15,475 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_3_Li_Wei.txt and skills to data/processed\Resume_3_Li_Wei_skills.json
+2026-04-29 14:55:15,475 INFO [extraction_engine]: Processing: Resume_4_Elena_Rodriguez.pdf
+2026-04-29 14:55:15,536 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_4_Elena_Rodriguez_experience.json
+2026-04-29 14:55:15,536 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_4_Elena_Rodriguez.txt and skills to data/processed\Resume_4_Elena_Rodriguez_skills.json
+2026-04-29 14:55:15,536 INFO [extraction_engine]: Processing: Resume_5_David_Chen.pdf
+2026-04-29 14:55:15,591 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_5_David_Chen_experience.json
+2026-04-29 14:55:15,591 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_5_David_Chen.txt and skills to data/processed\Resume_5_David_Chen_skills.json
+2026-04-29 14:55:15,592 INFO [extraction_engine]: Processing: Resume_6_Marcus_Thorne.pdf
+2026-04-29 14:55:15,656 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_6_Marcus_Thorne_experience.json
+2026-04-29 14:55:15,657 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_6_Marcus_Thorne.txt and skills to data/processed\Resume_6_Marcus_Thorne_skills.json
+2026-04-29 14:55:15,657 INFO [extraction_engine]: Processing: Resume_7_Chloe_Simmons.pdf
+2026-04-29 14:55:15,717 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_7_Chloe_Simmons_experience.json
+2026-04-29 14:55:15,717 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_7_Chloe_Simmons.txt and skills to data/processed\Resume_7_Chloe_Simmons_skills.json
+2026-04-29 14:55:15,718 INFO [extraction_engine]: Processing: Resume_8_Julian_Vane.pdf
+2026-04-29 14:55:15,781 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_8_Julian_Vane_experience.json
+2026-04-29 14:55:15,782 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_8_Julian_Vane.txt and skills to data/processed\Resume_8_Julian_Vane_skills.json
+2026-04-29 14:55:15,782 INFO [extraction_engine]: Processing: Resume_9_Sofia_Rossi.pdf
+2026-04-29 14:55:15,844 INFO [extraction_engine]: Successfully processed experience and saved to data/processed\Resume_9_Sofia_Rossi_experience.json
+2026-04-29 14:55:15,845 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume_9_Sofia_Rossi.txt and skills to data/processed\Resume_9_Sofia_Rossi_skills.json
+2026-04-29 14:55:15,845 INFO [extraction_engine]: Resume extraction process completed.

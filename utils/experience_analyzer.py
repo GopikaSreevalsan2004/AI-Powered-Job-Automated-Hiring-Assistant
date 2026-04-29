@@ -1,69 +1,72 @@
-from datetime import datetime
 from typing import List, Dict
-import pandas as pd
 
 class ExperienceAnalyzer:
-    @staticmethod
-    def calculate_duration_months(start_date: datetime, end_date: datetime) -> int:
-        if not start_date or not end_date:
-            return 0
-        return (end_date.year - start_date.year) * 12 + (end_date.month - start_date.month)
+    """
+    Analyzes an individual's career trajectory by calculating total experience,
+    detecting employment gaps, and identifying overlapping roles.
+    """
+    def __init__(self):
+        pass
 
     def analyze_experience(self, experiences: List[Dict]) -> Dict:
         """
-        Analyzes a list of experience objects.
+        Analyzes a candidate's timeline.
+        Requires 'start_dt' and 'end_dt' to be populated datetime objects.
         """
-        if not experiences:
-            return {
-                "total_experience_months": 0,
-                "gaps": [],
-                "overlaps": []
-            }
-
-        # Sort experiences by start date
-        sorted_exp = sorted(experiences, key=lambda x: x.get('start_dt') or datetime.min)
-        
         total_months = 0
         gaps = []
         overlaps = []
         
-        last_end_date = None
+        # Filter experiences with valid dates
+        valid_exps = [e for e in experiences if e.get('start_dt') and e.get('end_dt')]
         
-        for i, exp in enumerate(sorted_exp):
-            start_dt = exp.get('start_dt')
-            end_dt = exp.get('end_dt')
+        # Sort by start date
+        valid_exps.sort(key=lambda x: x['start_dt'])
+        
+        if not valid_exps:
+            return {
+                "total_experience_years": 0.0,
+                "gaps": [],
+                "overlaps": []
+            }
             
-            if not start_dt or not end_dt:
-                continue
+        # Calculate timeline
+        for i in range(len(valid_exps)):
+            curr = valid_exps[i]
+            
+            # Add duration
+            months = (curr['end_dt'].year - curr['start_dt'].year) * 12 + (curr['end_dt'].month - curr['start_dt'].month)
+            total_months += max(0, months)
+            
+            # Check gaps and overlaps with next experience
+            if i < len(valid_exps) - 1:
+                next_exp = valid_exps[i+1]
                 
-            duration = self.calculate_duration_months(start_dt, end_dt)
-            total_months += duration
-            
-            if last_end_date:
-                if start_dt > last_end_date:
-                    # Gap detected
-                    gap_months = self.calculate_duration_months(last_end_date, start_dt)
-                    if gap_months > 1: # Ignore minor gaps
+                # If current ends after next begins -> overlap
+                if curr['end_dt'] > next_exp['start_dt']:
+                    overlap_months = (curr['end_dt'].year - next_exp['start_dt'].year) * 12 + (curr['end_dt'].month - next_exp['start_dt'].month)
+                    overlaps.append({
+                        "role1": curr.get('role', 'Unknown'),
+                        "role2": next_exp.get('role', 'Unknown'),
+                        "overlap_months": overlap_months
+                    })
+                    # Subtract overlap from total to avoid double counting
+                    total_months -= overlap_months
+                
+                # If current ends before next begins -> gap
+                elif curr['end_dt'] < next_exp['start_dt']:
+                    gap_months = (next_exp['start_dt'].year - curr['end_dt'].year) * 12 + (next_exp['start_dt'].month - curr['end_dt'].month)
+                    if gap_months > 1: # Ignore 1 month gap
                         gaps.append({
-                            "after_company": sorted_exp[i-1].get('company'),
-                            "before_company": exp.get('company'),
-                            "duration_months": gap_months
+                            "after_role": curr.get('role', 'Unknown'),
+                            "before_role": next_exp.get('role', 'Unknown'),
+                            "gap_months": gap_months
                         })
-                elif start_dt < last_end_date:
-                    # Overlap detected
-                    overlap_months = self.calculate_duration_months(start_dt, last_end_date)
-                    if overlap_months > 0:
-                        overlaps.append({
-                            "companies": [sorted_exp[i-1].get('company'), exp.get('company')],
-                            "overlap_months": overlap_months
-                        })
-            
-            if last_end_date is None or end_dt > last_end_date:
-                last_end_date = end_dt
-
+                        
+        total_years = round(total_months / 12.0, 1)
+        
         return {
-            "total_experience_months": total_months,
-            "total_experience_years": round(total_months / 12, 1),
+            "total_experience_years": total_years,
             "gaps": gaps,
             "overlaps": overlaps
         }

@@ -45,6 +45,37 @@ class SynonymMapper:
         "CI/CD": "Continuous Integration/Continuous Deployment"
     }
 
+    EDUCATION_SYNONYMS = {
+        "BS": "Bachelor of Science",
+        "BSC": "Bachelor of Science",
+        "B.S.": "Bachelor of Science",
+        "B.SC.": "Bachelor of Science",
+        "BTECH": "Bachelor of Technology",
+        "B.TECH": "Bachelor of Technology",
+        "MS": "Master of Science",
+        "MSC": "Master of Science",
+        "M.S.": "Master of Science",
+        "M.SC.": "Master of Science",
+        "MTECH": "Master of Technology",
+        "M.TECH": "Master of Technology",
+        "MBA": "Master of Business Administration",
+        "PHD": "Doctor of Philosophy",
+        "P.H.D.": "Doctor of Philosophy",
+        "BBA": "Bachelor of Business Administration",
+        "BA": "Bachelor of Arts",
+        "MA": "Master of Arts"
+    }
+
+    CERTIFICATION_SYNONYMS = {
+        "PMP": "Project Management Professional",
+        "AWS CSA": "AWS Certified Solutions Architect",
+        "AWS CDA": "AWS Certified Developer Associate",
+        "CCNA": "Cisco Certified Network Associate",
+        "CCNP": "Cisco Certified Network Professional",
+        "GCP": "Google Cloud Professional",
+        "AZURE": "Microsoft Azure Certification"
+    }
+
     def __init__(self, dictionary_path: str = "data/skill_dictionary.json"):
         self.skill_synonyms = self.FALLBACK_SKILL_SYNONYMS.copy()
         
@@ -96,3 +127,22 @@ class SynonymMapper:
                 return standard
                 
         return role_cleaned.title()
+
+    @classmethod
+    def normalize_education(cls, degree: str) -> str:
+        """
+        Normalizes degree names to a standard format.
+        """
+        degree_clean = degree.strip().upper().replace('.', '')
+        return cls.EDUCATION_SYNONYMS.get(degree_clean, degree.strip().title())
+
+    @classmethod
+    def normalize_certification(cls, cert: str) -> str:
+        """
+        Normalizes certification names.
+        """
+        cert_upper = cert.strip().upper()
+        for alias, standard in cls.CERTIFICATION_SYNONYMS.items():
+            if alias in cert_upper:
+                return standard
+        return cert.strip().title()

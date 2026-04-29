@@ -14,14 +14,7 @@
     "mentions": 5
   },
   {
-    "name": "Data Analysis",
-    "confidence_score": 0.95,
-    "category": "Domain Knowledge",
-    "level": "Intermediate",
-    "mentions": 2
-  },
-  {
-    "name": "Pandas",
+    "name": "NumPy",
     "confidence_score": 0.95,
     "category": "Technical",
     "level": "Intermediate",
@@ -35,16 +28,16 @@
     "mentions": 2
   },
   {
-    "name": "NumPy",
+    "name": "Pandas",
     "confidence_score": 0.95,
     "category": "Technical",
     "level": "Intermediate",
     "mentions": 2
   },
   {
-    "name": "Business Intelligence",
+    "name": "MySQL",
     "confidence_score": 0.9,
-    "category": "Domain Knowledge",
+    "category": "Technical",
     "level": "Intermediate",
     "mentions": 1
   },
@@ -56,16 +49,16 @@
     "mentions": 1
   },
   {
-    "name": "MySQL",
+    "name": "Django",
     "confidence_score": 0.9,
     "category": "Technical",
     "level": "Intermediate",
     "mentions": 1
   },
   {
-    "name": "Django",
+    "name": "Business Intelligence",
     "confidence_score": 0.9,
-    "category": "Technical",
+    "category": "Domain Knowledge",
     "level": "Intermediate",
     "mentions": 1
   },

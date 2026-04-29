@@ -1,0 +1,19 @@
+{
+  "structured_experiences": [
+    {
+      "start_date": null,
+      "end_date": null,
+      "role": "ML Engineer",
+      "company": "Neural Innovations",
+      "description": "",
+      "start_dt": null,
+      "end_dt": null,
+      "relevance_score": 0.32
+    }
+  ],
+  "analysis": {
+    "total_experience_years": 0.0,
+    "gaps": [],
+    "overlaps": []
+  }
+}

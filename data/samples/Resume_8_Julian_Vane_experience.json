@@ -1,0 +1,19 @@
+{
+  "structured_experiences": [
+    {
+      "start_date": null,
+      "end_date": null,
+      "role": "Digital Archivist",
+      "company": "Heritage Library",
+      "description": "",
+      "start_dt": null,
+      "end_dt": null,
+      "relevance_score": 0.26
+    }
+  ],
+  "analysis": {
+    "total_experience_years": 0.0,
+    "gaps": [],
+    "overlaps": []
+  }
+}

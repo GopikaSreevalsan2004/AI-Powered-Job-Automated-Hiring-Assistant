@@ -4,6 +4,9 @@ from utils.experience_analyzer import ExperienceAnalyzer
 from scoring.experience_scorer import ExperienceScorer
 
 class ExperienceEngine:
+    """
+    Coordinates the parsing, analysis, and scoring of candidate experience.
+    """
     def __init__(self):
         self.parser = ExperienceParser()
         self.analyzer = ExperienceAnalyzer()
@@ -23,10 +26,10 @@ class ExperienceEngine:
             exp['end_dt'] = self.parser.normalize_dates(exp.get('end_date'))
             processed_experiences.append(exp)
             
-        # 2. Analyze
+        # 2. Analyze (calculate total exp, gaps, overlaps)
         analysis = self.analyzer.analyze_experience(processed_experiences)
         
-        # 3. Score (if requirements provided)
+        # 3. Score relevance to target role (if requirements provided)
         if job_requirements:
             ranked_experiences = self.scorer.rank_experiences(processed_experiences, job_requirements)
         else:
@@ -36,29 +39,3 @@ class ExperienceEngine:
             "structured_experiences": ranked_experiences,
             "analysis": analysis
         }
-
-if __name__ == "__main__":
-    # Example usage
-    sample_text = """
-    Software Engineer | Google
-    Jan 2020 - Present
-    Developed scalable microservices using Python and Go.
-    
-    Junior Developer | Startup Inc.
-    Jun 2018 - Dec 2019
-    Built frontend features with React.
-    """
-    
-    requirements = {
-        "target_role": "Senior Software Engineer",
-        "required_skills": ["Python", "Microservices"]
-    }
-    
-    engine = ExperienceEngine()
-    result = engine.process_experience_text(sample_text, requirements)
-    
-    import json
-    # Use a custom serializer for datetime objects if needed, or just print
-    print("Total Experience:", result['analysis']['total_experience_years'], "years")
-    for exp in result['structured_experiences']:
-        print(f"Role: {exp['role']}, Score: {exp['relevance_score']}")

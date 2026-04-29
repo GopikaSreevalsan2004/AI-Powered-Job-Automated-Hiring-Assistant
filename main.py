@@ -84,11 +84,10 @@ def main():
             # Custom JSON serialization for datetime objects in experience results
             class DateTimeEncoder(json.JSONEncoder):
                 def default(self, obj):
-                    if isinstance(obj, (datetime,)):
+                    if hasattr(obj, 'isoformat'):
                         return obj.isoformat()
                     return super().default(obj)
 
-            from datetime import datetime
             exp_output_path = os.path.splitext(output_path)[0] + "_experience.json"
             with open(exp_output_path, 'w', encoding='utf-8') as f:
                 json.dump(exp_results, f, indent=2, cls=DateTimeEncoder)

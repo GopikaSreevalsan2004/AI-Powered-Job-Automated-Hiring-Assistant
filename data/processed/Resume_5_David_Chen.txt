@@ -1,0 +1,7 @@
+--- Page 1 --- David Chen ML Data Engineer 
+SUMMARY
+ Engineer proficient in building pipelines for machine learning models. Expert in feature engineering and data versioning. 
+SKILLS
+ Python, TensorFlow, Feature Engineering, DVC, MLOps 
+EXPERIENCE
+ ML Engineer at Neural Innovations. Optimized model training pipelines and automated data cleaning.
