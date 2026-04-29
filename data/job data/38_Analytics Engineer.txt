@@ -1,0 +1,19 @@
+38. Analytics Engineer 
+Job Summary 
+The Analytics Engineer bridges the gap between data engineering and business analytics, 
+building reliable and reusable data models and pipelines for reporting and decision-making. 
+Key Responsibilities 
+• Develop and maintain analytics-focused data pipelines 
+• Build data models to support dashboards, reporting, and BI 
+• Collaborate with analysts, product teams, and data scientists 
+• Optimize data transformations for performance and scalability 
+• Ensure data quality, consistency, and lineage 
+• Implement version control and CI/CD for analytics code 
+Required Skills 
+• SQL expertise and data modeling experience 
+• Experience with ETL/ELT tools and workflow orchestration (Airflow, dbt) 
+• Python or R for analytics pipelines 
+• Familiarity with cloud data warehouses and analytics platforms 
+Qualifications 
+• Bachelor’s degree in Computer Science, Data Science, or related field 
+• 2–5 years of experience in analytics engineering or data modeling

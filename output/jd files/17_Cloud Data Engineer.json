@@ -1,0 +1,42 @@
+{
+  "job_id": "b03eaebc-b3ae-4ba0-a381-39d6af8be641",
+  "job_title": "Cloud Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Cloud Data Engineer builds cloud-native data pipelines and platforms using managed big data and analytics services.",
+  "responsibilities": [
+    "Develop data pipelines using cloud services (AWS, Azure, GCP)",
+    "Design data lakes and cloud data warehouses",
+    "Implement data security, governance, and monitoring",
+    "Optimize cost and performance of cloud data solutions",
+    "Automate infrastructure using IaC tools"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "4\u20137 years of cloud data engineering experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with AWS Glue, EMR, Redshift, Azure Data Factory, or BigQuery"
+    },
+    {
+      "name": "Strong SQL and Python skills"
+    },
+    {
+      "name": "Knowledge of Terraform or CloudFormation"
+    },
+    {
+      "name": "Understanding of cloud security principles"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

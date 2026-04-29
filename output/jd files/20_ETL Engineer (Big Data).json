@@ -1,0 +1,42 @@
+{
+  "job_id": "ab944b86-d852-4249-bdc4-b3da2888c93d",
+  "job_title": "ETL Engineer (Big Data)",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The ETL Engineer (Big Data) builds scalable Extract, Transform, Load pipelines to move and transform large datasets across systems.",
+  "responsibilities": [
+    "Design and develop ETL pipelines using big data frameworks",
+    "Extract data from diverse sources",
+    "Transform data for analytics and reporting",
+    "Load data into data lakes or warehouses",
+    "Monitor and troubleshoot ETL jobs"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of ETL development experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "ETL tools (Informatica, Talend, AWS Glue)"
+    },
+    {
+      "name": "Spark, Hadoop, SQL"
+    },
+    {
+      "name": "Data quality and validation techniques"
+    },
+    {
+      "name": "Strong problem-solving skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

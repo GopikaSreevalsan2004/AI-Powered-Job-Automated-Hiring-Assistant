@@ -1,0 +1,42 @@
+{
+  "job_id": "8e8f40c6-e5ec-45a9-a47d-c0a385d87ad4",
+  "job_title": "Edge Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Edge Data Engineer designs data pipelines and analytics systems for edge devices, enabling real-time processing close to data sources.",
+  "responsibilities": [
+    "Implement data collection, processing, and storage at edge locations",
+    "Optimize data pipelines for bandwidth, latency, and resource constraints",
+    "Ensure security, privacy, and reliability of edge data systems",
+    "Integrate edge data with centralized cloud or lakehouse platforms",
+    "Support analytics, AI, and ML applications on edge data"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20137 years of experience in edge computing or real-time data systems"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with IoT, edge computing, or distributed processing"
+    },
+    {
+      "name": "Programming in Python, Java, or C++"
+    },
+    {
+      "name": "Knowledge of streaming frameworks and edge-to-cloud integration"
+    },
+    {
+      "name": "Familiarity with security, compression, and low-latency optimization"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

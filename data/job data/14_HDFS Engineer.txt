@@ -1,0 +1,23 @@
+14. HDFS Engineer 
+Job Summary 
+The HDFS Engineer manages and optimizes Hadoop Distributed File System (HDFS) to 
+ensure reliable, secure, and high-performance data storage. 
+Key Responsibilities 
+• Design and manage HDFS storage architecture 
+• Monitor and optimize data replication and availability 
+• Troubleshoot storage and node failures 
+• Implement backup, recovery, and security controls 
+• Ensure high availability of NameNode services 
+• Collaborate with Hadoop and infrastructure teams 
+Required Skills 
+• Deep expertise in HDFS internals 
+• Strong Linux and system administration skills 
+• Experience with cluster monitoring tools 
+• Knowledge of Hadoop security and access controls 
+Qualifications 
+• Bachelor’s degree in Engineering or related field 
+• 4–7 years of HDFS and Hadoop storage experience 
+Data Engineering (Big Data-Focused) – 
+Detailed Job Descriptions 
+1
+️

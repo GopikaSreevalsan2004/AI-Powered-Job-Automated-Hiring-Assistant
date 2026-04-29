@@ -10,3 +10,13 @@
 2026-03-27 13:31:19,418 INFO [extraction_engine]: Processing: Resume1.pdf
 2026-03-27 13:31:19,764 INFO [extraction_engine]: Successfully processed and saved to: data/processed\Resume1.txt
 2026-03-27 13:31:19,764 INFO [extraction_engine]: Resume extraction process completed.
+2026-04-29 12:46:56,936 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-04-29 12:46:57,196 INFO [extraction_engine]: Found 1 resumes to process.
+2026-04-29 12:46:57,197 INFO [extraction_engine]: Processing: Resume1.pdf
+2026-04-29 12:46:57,459 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume1.txt and skills to data/processed\Resume1_skills.json
+2026-04-29 12:46:57,459 INFO [extraction_engine]: Resume extraction process completed.
+2026-04-29 12:51:30,400 INFO [extraction_engine]: Starting Resume Text Extraction Engine...
+2026-04-29 12:51:30,660 INFO [extraction_engine]: Found 1 resumes to process.
+2026-04-29 12:51:30,661 INFO [extraction_engine]: Processing: Resume1.pdf
+2026-04-29 12:51:30,891 INFO [extraction_engine]: Successfully processed and saved text to data/processed\Resume1.txt and skills to data/processed\Resume1_skills.json
+2026-04-29 12:51:30,891 INFO [extraction_engine]: Resume extraction process completed.

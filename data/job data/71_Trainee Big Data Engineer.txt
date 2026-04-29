@@ -1,0 +1,19 @@
+71. Trainee Big Data Engineer 
+Job Summary 
+The Trainee Big Data Engineer participates in hands-on training and real-world projects to 
+build foundational skills in big data engineering and analytics pipelines. 
+Key Responsibilities 
+• Learn to design and implement data ingestion and processing pipelines 
+• Assist in developing ETL workflows and data transformation scripts 
+• Gain experience with cloud platforms, Spark, Hadoop, and Kafka 
+• Conduct data quality checks and support debugging 
+• Work under the supervision of senior engineers or mentors 
+Required Skills 
+• Basic programming skills (Python, Java, or Scala) 
+• Understanding of SQL and data modeling basics 
+• Interest in cloud technologies, analytics, and big data 
+• Good learning attitude and teamwork skills 
+Qualifications 
+• Recent graduate or final-year student in Computer Science, Data Science, or related 
+field 
+• Academic projects or certifications in data engineering are a plus

@@ -1,0 +1,43 @@
+{
+  "job_id": "6ee9b693-1990-4360-999b-17bba83ebfdb",
+  "job_title": "Big Data Platform Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Platform Engineer builds, maintains, and optimizes enterprise-scale big data platforms for analytics, AI, and operational workloads.",
+  "responsibilities": [
+    "Architect and deploy scalable big data platforms (on-premise, cloud, or hybrid)",
+    "Ensure high availability, fault tolerance, and performance",
+    "Maintain data ingestion, processing, and storage pipelines",
+    "Implement monitoring, alerting, and automation for platform operations",
+    "Collaborate with data engineers, analysts, and DevOps teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 6,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "6\u201310 years of experience in big data platform engineering",
+      "Data Warehousing & Analytics Engineering \u2013 Detailed Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep knowledge of Hadoop, Spark, Kafka, and cloud platforms"
+    },
+    {
+      "name": "Strong programming and system design skills"
+    },
+    {
+      "name": "Experience with data governance, security, and compliance"
+    },
+    {
+      "name": "Familiarity with platform automation and DevOps tools"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

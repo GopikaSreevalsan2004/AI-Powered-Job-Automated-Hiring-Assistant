@@ -1,0 +1,20 @@
+35. Serverless Data Engineer 
+Job Summary 
+The Serverless Data Engineer builds fully serverless big data solutions for ETL, analytics, 
+and real-time processing without managing traditional infrastructure. 
+Key Responsibilities 
+• Design serverless data pipelines using cloud services like AWS Lambda, Kinesis, 
+Glue, Step Functions 
+• Develop batch and streaming workflows 
+• Optimize cost and performance using serverless paradigms 
+• Ensure scalability, security, and fault tolerance 
+• Collaborate with cross-functional teams for analytics and ML projects 
+Required Skills 
+• Experience with serverless computing platforms (AWS Lambda, Azure Functions, 
+GCP Cloud Functions) 
+• Strong Python or Java skills 
+• Knowledge of serverless architecture patterns 
+• Experience with event-driven pipelines and message queues 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of cloud big data experience

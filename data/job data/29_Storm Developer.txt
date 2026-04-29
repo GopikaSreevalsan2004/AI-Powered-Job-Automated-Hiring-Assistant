@@ -1,0 +1,18 @@
+29. Storm Developer 
+Job Summary 
+The Storm Developer designs, implements, and maintains Apache Storm topologies for 
+processing real-time streaming data efficiently and reliably. 
+Key Responsibilities 
+• Develop Storm topologies for data ingestion, processing, and analytics 
+• Optimize performance, resource utilization, and fault tolerance 
+• Integrate Storm with Kafka, HDFS, or databases 
+• Monitor topologies and troubleshoot issues 
+• Collaborate with data engineers and analysts 
+Required Skills 
+• Strong experience with Apache Storm 
+• Programming in Java or Python 
+• Understanding of distributed and parallel processing 
+• Knowledge of real-time data processing patterns 
+Qualifications 
+• Bachelor’s degree 
+• 3–5 years of experience with Storm or similar frameworks

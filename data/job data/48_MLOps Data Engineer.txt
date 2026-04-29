@@ -1,0 +1,18 @@
+48. MLOps Data Engineer 
+Job Summary 
+The MLOps Data Engineer bridges ML and operations by building robust data infrastructure 
+for production ML workflows and automating model deployment pipelines. 
+Key Responsibilities 
+• Develop production-ready data pipelines for ML models 
+• Automate ML model training, validation, and deployment pipelines 
+• Ensure data and model versioning, monitoring, and lineage 
+• Collaborate with ML engineers to operationalize AI solutions 
+• Optimize pipelines for performance, scalability, and reliability 
+Required Skills 
+• Programming in Python, Scala, or Java 
+• Knowledge of ML lifecycle and MLOps tools (MLflow, Kubeflow, Airflow, Prefect) 
+• Cloud experience (AWS, GCP, Azure) 
+• Strong SQL and data engineering skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in ML data pipelines or MLOps

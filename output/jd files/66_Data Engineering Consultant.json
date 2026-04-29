@@ -1,0 +1,43 @@
+{
+  "job_id": "c3c55a73-5950-4703-b9b1-cf082d1ecb45",
+  "job_title": "Data Engineering Consultant",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Engineering Consultant helps organizations implement, optimize, and scale data pipelines and engineering practices for analytics and ML initiatives.",
+  "responsibilities": [
+    "Design and implement data pipelines and ETL/ELT workflows",
+    "Optimize data storage, processing, and workflow performance",
+    "Mentor and guide client teams on best practices and standards",
+    "Support cloud adoption, data governance, and platform modernization",
+    "Provide actionable insights and technical recommendations"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u201310 years of experience in data engineering and consulting",
+      "Previous experience in client-facing data projects"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Spark, Hadoop, Kafka, SQL, and cloud data platforms"
+    },
+    {
+      "name": "Strong Python, Scala, or Java programming skills"
+    },
+    {
+      "name": "Familiarity with data modeling, warehousing, and analytics platforms"
+    },
+    {
+      "name": "Excellent client-facing and advisory capabilities"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,42 @@
+{
+  "job_id": "cba205a2-702f-45f1-acc4-4ccbaa0f2b4a",
+  "job_title": "AWS Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The AWS Big Data Engineer develops, deploys, and manages scalable data solutions using AWS managed services for analytics, ETL, and data warehousing.",
+  "responsibilities": [
+    "Build big data pipelines using AWS services (EMR, Glue, Redshift, Kinesis)",
+    "Optimize storage, compute, and data processing performance",
+    "Implement ETL/ELT workflows in AWS environments",
+    "Monitor data pipelines and ensure reliability and fault tolerance",
+    "Implement cloud security best practices and IAM policies"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience with AWS big data solutions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in AWS big data services (EMR, Glue, Redshift, S3, Athena)"
+    },
+    {
+      "name": "Programming in Python, Java, or Scala"
+    },
+    {
+      "name": "Experience with streaming data (Kinesis, Kafka)"
+    },
+    {
+      "name": "Strong knowledge of cloud infrastructure and deployment"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

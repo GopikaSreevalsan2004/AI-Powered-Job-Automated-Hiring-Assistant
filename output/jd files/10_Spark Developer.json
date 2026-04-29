@@ -1,0 +1,43 @@
+{
+  "job_id": "1d66ae9f-e85f-499b-8f44-64d32ad4aee1",
+  "job_title": "Spark Developer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Spark Developer builds high-performance data processing applications using Apache Spark for batch and real-time analytics.",
+  "responsibilities": [
+    "Develop Spark applications using Spark Core, Spark SQL, and Spark Streaming",
+    "Optimize Spark jobs for performance and scalability",
+    "Work with large datasets in distributed environments",
+    "Integrate Spark with Hadoop and cloud platforms",
+    "Collaborate with data scientists and engineers",
+    "Troubleshoot Spark execution issues"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "3\u20136 years of Spark development experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong Scala, Python (PySpark), or Java skills"
+    },
+    {
+      "name": "In-depth knowledge of Apache Spark internals"
+    },
+    {
+      "name": "Experience with Hadoop and distributed storage"
+    },
+    {
+      "name": "SQL and data transformation expertise"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

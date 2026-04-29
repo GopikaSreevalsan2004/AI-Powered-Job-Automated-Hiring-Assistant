@@ -1,0 +1,43 @@
+{
+  "job_id": "a72395df-6202-43f3-ae16-a5d5d95023c1",
+  "job_title": "Big Data Consultant",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Consultant provides expert guidance to organizations on designing, implementing, and optimizing big data strategies and platforms.",
+  "responsibilities": [
+    "Assess client data architecture and provide recommendations",
+    "Design scalable and cost-effective big data solutions",
+    "Guide technology selection and implementation best practices",
+    "Advise on cloud migration, platform upgrades, and analytics enablement",
+    "Deliver workshops, documentation, and executive recommendations"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 12
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u201312 years of experience in big data architecture, consulting, or engineering",
+      "Proven client-facing consultancy experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep knowledge of Hadoop, Spark, Kafka, Flink, and cloud platforms"
+    },
+    {
+      "name": "Strong communication and client management skills"
+    },
+    {
+      "name": "Experience with data governance, security, and compliance"
+    },
+    {
+      "name": "Ability to translate business requirements into technical solutions"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

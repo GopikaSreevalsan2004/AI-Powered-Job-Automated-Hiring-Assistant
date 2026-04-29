@@ -1,0 +1,43 @@
+{
+  "job_id": "ce44a0f3-e54d-41ba-8a52-e004e1c1e830",
+  "job_title": "Data Engineering Intern",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Engineering Intern works with mentors to gain practical experience in building and maintaining data pipelines, databases, and analytics platforms.",
+  "responsibilities": [
+    "Assist in designing and implementing data ingestion and processing workflows",
+    "Support data cleaning, transformation, and integration tasks",
+    "Learn to work with cloud data platforms and big data frameworks",
+    "Contribute to documentation and testing of pipelines",
+    "Participate in team meetings and technical discussions"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 0
+    },
+    "education": [
+      "Undergraduate or graduate student in Computer Science, Data Science, or related",
+      "field",
+      "Strong academic performance and interest in data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Programming basics (Python, SQL, or Java)"
+    },
+    {
+      "name": "Understanding of data structures and algorithms"
+    },
+    {
+      "name": "Eagerness to learn big data tools and cloud platforms"
+    },
+    {
+      "name": "Good communication and teamwork skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

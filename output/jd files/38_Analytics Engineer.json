@@ -1,0 +1,43 @@
+{
+  "job_id": "7d860215-7e09-4044-bf96-367c0177f958",
+  "job_title": "Analytics Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Analytics Engineer bridges the gap between data engineering and business analytics, building reliable and reusable data models and pipelines for reporting and decision-making.",
+  "responsibilities": [
+    "Develop and maintain analytics-focused data pipelines",
+    "Build data models to support dashboards, reporting, and BI",
+    "Collaborate with analysts, product teams, and data scientists",
+    "Optimize data transformations for performance and scalability",
+    "Ensure data quality, consistency, and lineage",
+    "Implement version control and CI/CD for analytics code"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 2,
+      "max": 5
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science, Data Science, or related field",
+      "2\u20135 years of experience in analytics engineering or data modeling"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "SQL expertise and data modeling experience"
+    },
+    {
+      "name": "Experience with ETL/ELT tools and workflow orchestration (Airflow, dbt)"
+    },
+    {
+      "name": "Python or R for analytics pipelines"
+    },
+    {
+      "name": "Familiarity with cloud data warehouses and analytics platforms"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

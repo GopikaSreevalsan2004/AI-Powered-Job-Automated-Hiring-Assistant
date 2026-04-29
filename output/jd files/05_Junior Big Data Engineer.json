@@ -1,0 +1,43 @@
+{
+  "job_id": "483e6e1d-bf9f-4c44-942f-100620f91244",
+  "job_title": "Junior Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Junior Big Data Engineer supports the development and maintenance of data pipelines and big data platforms under the guidance of senior engineers.",
+  "responsibilities": [
+    "Assist in building and maintaining data pipelines",
+    "Write and maintain ETL scripts",
+    "Perform data validation and quality checks",
+    "Support troubleshooting and issue resolution",
+    "Learn and apply best practices in big data engineering",
+    "Collaborate with team members on data projects"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 2
+    },
+    "education": [
+      "Bachelor\u2019s degree or final-year student in a relevant field",
+      "0\u20132 years of experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Basic knowledge of Python, Java, or Scala"
+    },
+    {
+      "name": "Familiarity with SQL and data concepts"
+    },
+    {
+      "name": "Exposure to Hadoop or Spark is a plus"
+    },
+    {
+      "name": "Strong willingness to learn"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

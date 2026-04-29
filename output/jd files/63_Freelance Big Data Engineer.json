@@ -1,0 +1,43 @@
+{
+  "job_id": "bacbffcb-5449-4251-8c5e-a8c8a97c5e0a",
+  "job_title": "Freelance Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Freelance Big Data Engineer works independently or with multiple clients to design, build, and maintain big data pipelines and platforms on a contract basis.",
+  "responsibilities": [
+    "Develop scalable data pipelines using Hadoop, Spark, Kafka, or cloud services",
+    "Integrate data from multiple sources (structured, semi-structured, unstructured)",
+    "Ensure data quality, consistency, and performance optimization",
+    "Deliver solutions according to client requirements and deadlines",
+    "Provide documentation and knowledge transfer for deployed systems"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science, Data Science, or related field",
+      "3\u20138 years of experience in big data engineering",
+      "Proven freelance or independent project experience preferred"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming in Python, Java, or Scala"
+    },
+    {
+      "name": "Expertise in distributed computing frameworks (Hadoop, Spark)"
+    },
+    {
+      "name": "SQL, data modeling, and cloud data platform experience"
+    },
+    {
+      "name": "Self-management, communication, and client-facing skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

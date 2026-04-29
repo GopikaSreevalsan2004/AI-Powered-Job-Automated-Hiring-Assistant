@@ -1,0 +1,19 @@
+37. Big Data Platform Engineer 
+Job Summary 
+The Big Data Platform Engineer builds, maintains, and optimizes enterprise-scale big data 
+platforms for analytics, AI, and operational workloads. 
+Key Responsibilities 
+• Architect and deploy scalable big data platforms (on-premise, cloud, or hybrid) 
+• Ensure high availability, fault tolerance, and performance 
+• Maintain data ingestion, processing, and storage pipelines 
+• Implement monitoring, alerting, and automation for platform operations 
+• Collaborate with data engineers, analysts, and DevOps teams 
+Required Skills 
+• Deep knowledge of Hadoop, Spark, Kafka, and cloud platforms 
+• Strong programming and system design skills 
+• Experience with data governance, security, and compliance 
+• Familiarity with platform automation and DevOps tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of experience in big data platform engineering 
+Data Warehousing & Analytics Engineering – Detailed Job Descriptions

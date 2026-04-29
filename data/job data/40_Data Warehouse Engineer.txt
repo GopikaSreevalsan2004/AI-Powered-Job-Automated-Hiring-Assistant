@@ -1,0 +1,19 @@
+40. Data Warehouse Engineer 
+Job Summary 
+The Data Warehouse Engineer designs, develops, and maintains enterprise data warehouses 
+to support reporting, analytics, and business intelligence. 
+Key Responsibilities 
+• Design and implement data warehouse architectures 
+• Develop ETL/ELT workflows to populate warehouse tables 
+• Optimize queries and storage for performance 
+• Monitor data quality and integrity 
+• Collaborate with BI, analytics, and product teams 
+• Document data models, pipelines, and schemas 
+Required Skills 
+• Strong SQL and data modeling skills 
+• Experience with ETL/ELT tools 
+• Knowledge of data warehousing concepts (star/snowflake schemas) 
+• Familiarity with cloud or on-premise warehouse technologies 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience in data warehousing

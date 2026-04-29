@@ -1,0 +1,42 @@
+{
+  "job_id": "c9821edd-f368-47af-895f-0f83fc24fad3",
+  "job_title": "MLOps Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The MLOps Data Engineer bridges ML and operations by building robust data infrastructure for production ML workflows and automating model deployment pipelines.",
+  "responsibilities": [
+    "Develop production-ready data pipelines for ML models",
+    "Automate ML model training, validation, and deployment pipelines",
+    "Ensure data and model versioning, monitoring, and lineage",
+    "Collaborate with ML engineers to operationalize AI solutions",
+    "Optimize pipelines for performance, scalability, and reliability"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in ML data pipelines or MLOps"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Programming in Python, Scala, or Java"
+    },
+    {
+      "name": "Knowledge of ML lifecycle and MLOps tools (MLflow, Kubeflow, Airflow, Prefect)"
+    },
+    {
+      "name": "Cloud experience (AWS, GCP, Azure)"
+    },
+    {
+      "name": "Strong SQL and data engineering skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

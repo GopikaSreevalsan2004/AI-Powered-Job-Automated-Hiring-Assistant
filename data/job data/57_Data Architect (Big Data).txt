@@ -1,0 +1,18 @@
+57. Data Architect (Big Data) 
+Job Summary 
+The Data Architect (Big Data) is responsible for designing data models, pipelines, and 
+governance frameworks to support analytics and machine learning at scale. 
+Key Responsibilities 
+• Design enterprise-level big data solutions and pipelines 
+• Develop logical and physical data models for analytics and ML workloads 
+• Ensure data consistency, quality, and lineage 
+• Guide implementation of ETL/ELT pipelines and storage strategies 
+• Collaborate with architects, engineers, and business stakeholders 
+Required Skills 
+• Data modeling and schema design (star/snowflake, normalized/denormalized) 
+• Expertise in Hadoop, Spark, Kafka, and cloud data platforms 
+• SQL, Python, or Scala programming 
+• Knowledge of data governance and metadata management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 7–10 years of experience in data architecture and engineering

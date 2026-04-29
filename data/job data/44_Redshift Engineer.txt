@@ -1,0 +1,19 @@
+44. Redshift Engineer 
+Job Summary 
+The Redshift Engineer designs, builds, and maintains AWS Redshift data warehouses, 
+ensuring efficient and secure analytics solutions. 
+Key Responsibilities 
+• Develop and optimize ETL/ELT workflows for Redshift 
+• Design schemas and data models for performance and scalability 
+• Monitor and tune queries and storage 
+• Ensure security, compliance, and data governance 
+• Collaborate with BI, analytics, and data engineering teams 
+Required Skills 
+• Expertise in AWS Redshift and SQL 
+• Experience with ETL/ELT tools and cloud pipelines 
+• Knowledge of data modeling and warehousing best practices 
+• Python or scripting skills for automation 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with Redshift or AWS cloud data warehouses 
+Machine Learning & AI Data Engineering – Detailed Job Descriptions

@@ -1,0 +1,42 @@
+{
+  "job_id": "9d4fd2ce-04c7-4eac-a1e6-fa914c76502c",
+  "job_title": "Data Mesh Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Mesh Engineer implements decentralized, domain-oriented data architectures to enable scalable and self-serve data access across large organizations.",
+  "responsibilities": [
+    "Design and implement data mesh architecture following domain-driven principles",
+    "Build self-service data pipelines and APIs for data consumers",
+    "Establish governance, data quality, and interoperability standards",
+    "Enable discoverability and cataloging of datasets across domains",
+    "Collaborate with product, analytics, and engineering teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in distributed data architectures"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience in data mesh concepts and architectures"
+    },
+    {
+      "name": "Strong SQL, Python, or Scala programming skills"
+    },
+    {
+      "name": "Familiarity with cloud-native data platforms and streaming systems"
+    },
+    {
+      "name": "Knowledge of governance, cataloging, and metadata management"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

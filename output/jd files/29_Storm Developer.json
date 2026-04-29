@@ -1,0 +1,42 @@
+{
+  "job_id": "e8ac8e1f-6093-4a8a-ac7c-d2e4dac0124c",
+  "job_title": "Storm Developer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Storm Developer designs, implements, and maintains Apache Storm topologies for processing real-time streaming data efficiently and reliably.",
+  "responsibilities": [
+    "Develop Storm topologies for data ingestion, processing, and analytics",
+    "Optimize performance, resource utilization, and fault tolerance",
+    "Integrate Storm with Kafka, HDFS, or databases",
+    "Monitor topologies and troubleshoot issues",
+    "Collaborate with data engineers and analysts"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 5
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20135 years of experience with Storm or similar frameworks"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong experience with Apache Storm"
+    },
+    {
+      "name": "Programming in Java or Python"
+    },
+    {
+      "name": "Understanding of distributed and parallel processing"
+    },
+    {
+      "name": "Knowledge of real-time data processing patterns"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

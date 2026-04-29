@@ -1,0 +1,18 @@
+76. AI-Powered Data Engineer 
+Job Summary 
+The AI-Powered Data Engineer leverages generative AI and machine learning to optimize 
+data pipelines, perform predictive transformations, and enhance analytics capabilities. 
+Key Responsibilities 
+• Build intelligent data pipelines with AI-assisted transformations 
+• Implement predictive data quality and anomaly detection systems 
+• Integrate AI services into ETL/ELT workflows 
+• Collaborate with ML and analytics teams to enhance data-driven insights 
+• Optimize AI-assisted data workflows for performance and cost 
+Required Skills 
+• Knowledge of generative AI tools and ML pipelines 
+• Programming in Python, Java, or Scala 
+• Experience with Spark, Hadoop, or cloud data platforms 
+• Strong understanding of AI/ML lifecycle integration with data systems 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in data engineering and AI integration

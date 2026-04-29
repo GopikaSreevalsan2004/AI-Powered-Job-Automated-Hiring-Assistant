@@ -1,0 +1,46 @@
+{
+  "job_id": "3cfd0a4b-a790-45a6-893b-e606a563d03f",
+  "job_title": "Streaming Platform Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Streaming Platform Engineer builds, manages, and optimizes event-driven streaming platforms to support real-time analytics and applications.",
+  "responsibilities": [
+    "Design and deploy streaming data platforms",
+    "Integrate multiple streaming technologies and data sources",
+    "Ensure scalability, reliability, and fault tolerance",
+    "Maintain platform security and compliance",
+    "Optimize cluster resources and streaming performance",
+    "Collaborate with data engineers, analysts, and DevOps teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20137 years of experience in streaming platform engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Kafka, Flink, or Spark Streaming"
+    },
+    {
+      "name": "Knowledge of cloud-based streaming services (AWS Kinesis, Azure Event Hubs,"
+    },
+    {
+      "name": "GCP Pub/Sub)"
+    },
+    {
+      "name": "Linux and cluster management skills"
+    },
+    {
+      "name": "Familiarity with monitoring and alerting tools"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

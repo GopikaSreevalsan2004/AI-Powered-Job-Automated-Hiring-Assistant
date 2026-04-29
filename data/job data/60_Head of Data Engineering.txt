@@ -1,0 +1,18 @@
+60. Head of Data Engineering 
+Job Summary 
+The Head of Data Engineering oversees all data engineering teams and initiatives, ensuring 
+high-performance, scalable, and reliable data systems aligned with business objectives. 
+Key Responsibilities 
+• Lead multiple data engineering teams and projects 
+• Define strategy for data platform, pipelines, and analytics support 
+• Ensure adoption of best practices for engineering, security, and governance 
+• Manage budgets, resources, and roadmap for data initiatives 
+• Collaborate with C-level executives to align data strategy with business goals 
+Required Skills 
+• Leadership and team management experience 
+• Expertise in big data, cloud platforms, and modern data engineering 
+• Strategic planning, budgeting, and project management 
+• Excellent communication and stakeholder management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 10–15 years of experience in data engineering and leadership

@@ -1,0 +1,42 @@
+{
+  "job_id": "15578d1e-b4b1-4da9-9755-e4cb244d14b9",
+  "job_title": "Big Data Analytics Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Analytics Engineer develops scalable data pipelines and platforms to support large-scale analytics, dashboards, and machine learning initiatives.",
+  "responsibilities": [
+    "Build and optimize big data pipelines for analytics workloads",
+    "Design and implement data models for large-scale datasets",
+    "Support data extraction, transformation, and visualization for BI",
+    "Collaborate with data scientists for ML feature engineering",
+    "Ensure data quality, governance, and performance tuning"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "3\u20136 years of experience in big data analytics engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in SQL, Spark, Hadoop, or cloud analytics tools"
+    },
+    {
+      "name": "Strong Python or Scala programming skills"
+    },
+    {
+      "name": "Knowledge of ETL/ELT and data modeling best practices"
+    },
+    {
+      "name": "Experience with data lakes and warehouses"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

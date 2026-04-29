@@ -1,0 +1,47 @@
+{
+  "job_id": "3735bb00-a14c-46eb-8c0c-679982eabfa0",
+  "job_title": "Platform Reliability Engineer (Data)",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Platform Reliability Engineer focuses on ensuring the performance, scalability, and reliability of enterprise-wide data platforms and pipelines.",
+  "responsibilities": [
+    "Design and maintain reliable, scalable, and fault-tolerant data platforms",
+    "Implement platform monitoring, alerting, and automated remediation",
+    "Optimize compute, storage, and workflow performance",
+    "Collaborate with DevOps, data engineering, and ML teams",
+    "Support disaster recovery, backup, and high-availability strategies"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u201310 years of experience in platform reliability or data infrastructure",
+      "Architecture & Leadership Roles \u2013 Detailed",
+      "Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong knowledge of distributed data systems (Hadoop, Spark, Kafka)"
+    },
+    {
+      "name": "Cloud and platform architecture expertise (AWS, GCP, Azure)"
+    },
+    {
+      "name": "CI/CD pipelines and infrastructure automation"
+    },
+    {
+      "name": "Observability and monitoring tools"
+    },
+    {
+      "name": "Programming/scripting (Python, Bash, Go)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

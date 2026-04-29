@@ -1,0 +1,45 @@
+{
+  "job_id": "fa30aef7-e7da-44ee-90ea-38f1b637dae1",
+  "job_title": "Data Reliability Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Reliability Engineer ensures the availability, stability, and performance of large scale data systems and pipelines across the organization.",
+  "responsibilities": [
+    "Monitor and maintain operational health of data pipelines and platforms",
+    "Implement alerts, monitoring, and automated remediation for data workflows",
+    "Identify and resolve performance bottlenecks and system failures",
+    "Collaborate with engineering, data science, and platform teams",
+    "Enforce best practices for reliability, scalability, and observability"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "4\u20137 years of experience in reliability engineering for data systems"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong experience in monitoring and observability tools (Prometheus, Grafana, ELK,"
+    },
+    {
+      "name": "Datadog)"
+    },
+    {
+      "name": "Scripting and automation (Python, Bash)"
+    },
+    {
+      "name": "Distributed data systems experience (Hadoop, Spark, Kafka)"
+    },
+    {
+      "name": "Cloud experience (AWS, GCP, Azure)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

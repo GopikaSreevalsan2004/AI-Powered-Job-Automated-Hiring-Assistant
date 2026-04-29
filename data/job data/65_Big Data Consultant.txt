@@ -1,0 +1,19 @@
+65. Big Data Consultant 
+Job Summary 
+The Big Data Consultant provides expert guidance to organizations on designing, 
+implementing, and optimizing big data strategies and platforms. 
+Key Responsibilities 
+• Assess client data architecture and provide recommendations 
+• Design scalable and cost-effective big data solutions 
+• Guide technology selection and implementation best practices 
+• Advise on cloud migration, platform upgrades, and analytics enablement 
+• Deliver workshops, documentation, and executive recommendations 
+Required Skills 
+• Deep knowledge of Hadoop, Spark, Kafka, Flink, and cloud platforms 
+• Strong communication and client management skills 
+• Experience with data governance, security, and compliance 
+• Ability to translate business requirements into technical solutions 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–12 years of experience in big data architecture, consulting, or engineering 
+• Proven client-facing consultancy experience

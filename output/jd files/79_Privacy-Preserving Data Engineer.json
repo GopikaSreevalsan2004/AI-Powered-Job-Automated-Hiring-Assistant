@@ -1,0 +1,45 @@
+{
+  "job_id": "3c658da7-40b4-4cfa-996d-cade53f27451",
+  "job_title": "Privacy-Preserving Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Privacy-Preserving Data Engineer builds data pipelines and platforms that maintain compliance, anonymity, and confidentiality using advanced privacy techniques.",
+  "responsibilities": [
+    "Implement data anonymization, encryption, and differential privacy techniques",
+    "Ensure compliance with GDPR, CCPA, and other regulations",
+    "Design secure pipelines for analytics, ML, and AI workflows",
+    "Collaborate with legal, compliance, and engineering teams",
+    "Monitor and audit privacy-preserving measures in data systems"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in secure data engineering and compliance"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Knowledge of privacy-preserving technologies (differential privacy, federated"
+    },
+    {
+      "name": "learning, homomorphic encryption)"
+    },
+    {
+      "name": "Strong programming in Python, Scala, or Java"
+    },
+    {
+      "name": "SQL and data engineering expertise"
+    },
+    {
+      "name": "Cloud and distributed data platform experience"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

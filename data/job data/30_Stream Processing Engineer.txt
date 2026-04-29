@@ -1,0 +1,20 @@
+30. Stream Processing Engineer 
+Job Summary 
+The Stream Processing Engineer builds, optimizes, and maintains data pipelines that process 
+real-time streaming data for analytics, monitoring, and decision-making. 
+Key Responsibilities 
+• Design and implement real-time stream processing workflows 
+• Optimize data throughput and latency 
+• Ensure fault tolerance and reliability of streaming systems 
+• Collaborate with stakeholders for real-time data requirements 
+• Monitor and maintain processing infrastructure 
+Required Skills 
+• Experience with Spark Streaming, Flink, or Storm 
+• Programming in Java, Scala, or Python 
+• Knowledge of Kafka, cloud streaming services, and distributed systems 
+• SQL and data transformation expertise 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of stream processing experience 
+Cloud & Modern Big Data Roles – Detailed 
+Job Descriptions

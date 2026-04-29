@@ -1,0 +1,18 @@
+21. ELT Engineer 
+Job Summary 
+The ELT Engineer focuses on loading raw data into data platforms and transforming it within 
+data warehouses or lakes using modern analytics tools. 
+Key Responsibilities 
+• Design ELT workflows using cloud data warehouses 
+• Implement transformations using SQL, dbt, or similar tools 
+• Manage raw, staging, and curated data layers 
+• Optimize transformation performance 
+• Ensure data lineage and documentation 
+Required Skills 
+• Strong SQL expertise 
+• Experience with dbt, Snowflake, BigQuery, or Redshift 
+• Knowledge of modern analytics engineering practices 
+• Understanding of data modeling techniques 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of ELT or analytics engineering experience

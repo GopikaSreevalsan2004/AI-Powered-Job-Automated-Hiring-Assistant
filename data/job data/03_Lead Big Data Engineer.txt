@@ -1,0 +1,21 @@
+3
+️. Lead Big Data Engineer 
+Job Summary 
+The Lead Big Data Engineer is responsible for leading a team of engineers, owning end-to
+end big data solutions, and aligning data engineering efforts with business objectives. 
+Key Responsibilities 
+• Lead and manage a team of Big Data Engineers 
+• Architect and deliver scalable data platforms 
+• Define technical standards, frameworks, and best practices 
+• Oversee project delivery and technical execution 
+• Act as the primary technical point of contact for stakeholders 
+• Ensure system scalability, reliability, and cost efficiency 
+• Drive adoption of new big data technologies 
+Required Skills 
+• Strong leadership and team management skills 
+• Expertise in Hadoop, Spark, Kafka, and cloud data services 
+• Experience with data platform modernization 
+• Excellent communication and stakeholder management 
+Qualifications 
+• Bachelor’s or Master’s degree in Engineering or Computer Science 
+• 7–10 years of experience in data engineering, including leadership roles

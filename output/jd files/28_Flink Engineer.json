@@ -1,0 +1,42 @@
+{
+  "job_id": "5addf5a9-4ad0-4fb5-99b0-7e6c93498456",
+  "job_title": "Flink Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Flink Engineer builds high-performance, scalable, and low-latency data pipelines using Apache Flink for real-time analytics and operational intelligence.",
+  "responsibilities": [
+    "Develop and maintain Flink applications",
+    "Optimize Flink jobs for performance and fault tolerance",
+    "Implement stateful streaming pipelines",
+    "Integrate Flink with Kafka, HDFS, or cloud storage",
+    "Monitor, debug, and tune streaming workloads"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "3\u20136 years of Flink or stream processing experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong expertise in Apache Flink"
+    },
+    {
+      "name": "Programming in Java or Scala"
+    },
+    {
+      "name": "Knowledge of distributed stream processing concepts"
+    },
+    {
+      "name": "Experience with real-time analytics"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

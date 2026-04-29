@@ -1,0 +1,18 @@
+13. MapReduce Developer 
+Job Summary 
+The MapReduce Developer specializes in writing and optimizing MapReduce programs to 
+process massive datasets efficiently within Hadoop environments. 
+Key Responsibilities 
+• Design and implement MapReduce jobs 
+• Optimize data processing workflows 
+• Debug and improve job performance 
+• Manage data transformations at scale 
+• Work closely with Hadoop engineers and analysts 
+Required Skills 
+• Strong Java programming skills 
+• In-depth understanding of MapReduce framework 
+• Knowledge of HDFS and YARN 
+• Experience with large-scale batch processing 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 2–5 years of MapReduce development experience

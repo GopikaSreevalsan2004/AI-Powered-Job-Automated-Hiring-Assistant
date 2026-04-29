@@ -1,0 +1,43 @@
+{
+  "job_id": "c6fdf2e3-e0f7-4be4-b16c-bcd2223b8042",
+  "job_title": "Big Data Engineer Intern",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Engineer Intern assists in developing and maintaining big data pipelines and platforms while gaining hands-on experience with distributed systems and cloud technologies.",
+  "responsibilities": [
+    "Assist in building and maintaining data pipelines and ETL/ELT workflows",
+    "Work with structured and unstructured data sources",
+    "Support testing, debugging, and documentation of data solutions",
+    "Learn and apply big data technologies like Hadoop, Spark, and Kafka",
+    "Collaborate with senior engineers on data platform projects"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 0
+    },
+    "education": [
+      "Currently pursuing a Bachelor\u2019s or Master\u2019s degree in Computer Science, Data",
+      "Science, or related field",
+      "No prior work experience required; internships or projects are a plus"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Basic programming skills (Python, Java, or Scala)"
+    },
+    {
+      "name": "Understanding of SQL and relational databases"
+    },
+    {
+      "name": "Interest in distributed systems, cloud platforms, and big data"
+    },
+    {
+      "name": "Analytical thinking and problem-solving skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

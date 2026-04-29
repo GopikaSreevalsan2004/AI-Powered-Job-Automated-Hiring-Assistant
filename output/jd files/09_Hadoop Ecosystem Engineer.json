@@ -1,0 +1,43 @@
+{
+  "job_id": "066fd302-13aa-476d-8c6b-51e504df693d",
+  "job_title": "Hadoop Ecosystem Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Hadoop Ecosystem Engineer specializes in integrating and managing multiple Hadoop ecosystem components to deliver end-to-end big data solutions.",
+  "responsibilities": [
+    "Design solutions using Hive, HBase, Sqoop, Flume, Kafka, and Spark",
+    "Integrate Hadoop with relational and NoSQL databases",
+    "Develop data ingestion and transformation pipelines",
+    "Optimize performance across ecosystem components",
+    "Ensure data consistency and reliability",
+    "Support analytics and reporting use cases"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in a relevant field",
+      "4\u20137 years of Hadoop ecosystem experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong experience across the Hadoop ecosystem"
+    },
+    {
+      "name": "Programming in Java, Python, or Scala"
+    },
+    {
+      "name": "Knowledge of batch and streaming data processing"
+    },
+    {
+      "name": "Experience with data lakes"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

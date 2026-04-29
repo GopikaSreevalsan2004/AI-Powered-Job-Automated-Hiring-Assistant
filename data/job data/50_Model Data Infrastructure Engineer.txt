@@ -1,0 +1,19 @@
+50. Model Data Infrastructure Engineer 
+Job Summary 
+The Model Data Infrastructure Engineer designs, builds, and maintains scalable infrastructure 
+to support machine learning model training, experimentation, and deployment. 
+Key Responsibilities 
+• Develop and maintain large-scale data pipelines for ML model input 
+• Ensure data consistency, quality, and accessibility for training and inference 
+• Implement infrastructure for model versioning, evaluation, and monitoring 
+• Collaborate with data scientists and ML engineers to improve workflows 
+• Optimize storage, compute, and processing for AI datasets 
+Required Skills 
+• Strong programming skills in Python, Scala, or Java 
+• Knowledge of distributed computing frameworks (Spark, Hadoop) 
+• Experience with MLOps, ML lifecycle tools, and feature stores 
+• Cloud experience (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of experience in ML infrastructure or AI data engineering 
+DevOps, Infrastructure & Reliability (Data) – Detailed Job Descriptions

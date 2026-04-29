@@ -1,0 +1,20 @@
+45. ML Data Engineer 
+Job Summary 
+The ML Data Engineer builds and manages large-scale data pipelines that feed machine 
+learning models with clean, reliable, and feature-rich datasets. 
+Key Responsibilities 
+• Develop and maintain data pipelines for ML workflows 
+• Transform raw data into model-ready features 
+• Collaborate with data scientists to support ML experiments 
+• Ensure data quality, consistency, and reproducibility 
+• Optimize pipelines for performance and scalability 
+• Monitor data workflows and troubleshoot issues 
+Required Skills 
+• Strong programming in Python, Java, or Scala 
+• Experience with Spark, Hadoop, or cloud-based data pipelines 
+• Knowledge of SQL and data modeling 
+• Familiarity with ML frameworks (TensorFlow, PyTorch, scikit-learn) 
+• Understanding of feature engineering best practices 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Science, or related field 
+• 3–6 years of experience in ML data pipelines or big data engineering

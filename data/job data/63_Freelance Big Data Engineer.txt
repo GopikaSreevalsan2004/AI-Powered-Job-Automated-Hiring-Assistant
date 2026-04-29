@@ -1,0 +1,19 @@
+63. Freelance Big Data Engineer 
+Job Summary 
+The Freelance Big Data Engineer works independently or with multiple clients to design, 
+build, and maintain big data pipelines and platforms on a contract basis. 
+Key Responsibilities 
+• Develop scalable data pipelines using Hadoop, Spark, Kafka, or cloud services 
+• Integrate data from multiple sources (structured, semi-structured, unstructured) 
+• Ensure data quality, consistency, and performance optimization 
+• Deliver solutions according to client requirements and deadlines 
+• Provide documentation and knowledge transfer for deployed systems 
+Required Skills 
+• Strong programming in Python, Java, or Scala 
+• Expertise in distributed computing frameworks (Hadoop, Spark) 
+• SQL, data modeling, and cloud data platform experience 
+• Self-management, communication, and client-facing skills 
+Qualifications 
+• Bachelor’s degree in Computer Science, Data Science, or related field 
+• 3–8 years of experience in big data engineering 
+• Proven freelance or independent project experience preferred

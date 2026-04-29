@@ -1,0 +1,43 @@
+{
+  "job_id": "39eac343-f12b-4d69-8e1c-098c1e625511",
+  "job_title": "Redshift Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Redshift Engineer designs, builds, and maintains AWS Redshift data warehouses, ensuring efficient and secure analytics solutions.",
+  "responsibilities": [
+    "Develop and optimize ETL/ELT workflows for Redshift",
+    "Design schemas and data models for performance and scalability",
+    "Monitor and tune queries and storage",
+    "Ensure security, compliance, and data governance",
+    "Collaborate with BI, analytics, and data engineering teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience with Redshift or AWS cloud data warehouses",
+      "Machine Learning & AI Data Engineering \u2013 Detailed Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in AWS Redshift and SQL"
+    },
+    {
+      "name": "Experience with ETL/ELT tools and cloud pipelines"
+    },
+    {
+      "name": "Knowledge of data modeling and warehousing best practices"
+    },
+    {
+      "name": "Python or scripting skills for automation"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

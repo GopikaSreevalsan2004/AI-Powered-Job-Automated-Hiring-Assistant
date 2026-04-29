@@ -1,0 +1,24 @@
+1. Big Data Engineer 
+Job Summary 
+The Big Data Engineer designs, builds, and maintains scalable data processing systems that 
+handle large volumes of structured and unstructured data. This role focuses on developing 
+robust data pipelines, ensuring data quality, and supporting analytics and machine learning 
+initiatives. 
+Key Responsibilities 
+• Design and develop scalable big data pipelines using Hadoop, Spark, and related tools 
+• Process large datasets efficiently using batch and real-time frameworks 
+• Build and maintain ETL/ELT workflows 
+• Integrate data from multiple sources (databases, APIs, logs, streams) 
+• Optimize data storage and retrieval performance 
+• Ensure data accuracy, reliability, and availability 
+• Collaborate with data scientists, analysts, and product teams 
+• Troubleshoot data pipeline and performance issues 
+Required Skills 
+• Strong programming skills in Python, Java, or Scala 
+• Hands-on experience with Hadoop, Spark, Hive, HBase 
+• Experience with Kafka or other streaming tools 
+• Strong SQL and data modeling skills 
+• Knowledge of Linux, Git, and CI/CD 
+Qualifications 
+• Bachelor’s degree in Computer Science, Engineering, or related field 
+• 2–4 years of experience in Big Data or Data Engineering

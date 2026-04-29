@@ -1,0 +1,19 @@
+12. Distributed Systems Engineer (Data) 
+Job Summary 
+The Distributed Systems Engineer (Data) designs and builds scalable, fault-tolerant 
+distributed data systems that power large-scale analytics and data processing platforms. 
+Key Responsibilities 
+• Design and implement distributed data architectures 
+• Ensure system scalability, fault tolerance, and consistency 
+• Optimize data storage and processing frameworks 
+• Address latency, throughput, and reliability challenges 
+• Collaborate across engineering and infrastructure teams 
+• Evaluate new distributed data technologies 
+Required Skills 
+• Strong understanding of distributed systems principles 
+• Experience with Hadoop, Spark, Kafka, or similar systems 
+• Proficiency in Java, Scala, or Go 
+• Knowledge of CAP theorem, consensus, and replication 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of distributed systems experience

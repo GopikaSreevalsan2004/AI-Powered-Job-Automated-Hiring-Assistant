@@ -1,0 +1,42 @@
+{
+  "job_id": "0645ad2e-112f-4fdf-9a22-d972e9aec647",
+  "job_title": "AI-Powered Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The AI-Powered Data Engineer leverages generative AI and machine learning to optimize data pipelines, perform predictive transformations, and enhance analytics capabilities.",
+  "responsibilities": [
+    "Build intelligent data pipelines with AI-assisted transformations",
+    "Implement predictive data quality and anomaly detection systems",
+    "Integrate AI services into ETL/ELT workflows",
+    "Collaborate with ML and analytics teams to enhance data-driven insights",
+    "Optimize AI-assisted data workflows for performance and cost"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in data engineering and AI integration"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Knowledge of generative AI tools and ML pipelines"
+    },
+    {
+      "name": "Programming in Python, Java, or Scala"
+    },
+    {
+      "name": "Experience with Spark, Hadoop, or cloud data platforms"
+    },
+    {
+      "name": "Strong understanding of AI/ML lifecycle integration with data systems"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

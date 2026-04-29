@@ -1,0 +1,19 @@
+64. Contract Big Data Engineer 
+Job Summary 
+The Contract Big Data Engineer is engaged on a temporary basis to support enterprise or 
+startup data initiatives, delivering high-quality engineering solutions. 
+Key Responsibilities 
+• Implement and optimize big data pipelines and ETL/ELT workflows 
+• Support ongoing data platform projects or migration initiatives 
+• Ensure system reliability, scalability, and security 
+• Collaborate with internal teams and stakeholders on requirements 
+• Provide operational support and troubleshooting for contracted period 
+Required Skills 
+• Expertise in Hadoop, Spark, Kafka, or other distributed systems 
+• SQL and programming skills (Python, Java, Scala) 
+• Cloud platform knowledge (AWS, GCP, Azure) 
+• Ability to quickly understand client systems and deliver solutions 
+Qualifications 
+• Bachelor’s degree 
+• 3–7 years of big data engineering experience 
+• Prior contract or consultancy experience is a plus

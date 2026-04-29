@@ -1,0 +1,20 @@
+25. Streaming Platform Engineer 
+Job Summary 
+The Streaming Platform Engineer builds, manages, and optimizes event-driven streaming 
+platforms to support real-time analytics and applications. 
+Key Responsibilities 
+• Design and deploy streaming data platforms 
+• Integrate multiple streaming technologies and data sources 
+• Ensure scalability, reliability, and fault tolerance 
+• Maintain platform security and compliance 
+• Optimize cluster resources and streaming performance 
+• Collaborate with data engineers, analysts, and DevOps teams 
+Required Skills 
+• Expertise in Kafka, Flink, or Spark Streaming 
+• Knowledge of cloud-based streaming services (AWS Kinesis, Azure Event Hubs, 
+GCP Pub/Sub) 
+• Linux and cluster management skills 
+• Familiarity with monitoring and alerting tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in streaming platform engineering

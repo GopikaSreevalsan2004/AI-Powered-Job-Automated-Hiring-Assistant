@@ -1,0 +1,39 @@
+{
+  "job_id": "a145e910-7583-4bc5-9615-2e8c7722cfcb",
+  "job_title": "Principal Data Architect",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Principal Data Architect leads the design of complex data solutions, mentors teams, and drives innovation in data architecture practices.",
+  "responsibilities": [
+    "Lead architecture for enterprise data platforms and pipelines",
+    "Evaluate emerging technologies and recommend adoption strategies",
+    "Ensure scalability, performance, and reliability of data systems",
+    "Mentor architects and senior engineers on design and best practices",
+    "Collaborate with business and technical leadership on strategy"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 12,
+      "max": 12
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "12+ years of experience in data architecture and enterprise data systems"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expert in distributed systems, cloud platforms, and big data technologies"
+    },
+    {
+      "name": "Advanced data modeling and system design expertise"
+    },
+    {
+      "name": "Strong leadership, mentoring, and strategic planning skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

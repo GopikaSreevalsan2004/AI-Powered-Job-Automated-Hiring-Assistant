@@ -1,0 +1,46 @@
+{
+  "job_id": "af9c8b76-c22d-47f2-bb07-f18d187121b9",
+  "job_title": "Serverless Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Serverless Data Engineer builds fully serverless big data solutions for ETL, analytics, and real-time processing without managing traditional infrastructure.",
+  "responsibilities": [
+    "Design serverless data pipelines using cloud services like AWS Lambda, Kinesis,",
+    "Glue, Step Functions",
+    "Develop batch and streaming workflows",
+    "Optimize cost and performance using serverless paradigms",
+    "Ensure scalability, security, and fault tolerance",
+    "Collaborate with cross-functional teams for analytics and ML projects"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of cloud big data experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with serverless computing platforms (AWS Lambda, Azure Functions,"
+    },
+    {
+      "name": "GCP Cloud Functions)"
+    },
+    {
+      "name": "Strong Python or Java skills"
+    },
+    {
+      "name": "Knowledge of serverless architecture patterns"
+    },
+    {
+      "name": "Experience with event-driven pipelines and message queues"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

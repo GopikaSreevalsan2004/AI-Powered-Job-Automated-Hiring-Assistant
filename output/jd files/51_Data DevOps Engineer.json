@@ -1,0 +1,46 @@
+{
+  "job_id": "1674bad8-8a07-43a4-911b-5549c9a099b0",
+  "job_title": "Data DevOps Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data DevOps Engineer builds and maintains automated pipelines for data engineering workflows, ensuring smooth deployment, monitoring, and operation of data systems.",
+  "responsibilities": [
+    "Design, implement, and maintain CI/CD pipelines for data pipelines and analytics",
+    "workflows",
+    "Automate deployment of big data applications and ETL/ELT workflows",
+    "Monitor data systems, pipelines, and workflows for performance and reliability",
+    "Collaborate with data engineers, platform engineers, and ML engineers",
+    "Ensure infrastructure as code (IaC) best practices are followed"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science, Engineering, or related field",
+      "3\u20136 years of experience in DevOps or data platform operations"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "CI/CD tools (Jenkins, GitHub Actions, GitLab CI, CircleCI)"
+    },
+    {
+      "name": "Scripting and automation (Python, Bash, PowerShell)"
+    },
+    {
+      "name": "Containerization (Docker, Kubernetes)"
+    },
+    {
+      "name": "Experience with data engineering tools (Spark, Hadoop, Kafka)"
+    },
+    {
+      "name": "Cloud platforms (AWS, GCP, Azure)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

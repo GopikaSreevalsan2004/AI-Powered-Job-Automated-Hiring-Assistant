@@ -1,0 +1,43 @@
+{
+  "job_id": "e4191c1b-3dff-4555-bf1d-293b68ee055a",
+  "job_title": "Apache Spark Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Apache Spark Engineer designs and manages enterprise-grade Spark-based data processing platforms, focusing on scalability, reliability, and cost efficiency.",
+  "responsibilities": [
+    "Architect and maintain Spark-based data platforms",
+    "Optimize memory management and job execution",
+    "Implement real-time and batch data pipelines",
+    "Monitor Spark clusters and workloads",
+    "Ensure fault tolerance and system reliability",
+    "Guide best practices for Spark development"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u20138 years of Spark and big data experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expert knowledge of Apache Spark and distributed computing"
+    },
+    {
+      "name": "Experience with cloud-based Spark services (Databricks, EMR)"
+    },
+    {
+      "name": "Strong performance tuning and debugging skills"
+    },
+    {
+      "name": "Programming expertise in Scala or Python"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

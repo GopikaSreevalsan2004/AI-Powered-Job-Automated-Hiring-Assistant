@@ -1,0 +1,45 @@
+{
+  "job_id": "c243dc1b-c5f2-4253-937b-d0bcd7795ed6",
+  "job_title": "Apprentice Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Apprentice Big Data Engineer learns foundational skills in big data engineering while contributing to small-scale data projects and assisting the engineering team.",
+  "responsibilities": [
+    "Support development of data pipelines and ETL processes",
+    "Assist in data extraction, cleaning, and transformation",
+    "Learn to use big data tools and cloud platforms under guidance",
+    "Participate in training sessions, workshops, and team discussions",
+    "Document workflows and follow standard engineering practices"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 0
+    },
+    "education": [
+      "Recent graduate, undergraduate, or final-year student in a relevant field",
+      "Willingness to undergo hands-on training and mentorship",
+      "Emerging & Future-Focused Data",
+      "Engineering Roles \u2013 Detailed Job",
+      "Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Basic knowledge of Python, SQL, or Java"
+    },
+    {
+      "name": "Familiarity with relational databases and data structures"
+    },
+    {
+      "name": "Eagerness to learn big data technologies and analytics"
+    },
+    {
+      "name": "Good communication and collaboration skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

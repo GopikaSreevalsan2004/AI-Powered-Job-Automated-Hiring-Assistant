@@ -1,0 +1,42 @@
+{
+  "job_id": "f8790c49-203d-4fff-84b9-574b04f91642",
+  "job_title": "Lakehouse Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Lakehouse Engineer designs, implements, and maintains modern data lakehouse architectures that combine the features of data lakes and data warehouses.",
+  "responsibilities": [
+    "Implement lakehouse platforms using Delta Lake, Apache Hudi, or Iceberg",
+    "Build ETL/ELT pipelines for batch and streaming data",
+    "Optimize storage, query performance, and scalability",
+    "Ensure data governance, security, and consistency",
+    "Support analytics, BI, and ML workloads"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20137 years of experience in modern big data architectures"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in lakehouse frameworks (Delta Lake, Hudi, Iceberg)"
+    },
+    {
+      "name": "Strong SQL, Python, or Scala programming"
+    },
+    {
+      "name": "Knowledge of Spark, Flink, or other distributed engines"
+    },
+    {
+      "name": "Cloud experience with AWS, Azure, or GCP"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

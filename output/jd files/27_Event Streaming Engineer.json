@@ -1,0 +1,42 @@
+{
+  "job_id": "a2ae9630-71a2-4236-afa6-3d31e8e719e9",
+  "job_title": "Event Streaming Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Event Streaming Engineer designs and implements event-driven systems that process, store, and distribute real-time events across multiple systems and applications.",
+  "responsibilities": [
+    "Develop event-driven architectures using Kafka, Pulsar, or similar systems",
+    "Build event pipelines for real-time processing and analytics",
+    "Ensure event consistency, ordering, and delivery guarantees",
+    "Collaborate with software engineering and data teams",
+    "Optimize event processing performance and scalability"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience in event-driven engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Kafka, Pulsar, or similar messaging systems"
+    },
+    {
+      "name": "Programming in Java, Scala, or Python"
+    },
+    {
+      "name": "Knowledge of stream processing frameworks like Flink or Spark Streaming"
+    },
+    {
+      "name": "Strong understanding of distributed system principles"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

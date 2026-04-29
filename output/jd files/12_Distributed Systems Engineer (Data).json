@@ -1,0 +1,43 @@
+{
+  "job_id": "d37a4814-d40a-4a97-b5b1-137514b9b506",
+  "job_title": "Distributed Systems Engineer (Data)",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Distributed Systems Engineer (Data) designs and builds scalable, fault-tolerant distributed data systems that power large-scale analytics and data processing platforms.",
+  "responsibilities": [
+    "Design and implement distributed data architectures",
+    "Ensure system scalability, fault tolerance, and consistency",
+    "Optimize data storage and processing frameworks",
+    "Address latency, throughput, and reliability challenges",
+    "Collaborate across engineering and infrastructure teams",
+    "Evaluate new distributed data technologies"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 6,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "6\u201310 years of distributed systems experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong understanding of distributed systems principles"
+    },
+    {
+      "name": "Experience with Hadoop, Spark, Kafka, or similar systems"
+    },
+    {
+      "name": "Proficiency in Java, Scala, or Go"
+    },
+    {
+      "name": "Knowledge of CAP theorem, consensus, and replication"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,20 @@
+33. Azure Big Data Engineer 
+Job Summary 
+The Azure Big Data Engineer designs and maintains large-scale big data solutions on 
+Microsoft Azure for analytics and machine learning workloads. 
+Key Responsibilities 
+• Develop and manage data pipelines using Azure Data Factory, Synapse Analytics, 
+Databricks 
+• Integrate Azure storage and compute services for big data workflows 
+• Optimize pipelines for performance and cost efficiency 
+• Ensure security and compliance of data assets 
+• Collaborate with analytics and AI/ML teams 
+Required Skills 
+• Experience with Azure services (Data Factory, Synapse, Databricks, Data Lake 
+Storage) 
+• Programming in Python, Scala, or SQL 
+• Strong knowledge of distributed data processing 
+• Familiarity with monitoring and alerting tools 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of Azure big data experience

@@ -1,0 +1,43 @@
+{
+  "job_id": "625118fc-9fa9-4bcb-96d0-0442c0bb1a07",
+  "job_title": "Real-Time Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Real-Time Data Engineer designs and implements high-throughput, low-latency data pipelines to process streaming and event-driven data for analytics and operational systems.",
+  "responsibilities": [
+    "Develop and maintain real-time data pipelines",
+    "Implement streaming architectures using Kafka, Flink, Spark Streaming, or Storm",
+    "Ensure data consistency, reliability, and low-latency delivery",
+    "Collaborate with data scientists and analysts for real-time analytics",
+    "Monitor and optimize streaming workloads and infrastructure",
+    "Troubleshoot and resolve streaming system issues"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science, Engineering, or related field",
+      "3\u20136 years of real-time data engineering experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Programming in Java, Scala, or Python"
+    },
+    {
+      "name": "Strong knowledge of Kafka, Spark Streaming, Flink, or Storm"
+    },
+    {
+      "name": "Experience with distributed systems and event-driven architectures"
+    },
+    {
+      "name": "SQL and real-time data transformation expertise"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

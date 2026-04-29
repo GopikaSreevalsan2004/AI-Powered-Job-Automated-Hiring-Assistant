@@ -1,0 +1,17 @@
+59. Principal Data Architect 
+Job Summary 
+The Principal Data Architect leads the design of complex data solutions, mentors teams, and 
+drives innovation in data architecture practices. 
+Key Responsibilities 
+• Lead architecture for enterprise data platforms and pipelines 
+• Evaluate emerging technologies and recommend adoption strategies 
+• Ensure scalability, performance, and reliability of data systems 
+• Mentor architects and senior engineers on design and best practices 
+• Collaborate with business and technical leadership on strategy 
+Required Skills 
+• Expert in distributed systems, cloud platforms, and big data technologies 
+• Advanced data modeling and system design expertise 
+• Strong leadership, mentoring, and strategic planning skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 12+ years of experience in data architecture and enterprise data systems

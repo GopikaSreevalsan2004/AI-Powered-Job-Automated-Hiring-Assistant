@@ -1,0 +1,44 @@
+{
+  "job_id": "97ac0eed-68ec-4d09-b0a4-600a3d76443b",
+  "job_title": "Hadoop Developer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Hadoop Developer is responsible for developing, optimizing, and maintaining big data applications using the Hadoop ecosystem to process large-scale datasets efficiently.",
+  "responsibilities": [
+    "Develop data processing applications using Hadoop, Hive, Pig, and Spark",
+    "Design and implement MapReduce jobs",
+    "Build ETL workflows for large datasets",
+    "Optimize query and job performance",
+    "Integrate Hadoop with external data sources",
+    "Collaborate with data engineers and analysts",
+    "Troubleshoot Hadoop job failures and data issues"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 2,
+      "max": 5
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "2\u20135 years of Hadoop development experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming skills in Java, Python, or Scala"
+    },
+    {
+      "name": "Hands-on experience with Hadoop, Hive, Pig"
+    },
+    {
+      "name": "Strong SQL and data processing knowledge"
+    },
+    {
+      "name": "Linux and shell scripting experience"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

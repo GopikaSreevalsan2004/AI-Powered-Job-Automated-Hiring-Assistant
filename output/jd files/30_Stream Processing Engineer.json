@@ -1,0 +1,44 @@
+{
+  "job_id": "1932f901-9b82-499f-8261-23e5d9862b9c",
+  "job_title": "Stream Processing Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Stream Processing Engineer builds, optimizes, and maintains data pipelines that process real-time streaming data for analytics, monitoring, and decision-making.",
+  "responsibilities": [
+    "Design and implement real-time stream processing workflows",
+    "Optimize data throughput and latency",
+    "Ensure fault tolerance and reliability of streaming systems",
+    "Collaborate with stakeholders for real-time data requirements",
+    "Monitor and maintain processing infrastructure"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "3\u20136 years of stream processing experience",
+      "Cloud & Modern Big Data Roles \u2013 Detailed",
+      "Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with Spark Streaming, Flink, or Storm"
+    },
+    {
+      "name": "Programming in Java, Scala, or Python"
+    },
+    {
+      "name": "Knowledge of Kafka, cloud streaming services, and distributed systems"
+    },
+    {
+      "name": "SQL and data transformation expertise"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

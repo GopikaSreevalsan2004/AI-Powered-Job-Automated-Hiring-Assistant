@@ -1,0 +1,19 @@
+41. Cloud Data Warehouse Engineer 
+Job Summary 
+The Cloud Data Warehouse Engineer builds, manages, and optimizes cloud-native data 
+warehouses for analytics and reporting. 
+Key Responsibilities 
+• Design cloud data warehouses using AWS Redshift, GCP BigQuery, or Azure 
+Synapse 
+• Build ETL/ELT pipelines to load cloud data warehouses 
+• Optimize storage, queries, and cost for cloud platforms 
+• Ensure data security, compliance, and governance 
+• Support BI and analytics teams with data models and reports 
+Required Skills 
+• Experience with cloud data warehouse platforms 
+• Strong SQL and ETL/ELT skills 
+• Python or Scala for automation and transformations 
+• Knowledge of cloud storage and architecture best practices 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with cloud data warehousing

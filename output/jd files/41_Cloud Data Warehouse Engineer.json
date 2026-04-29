@@ -1,0 +1,43 @@
+{
+  "job_id": "83c0d7a8-7f40-4354-8985-914633f7c992",
+  "job_title": "Cloud Data Warehouse Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Cloud Data Warehouse Engineer builds, manages, and optimizes cloud-native data warehouses for analytics and reporting.",
+  "responsibilities": [
+    "Design cloud data warehouses using AWS Redshift, GCP BigQuery, or Azure",
+    "Synapse",
+    "Build ETL/ELT pipelines to load cloud data warehouses",
+    "Optimize storage, queries, and cost for cloud platforms",
+    "Ensure data security, compliance, and governance",
+    "Support BI and analytics teams with data models and reports"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience with cloud data warehousing"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with cloud data warehouse platforms"
+    },
+    {
+      "name": "Strong SQL and ETL/ELT skills"
+    },
+    {
+      "name": "Python or Scala for automation and transformations"
+    },
+    {
+      "name": "Knowledge of cloud storage and architecture best practices"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

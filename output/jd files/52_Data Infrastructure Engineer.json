@@ -1,0 +1,45 @@
+{
+  "job_id": "eae086f7-843a-407c-b342-ffc5bb9eb331",
+  "job_title": "Data Infrastructure Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Infrastructure Engineer designs, deploys, and maintains the core infrastructure that powers large-scale data platforms and pipelines.",
+  "responsibilities": [
+    "Architect and maintain scalable and reliable data infrastructure",
+    "Manage distributed storage, compute clusters, and data lakes",
+    "Implement automation for infrastructure provisioning and monitoring",
+    "Ensure high availability, fault tolerance, and disaster recovery",
+    "Collaborate with platform and data engineering teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in data infrastructure or cloud operations"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong Linux/Unix administration skills"
+    },
+    {
+      "name": "Experience with Hadoop, Spark, Kafka, and distributed storage"
+    },
+    {
+      "name": "Cloud infrastructure expertise (AWS, Azure, GCP)"
+    },
+    {
+      "name": "Infrastructure as Code (Terraform, CloudFormation, Ansible)"
+    },
+    {
+      "name": "Monitoring and logging tools (Prometheus, Grafana, ELK Stack)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,18 @@
+74. Data Mesh Engineer 
+Job Summary 
+The Data Mesh Engineer implements decentralized, domain-oriented data architectures to 
+enable scalable and self-serve data access across large organizations. 
+Key Responsibilities 
+• Design and implement data mesh architecture following domain-driven principles 
+• Build self-service data pipelines and APIs for data consumers 
+• Establish governance, data quality, and interoperability standards 
+• Enable discoverability and cataloging of datasets across domains 
+• Collaborate with product, analytics, and engineering teams 
+Required Skills 
+• Experience in data mesh concepts and architectures 
+• Strong SQL, Python, or Scala programming skills 
+• Familiarity with cloud-native data platforms and streaming systems 
+• Knowledge of governance, cataloging, and metadata management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in distributed data architectures

@@ -1,0 +1,22 @@
+4
+️. Principal Big Data Engineer 
+Job Summary 
+The Principal Big Data Engineer is a senior technical authority responsible for defining long
+term data architecture, solving highly complex engineering problems, and guiding enterprise
+wide data initiatives. 
+Key Responsibilities 
+• Define enterprise big data architecture and strategy 
+• Design highly scalable, fault-tolerant data platforms 
+• Evaluate and select big data technologies and frameworks 
+• Solve complex performance, scalability, and reliability issues 
+• Provide technical leadership across multiple teams 
+• Influence data governance, security, and compliance policies 
+• Partner with senior leadership on data-driven initiatives 
+Required Skills 
+• Expert-level knowledge of distributed systems 
+• Deep understanding of cloud-native big data platforms 
+• Proven experience designing systems at massive scale 
+• Strong strategic thinking and technical leadership 
+Qualifications 
+• Bachelor’s or Master’s degree (PhD preferred) 
+• 10+ years of experience in Big Data and distributed systems

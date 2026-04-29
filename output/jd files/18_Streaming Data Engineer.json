@@ -1,0 +1,42 @@
+{
+  "job_id": "2fd292cf-494e-46a0-afa7-151ca1bad069",
+  "job_title": "Streaming Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Streaming Data Engineer builds real-time data pipelines and streaming platforms that process high-velocity data for real-time analytics and applications.",
+  "responsibilities": [
+    "Develop real-time pipelines using Kafka, Spark Streaming, or Flink",
+    "Ensure low-latency and fault-tolerant streaming systems",
+    "Monitor and optimize streaming workloads",
+    "Integrate streaming data with downstream analytics systems",
+    "Handle data ordering, deduplication, and windowing"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "4\u20138 years of streaming data experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Kafka, Flink, or Spark Streaming"
+    },
+    {
+      "name": "Strong understanding of real-time data processing concepts"
+    },
+    {
+      "name": "Programming in Scala, Java, or Python"
+    },
+    {
+      "name": "Experience with event-driven architectures"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

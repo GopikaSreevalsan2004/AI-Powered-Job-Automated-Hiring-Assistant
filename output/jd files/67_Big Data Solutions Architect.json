@@ -1,0 +1,45 @@
+{
+  "job_id": "1b0602ba-e91c-43ee-ba2b-bd4079f1f70b",
+  "job_title": "Big Data Solutions Architect",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Solutions Architect designs end-to-end big data platforms and solutions for clients, ensuring performance, scalability, and alignment with business goals.",
+  "responsibilities": [
+    "Architect enterprise or startup big data solutions (cloud or on-premise)",
+    "Define technology stack, storage, and processing frameworks",
+    "Ensure scalability, fault tolerance, and security compliance",
+    "Collaborate with client engineering teams to deliver high-quality solutions",
+    "Provide technical leadership and documentation for deployed systems"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 8,
+      "max": 15
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "8\u201315 years of experience in big data engineering and architecture",
+      "Proven track record of delivering enterprise-scale solutions",
+      "Entry-Level & Training Roles \u2013 Detailed",
+      "Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep expertise in big data ecosystems (Hadoop, Spark, Kafka, Flink)"
+    },
+    {
+      "name": "Cloud architecture skills (AWS, Azure, GCP)"
+    },
+    {
+      "name": "Strong system design, data modeling, and SQL skills"
+    },
+    {
+      "name": "Excellent communication and stakeholder management abilities"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+79. Privacy-Preserving Data Engineer 
+Job Summary 
+The Privacy-Preserving Data Engineer builds data pipelines and platforms that maintain 
+compliance, anonymity, and confidentiality using advanced privacy techniques. 
+Key Responsibilities 
+• Implement data anonymization, encryption, and differential privacy techniques 
+• Ensure compliance with GDPR, CCPA, and other regulations 
+• Design secure pipelines for analytics, ML, and AI workflows 
+• Collaborate with legal, compliance, and engineering teams 
+• Monitor and audit privacy-preserving measures in data systems 
+Required Skills 
+• Knowledge of privacy-preserving technologies (differential privacy, federated 
+learning, homomorphic encryption) 
+• Strong programming in Python, Scala, or Java 
+• SQL and data engineering expertise 
+• Cloud and distributed data platform experience 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in secure data engineering and compliance

@@ -1,0 +1,42 @@
+{
+  "job_id": "d7b57afc-1883-4e2c-bdc4-569d4db47d1a",
+  "job_title": "MapReduce Developer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The MapReduce Developer specializes in writing and optimizing MapReduce programs to process massive datasets efficiently within Hadoop environments.",
+  "responsibilities": [
+    "Design and implement MapReduce jobs",
+    "Optimize data processing workflows",
+    "Debug and improve job performance",
+    "Manage data transformations at scale",
+    "Work closely with Hadoop engineers and analysts"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 2,
+      "max": 5
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "2\u20135 years of MapReduce development experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong Java programming skills"
+    },
+    {
+      "name": "In-depth understanding of MapReduce framework"
+    },
+    {
+      "name": "Knowledge of HDFS and YARN"
+    },
+    {
+      "name": "Experience with large-scale batch processing"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

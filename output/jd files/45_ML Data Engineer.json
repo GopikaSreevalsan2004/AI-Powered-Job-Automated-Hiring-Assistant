@@ -1,0 +1,46 @@
+{
+  "job_id": "d6291835-2076-4e98-baea-f5776de32c1d",
+  "job_title": "ML Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The ML Data Engineer builds and manages large-scale data pipelines that feed machine learning models with clean, reliable, and feature-rich datasets.",
+  "responsibilities": [
+    "Develop and maintain data pipelines for ML workflows",
+    "Transform raw data into model-ready features",
+    "Collaborate with data scientists to support ML experiments",
+    "Ensure data quality, consistency, and reproducibility",
+    "Optimize pipelines for performance and scalability",
+    "Monitor data workflows and troubleshoot issues"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Science, or related field",
+      "3\u20136 years of experience in ML data pipelines or big data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming in Python, Java, or Scala"
+    },
+    {
+      "name": "Experience with Spark, Hadoop, or cloud-based data pipelines"
+    },
+    {
+      "name": "Knowledge of SQL and data modeling"
+    },
+    {
+      "name": "Familiarity with ML frameworks (TensorFlow, PyTorch, scikit-learn)"
+    },
+    {
+      "name": "Understanding of feature engineering best practices"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

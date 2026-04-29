@@ -1,0 +1,18 @@
+43. BigQuery Engineer 
+Job Summary 
+The BigQuery Engineer develops, manages, and optimizes Google BigQuery data 
+warehouses and pipelines for large-scale analytics. 
+Key Responsibilities 
+• Build and maintain BigQuery datasets and ETL/ELT pipelines 
+• Optimize query performance and storage costs 
+• Implement data governance, security, and lineage 
+• Integrate BigQuery with BI tools like Looker, Tableau, or Data Studio 
+• Collaborate with analytics and data science teams 
+Required Skills 
+• Expert in Google BigQuery and SQL 
+• Experience with Python or ETL/ELT tools 
+• Knowledge of cloud architecture and data pipelines 
+• Familiarity with large-scale analytics workflows 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with BigQuery and cloud data engineering

@@ -1,0 +1,44 @@
+{
+  "job_id": "ba58c85d-3fae-4460-b7bb-21f8541b1107",
+  "job_title": "Lead Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Lead Big Data Engineer is responsible for leading a team of engineers, owning end-to end big data solutions, and aligning data engineering efforts with business objectives.",
+  "responsibilities": [
+    "Lead and manage a team of Big Data Engineers",
+    "Architect and deliver scalable data platforms",
+    "Define technical standards, frameworks, and best practices",
+    "Oversee project delivery and technical execution",
+    "Act as the primary technical point of contact for stakeholders",
+    "Ensure system scalability, reliability, and cost efficiency",
+    "Drive adoption of new big data technologies"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 7,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in Engineering or Computer Science",
+      "7\u201310 years of experience in data engineering, including leadership roles"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong leadership and team management skills"
+    },
+    {
+      "name": "Expertise in Hadoop, Spark, Kafka, and cloud data services"
+    },
+    {
+      "name": "Experience with data platform modernization"
+    },
+    {
+      "name": "Excellent communication and stakeholder management"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

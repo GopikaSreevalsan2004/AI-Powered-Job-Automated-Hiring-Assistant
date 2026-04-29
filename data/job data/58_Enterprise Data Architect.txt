@@ -1,0 +1,18 @@
+58. Enterprise Data Architect 
+Job Summary 
+The Enterprise Data Architect designs the organization-wide data strategy, ensuring 
+integration, quality, and governance of data assets across all systems. 
+Key Responsibilities 
+• Define enterprise data architecture, standards, and best practices 
+• Align data strategy with business goals and analytics needs 
+• Oversee integration across transactional, analytical, and big data systems 
+• Ensure compliance, security, and regulatory adherence 
+• Guide teams on data architecture design and implementation 
+Required Skills 
+• Enterprise-level data architecture and governance 
+• Cloud, big data, and traditional data warehousing expertise 
+• Strong communication and stakeholder management 
+• SQL, ETL/ELT, and programming skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 10+ years of experience in data architecture across multiple systems

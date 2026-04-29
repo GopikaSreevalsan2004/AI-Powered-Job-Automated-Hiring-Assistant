@@ -1,0 +1,18 @@
+20. ETL Engineer (Big Data) 
+Job Summary 
+The ETL Engineer (Big Data) builds scalable Extract, Transform, Load pipelines to move 
+and transform large datasets across systems. 
+Key Responsibilities 
+• Design and develop ETL pipelines using big data frameworks 
+• Extract data from diverse sources 
+• Transform data for analytics and reporting 
+• Load data into data lakes or warehouses 
+• Monitor and troubleshoot ETL jobs 
+Required Skills 
+• ETL tools (Informatica, Talend, AWS Glue) 
+• Spark, Hadoop, SQL 
+• Data quality and validation techniques 
+• Strong problem-solving skills 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of ETL development experience

@@ -1,0 +1,43 @@
+{
+  "job_id": "22366c45-5be9-4196-86fc-c17eb183bc48",
+  "job_title": "Kafka Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Kafka Engineer specializes in designing, implementing, and managing Apache Kafka clusters and related messaging systems for high-volume data streaming.",
+  "responsibilities": [
+    "Design, deploy, and maintain Kafka clusters",
+    "Implement topics, partitions, and replication strategies",
+    "Monitor and optimize Kafka performance and throughput",
+    "Ensure high availability and fault tolerance",
+    "Integrate Kafka with data pipelines and applications",
+    "Provide guidance on Kafka best practices"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science or related field",
+      "3\u20136 years of Kafka and streaming experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep knowledge of Apache Kafka internals"
+    },
+    {
+      "name": "Experience with Kafka Connect, Kafka Streams, and KSQL"
+    },
+    {
+      "name": "Linux and scripting skills"
+    },
+    {
+      "name": "Understanding of distributed systems and event-driven architecture"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

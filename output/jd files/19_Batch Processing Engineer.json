@@ -1,0 +1,42 @@
+{
+  "job_id": "6e0ba6fb-cff9-4f58-81b3-f87cb0921809",
+  "job_title": "Batch Processing Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Batch Processing Engineer designs and manages large-scale batch data processing workflows for analytics and reporting.",
+  "responsibilities": [
+    "Develop batch data processing pipelines using Spark or Hadoop",
+    "Schedule and monitor batch jobs",
+    "Optimize batch job performance and resource utilization",
+    "Manage data dependencies and workflows",
+    "Ensure data accuracy and completeness"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of batch processing experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong Spark or Hadoop experience"
+    },
+    {
+      "name": "SQL and data transformation expertise"
+    },
+    {
+      "name": "Workflow orchestration tools (Airflow, Oozie)"
+    },
+    {
+      "name": "Linux and scripting skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,18 @@
+22. Data Pipeline Engineer 
+Job Summary 
+The Data Pipeline Engineer focuses on building reliable, scalable pipelines that move data 
+across systems for downstream consumption. 
+Key Responsibilities 
+• Design and implement end-to-end data pipelines 
+• Ensure pipeline reliability and fault tolerance 
+• Optimize data flow and performance 
+• Monitor pipeline health and failures 
+• Collaborate with analytics and ML teams 
+Required Skills 
+• Strong programming and SQL skills 
+• Experience with orchestration tools (Airflow, Prefect) 
+• Knowledge of data integration patterns 
+• Familiarity with cloud platforms 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of data pipeline experience

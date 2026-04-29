@@ -1,0 +1,19 @@
+53. Data Reliability Engineer 
+Job Summary 
+The Data Reliability Engineer ensures the availability, stability, and performance of large
+scale data systems and pipelines across the organization. 
+Key Responsibilities 
+• Monitor and maintain operational health of data pipelines and platforms 
+• Implement alerts, monitoring, and automated remediation for data workflows 
+• Identify and resolve performance bottlenecks and system failures 
+• Collaborate with engineering, data science, and platform teams 
+• Enforce best practices for reliability, scalability, and observability 
+Required Skills 
+• Strong experience in monitoring and observability tools (Prometheus, Grafana, ELK, 
+Datadog) 
+• Scripting and automation (Python, Bash) 
+• Distributed data systems experience (Hadoop, Spark, Kafka) 
+• Cloud experience (AWS, GCP, Azure) 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of experience in reliability engineering for data systems

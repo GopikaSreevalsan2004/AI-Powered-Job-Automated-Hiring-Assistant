@@ -1,0 +1,18 @@
+39. Big Data Analytics Engineer 
+Job Summary 
+The Big Data Analytics Engineer develops scalable data pipelines and platforms to support 
+large-scale analytics, dashboards, and machine learning initiatives. 
+Key Responsibilities 
+• Build and optimize big data pipelines for analytics workloads 
+• Design and implement data models for large-scale datasets 
+• Support data extraction, transformation, and visualization for BI 
+• Collaborate with data scientists for ML feature engineering 
+• Ensure data quality, governance, and performance tuning 
+Required Skills 
+• Expertise in SQL, Spark, Hadoop, or cloud analytics tools 
+• Strong Python or Scala programming skills 
+• Knowledge of ETL/ELT and data modeling best practices 
+• Experience with data lakes and warehouses 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–6 years of experience in big data analytics engineering

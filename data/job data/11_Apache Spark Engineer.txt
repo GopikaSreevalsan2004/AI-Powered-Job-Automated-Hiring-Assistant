@@ -1,0 +1,19 @@
+11. Apache Spark Engineer 
+Job Summary 
+The Apache Spark Engineer designs and manages enterprise-grade Spark-based data 
+processing platforms, focusing on scalability, reliability, and cost efficiency. 
+Key Responsibilities 
+• Architect and maintain Spark-based data platforms 
+• Optimize memory management and job execution 
+• Implement real-time and batch data pipelines 
+• Monitor Spark clusters and workloads 
+• Ensure fault tolerance and system reliability 
+• Guide best practices for Spark development 
+Required Skills 
+• Expert knowledge of Apache Spark and distributed computing 
+• Experience with cloud-based Spark services (Databricks, EMR) 
+• Strong performance tuning and debugging skills 
+• Programming expertise in Scala or Python 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of Spark and big data experience

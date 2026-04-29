@@ -1,0 +1,21 @@
+72. Apprentice Big Data Engineer 
+Job Summary 
+The Apprentice Big Data Engineer learns foundational skills in big data engineering while 
+contributing to small-scale data projects and assisting the engineering team. 
+Key Responsibilities 
+• Support development of data pipelines and ETL processes 
+• Assist in data extraction, cleaning, and transformation 
+• Learn to use big data tools and cloud platforms under guidance 
+• Participate in training sessions, workshops, and team discussions 
+• Document workflows and follow standard engineering practices 
+Required Skills 
+• Basic knowledge of Python, SQL, or Java 
+• Familiarity with relational databases and data structures 
+• Eagerness to learn big data technologies and analytics 
+• Good communication and collaboration skills 
+Qualifications 
+• Recent graduate, undergraduate, or final-year student in a relevant field 
+• Willingness to undergo hands-on training and mentorship 
+Emerging & Future-Focused Data 
+Engineering Roles – Detailed Job 
+Descriptions

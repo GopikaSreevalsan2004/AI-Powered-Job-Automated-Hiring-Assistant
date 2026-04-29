@@ -1,0 +1,20 @@
+5
+️. Junior Big Data Engineer 
+Job Summary 
+The Junior Big Data Engineer supports the development and maintenance of data pipelines 
+and big data platforms under the guidance of senior engineers. 
+Key Responsibilities 
+• Assist in building and maintaining data pipelines 
+• Write and maintain ETL scripts 
+• Perform data validation and quality checks 
+• Support troubleshooting and issue resolution 
+• Learn and apply best practices in big data engineering 
+• Collaborate with team members on data projects 
+Required Skills 
+• Basic knowledge of Python, Java, or Scala 
+• Familiarity with SQL and data concepts 
+• Exposure to Hadoop or Spark is a plus 
+• Strong willingness to learn 
+Qualifications 
+• Bachelor’s degree or final-year student in a relevant field 
+• 0–2 years of experience

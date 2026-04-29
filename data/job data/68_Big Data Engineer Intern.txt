@@ -1,0 +1,20 @@
+68. Big Data Engineer Intern 
+Job Summary 
+The Big Data Engineer Intern assists in developing and maintaining big data pipelines and 
+platforms while gaining hands-on experience with distributed systems and cloud 
+technologies. 
+Key Responsibilities 
+• Assist in building and maintaining data pipelines and ETL/ELT workflows 
+• Work with structured and unstructured data sources 
+• Support testing, debugging, and documentation of data solutions 
+• Learn and apply big data technologies like Hadoop, Spark, and Kafka 
+• Collaborate with senior engineers on data platform projects 
+Required Skills 
+• Basic programming skills (Python, Java, or Scala) 
+• Understanding of SQL and relational databases 
+• Interest in distributed systems, cloud platforms, and big data 
+• Analytical thinking and problem-solving skills 
+Qualifications 
+• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data 
+Science, or related field 
+• No prior work experience required; internships or projects are a plus

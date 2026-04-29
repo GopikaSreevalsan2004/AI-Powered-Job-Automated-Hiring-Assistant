@@ -1,0 +1,18 @@
+46. AI Data Engineer 
+Job Summary 
+The AI Data Engineer designs, builds, and maintains data infrastructure for AI applications, 
+ensuring high-quality, scalable datasets for training and inference. 
+Key Responsibilities 
+• Build and maintain AI data pipelines for structured and unstructured data 
+• Collaborate with AI teams to define data requirements 
+• Integrate multiple data sources and ensure consistency 
+• Optimize storage and retrieval of large-scale AI datasets 
+• Implement monitoring, versioning, and lineage for AI data 
+Required Skills 
+• Programming in Python or Scala 
+• Knowledge of big data frameworks (Spark, Hadoop) 
+• Experience with cloud AI platforms (AWS Sagemaker, Azure ML, GCP AI Platform) 
+• Understanding of ML lifecycle and data preparation 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–7 years of experience in AI-focused data engineering

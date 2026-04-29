@@ -1,0 +1,43 @@
+{
+  "job_id": "3783b8f8-e36b-40d5-a13b-f21cf1322f3f",
+  "job_title": "Contract Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Contract Big Data Engineer is engaged on a temporary basis to support enterprise or startup data initiatives, delivering high-quality engineering solutions.",
+  "responsibilities": [
+    "Implement and optimize big data pipelines and ETL/ELT workflows",
+    "Support ongoing data platform projects or migration initiatives",
+    "Ensure system reliability, scalability, and security",
+    "Collaborate with internal teams and stakeholders on requirements",
+    "Provide operational support and troubleshooting for contracted period"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20137 years of big data engineering experience",
+      "Prior contract or consultancy experience is a plus"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Hadoop, Spark, Kafka, or other distributed systems"
+    },
+    {
+      "name": "SQL and programming skills (Python, Java, Scala)"
+    },
+    {
+      "name": "Cloud platform knowledge (AWS, GCP, Azure)"
+    },
+    {
+      "name": "Ability to quickly understand client systems and deliver solutions"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

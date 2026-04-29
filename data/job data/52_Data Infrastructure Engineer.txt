@@ -1,0 +1,19 @@
+52. Data Infrastructure Engineer 
+Job Summary 
+The Data Infrastructure Engineer designs, deploys, and maintains the core infrastructure that 
+powers large-scale data platforms and pipelines. 
+Key Responsibilities 
+• Architect and maintain scalable and reliable data infrastructure 
+• Manage distributed storage, compute clusters, and data lakes 
+• Implement automation for infrastructure provisioning and monitoring 
+• Ensure high availability, fault tolerance, and disaster recovery 
+• Collaborate with platform and data engineering teams 
+Required Skills 
+• Strong Linux/Unix administration skills 
+• Experience with Hadoop, Spark, Kafka, and distributed storage 
+• Cloud infrastructure expertise (AWS, Azure, GCP) 
+• Infrastructure as Code (Terraform, CloudFormation, Ansible) 
+• Monitoring and logging tools (Prometheus, Grafana, ELK Stack) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in data infrastructure or cloud operations

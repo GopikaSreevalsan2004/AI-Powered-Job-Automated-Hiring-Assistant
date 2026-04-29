@@ -1,0 +1,43 @@
+{
+  "job_id": "0d499cf7-647f-485f-bdda-8d9b29fd9f0f",
+  "job_title": "Data Warehouse Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Warehouse Engineer designs, develops, and maintains enterprise data warehouses to support reporting, analytics, and business intelligence.",
+  "responsibilities": [
+    "Design and implement data warehouse architectures",
+    "Develop ETL/ELT workflows to populate warehouse tables",
+    "Optimize queries and storage for performance",
+    "Monitor data quality and integrity",
+    "Collaborate with BI, analytics, and product teams",
+    "Document data models, pipelines, and schemas"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience in data warehousing"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong SQL and data modeling skills"
+    },
+    {
+      "name": "Experience with ETL/ELT tools"
+    },
+    {
+      "name": "Knowledge of data warehousing concepts (star/snowflake schemas)"
+    },
+    {
+      "name": "Familiarity with cloud or on-premise warehouse technologies"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

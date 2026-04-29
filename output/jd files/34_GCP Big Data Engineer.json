@@ -1,0 +1,42 @@
+{
+  "job_id": "cf101388-5e15-4791-8b51-ff330352fceb",
+  "job_title": "GCP Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The GCP Big Data Engineer builds, manages, and optimizes scalable big data pipelines and platforms using Google Cloud services.",
+  "responsibilities": [
+    "Implement data pipelines using BigQuery, Dataflow, Dataproc, Pub/Sub",
+    "Develop batch and streaming ETL/ELT workflows",
+    "Optimize cloud data storage, compute, and query performance",
+    "Ensure data security, governance, and compliance",
+    "Collaborate with data science and analytics teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of GCP big data experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in GCP services (BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Storage)"
+    },
+    {
+      "name": "Strong SQL, Python, and Java/Scala programming"
+    },
+    {
+      "name": "Knowledge of distributed computing and cloud architecture"
+    },
+    {
+      "name": "Experience with monitoring and logging tools"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

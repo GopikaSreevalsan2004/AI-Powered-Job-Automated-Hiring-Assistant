@@ -1,0 +1,21 @@
+55. Platform Reliability Engineer (Data) 
+Job Summary 
+The Platform Reliability Engineer focuses on ensuring the performance, scalability, and 
+reliability of enterprise-wide data platforms and pipelines. 
+Key Responsibilities 
+• Design and maintain reliable, scalable, and fault-tolerant data platforms 
+• Implement platform monitoring, alerting, and automated remediation 
+• Optimize compute, storage, and workflow performance 
+• Collaborate with DevOps, data engineering, and ML teams 
+• Support disaster recovery, backup, and high-availability strategies 
+Required Skills 
+• Strong knowledge of distributed data systems (Hadoop, Spark, Kafka) 
+• Cloud and platform architecture expertise (AWS, GCP, Azure) 
+• CI/CD pipelines and infrastructure automation 
+• Observability and monitoring tools 
+• Programming/scripting (Python, Bash, Go) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–10 years of experience in platform reliability or data infrastructure 
+Architecture & Leadership Roles – Detailed 
+Job Descriptions

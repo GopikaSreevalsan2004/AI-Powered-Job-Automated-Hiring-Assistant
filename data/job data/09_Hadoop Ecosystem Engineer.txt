@@ -1,0 +1,19 @@
+9. Hadoop Ecosystem Engineer 
+Job Summary 
+The Hadoop Ecosystem Engineer specializes in integrating and managing multiple Hadoop 
+ecosystem components to deliver end-to-end big data solutions. 
+Key Responsibilities 
+• Design solutions using Hive, HBase, Sqoop, Flume, Kafka, and Spark 
+• Integrate Hadoop with relational and NoSQL databases 
+• Develop data ingestion and transformation pipelines 
+• Optimize performance across ecosystem components 
+• Ensure data consistency and reliability 
+• Support analytics and reporting use cases 
+Required Skills 
+• Strong experience across the Hadoop ecosystem 
+• Programming in Java, Python, or Scala 
+• Knowledge of batch and streaming data processing 
+• Experience with data lakes 
+Qualifications 
+• Bachelor’s or Master’s degree in a relevant field 
+• 4–7 years of Hadoop ecosystem experience

@@ -1,0 +1,44 @@
+{
+  "job_id": "3910fa6b-d6b9-4da1-ac22-aeb8244f1e1a",
+  "job_title": "Principal Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Principal Big Data Engineer is a senior technical authority responsible for defining long term data architecture, solving highly complex engineering problems, and guiding enterprise wide data initiatives.",
+  "responsibilities": [
+    "Define enterprise big data architecture and strategy",
+    "Design highly scalable, fault-tolerant data platforms",
+    "Evaluate and select big data technologies and frameworks",
+    "Solve complex performance, scalability, and reliability issues",
+    "Provide technical leadership across multiple teams",
+    "Influence data governance, security, and compliance policies",
+    "Partner with senior leadership on data-driven initiatives"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 10,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree (PhD preferred)",
+      "10+ years of experience in Big Data and distributed systems"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expert-level knowledge of distributed systems"
+    },
+    {
+      "name": "Deep understanding of cloud-native big data platforms"
+    },
+    {
+      "name": "Proven experience designing systems at massive scale"
+    },
+    {
+      "name": "Strong strategic thinking and technical leadership"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

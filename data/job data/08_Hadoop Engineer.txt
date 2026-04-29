@@ -1,0 +1,19 @@
+8. Hadoop Engineer 
+Job Summary 
+The Hadoop Engineer focuses on building, maintaining, and optimizing Hadoop clusters and 
+ensuring high availability, scalability, and performance of distributed data systems. 
+Key Responsibilities 
+• Install, configure, and manage Hadoop clusters 
+• Monitor cluster health and performance 
+• Optimize resource utilization and job scheduling 
+• Implement security, backup, and recovery strategies 
+• Troubleshoot cluster and performance issues 
+• Work closely with DevOps and infrastructure teams 
+Required Skills 
+• Deep understanding of HDFS, YARN, and MapReduce 
+• Experience with cluster management tools (Ambari, Cloudera, Hortonworks) 
+• Strong Linux administration skills 
+• Knowledge of Kerberos and Hadoop security 
+Qualifications 
+• Bachelor’s degree in Engineering or equivalent 
+• 3–6 years of Hadoop infrastructure experience

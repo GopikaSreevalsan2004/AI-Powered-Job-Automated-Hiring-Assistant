@@ -1,0 +1,18 @@
+77. Real-Time Analytics Engineer 
+Job Summary 
+The Real-Time Analytics Engineer designs and maintains low-latency, streaming data 
+systems for instant insights, monitoring, and analytics. 
+Key Responsibilities 
+• Build streaming pipelines using Kafka, Kinesis, Flink, or Storm 
+• Implement real-time data ingestion, transformation, and aggregation 
+• Optimize pipelines for latency, throughput, and reliability 
+• Support dashboards, anomaly detection, and AI/ML real-time models 
+• Monitor and troubleshoot production streaming systems 
+Required Skills 
+• Expertise in real-time streaming platforms (Kafka, Flink, Kinesis, Storm) 
+• Programming in Python, Java, or Scala 
+• SQL and distributed systems knowledge 
+• Cloud experience for serverless or real-time processing 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in streaming and real-time data engineering

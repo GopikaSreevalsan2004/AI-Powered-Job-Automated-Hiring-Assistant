@@ -1,0 +1,42 @@
+{
+  "job_id": "339e80a3-6ba9-47ab-a806-0d12963b9a36",
+  "job_title": "Snowflake Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Snowflake Engineer specializes in designing and optimizing data pipelines and storage for Snowflake-based data warehouse solutions.",
+  "responsibilities": [
+    "Develop and optimize ETL/ELT pipelines for Snowflake",
+    "Build and maintain data models and schemas",
+    "Optimize query performance and storage costs",
+    "Integrate Snowflake with analytics and BI tools",
+    "Ensure data security, compliance, and governance"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience with Snowflake"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expert in Snowflake architecture and features"
+    },
+    {
+      "name": "Strong SQL and data modeling skills"
+    },
+    {
+      "name": "Experience with Python or ETL/ELT tools"
+    },
+    {
+      "name": "Knowledge of cloud platforms (AWS, Azure, GCP)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

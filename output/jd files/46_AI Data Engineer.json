@@ -1,0 +1,42 @@
+{
+  "job_id": "9406925f-645f-4ebb-a984-f002ac109c56",
+  "job_title": "AI Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The AI Data Engineer designs, builds, and maintains data infrastructure for AI applications, ensuring high-quality, scalable datasets for training and inference.",
+  "responsibilities": [
+    "Build and maintain AI data pipelines for structured and unstructured data",
+    "Collaborate with AI teams to define data requirements",
+    "Integrate multiple data sources and ensure consistency",
+    "Optimize storage and retrieval of large-scale AI datasets",
+    "Implement monitoring, versioning, and lineage for AI data"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "3\u20137 years of experience in AI-focused data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Programming in Python or Scala"
+    },
+    {
+      "name": "Knowledge of big data frameworks (Spark, Hadoop)"
+    },
+    {
+      "name": "Experience with cloud AI platforms (AWS Sagemaker, Azure ML, GCP AI Platform)"
+    },
+    {
+      "name": "Understanding of ML lifecycle and data preparation"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

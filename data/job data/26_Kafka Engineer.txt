@@ -1,0 +1,19 @@
+26. Kafka Engineer 
+Job Summary 
+The Kafka Engineer specializes in designing, implementing, and managing Apache Kafka 
+clusters and related messaging systems for high-volume data streaming. 
+Key Responsibilities 
+• Design, deploy, and maintain Kafka clusters 
+• Implement topics, partitions, and replication strategies 
+• Monitor and optimize Kafka performance and throughput 
+• Ensure high availability and fault tolerance 
+• Integrate Kafka with data pipelines and applications 
+• Provide guidance on Kafka best practices 
+Required Skills 
+• Deep knowledge of Apache Kafka internals 
+• Experience with Kafka Connect, Kafka Streams, and KSQL 
+• Linux and scripting skills 
+• Understanding of distributed systems and event-driven architecture 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of Kafka and streaming experience

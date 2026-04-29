@@ -1,0 +1,42 @@
+{
+  "job_id": "5d29c23f-1da8-4b2b-a27a-ce4ea912e37b",
+  "job_title": "Autonomous Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Autonomous Data Engineer designs self-managing data systems that minimize manual intervention using automation, AI, and orchestration tools.",
+  "responsibilities": [
+    "Develop AI-driven data pipelines and autonomous workflows",
+    "Automate data quality checks, transformation, and error handling",
+    "Implement self-optimizing data ingestion and processing systems",
+    "Monitor and fine-tune pipelines with minimal human intervention",
+    "Integrate with ML and real-time analytics platforms"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 5
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5+ years of experience in big data and automated data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Knowledge of MLOps, AI-driven orchestration, and workflow automation"
+    },
+    {
+      "name": "Experience with Spark, Flink, Kafka, and distributed systems"
+    },
+    {
+      "name": "Strong programming in Python, Scala, or Java"
+    },
+    {
+      "name": "Cloud platform experience with serverless or autonomous services"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

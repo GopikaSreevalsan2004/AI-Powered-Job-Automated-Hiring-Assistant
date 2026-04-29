@@ -1,0 +1,21 @@
+73. Lakehouse Engineer 
+Job Summary 
+The Lakehouse Engineer designs and manages modern data lakehouse architectures, 
+combining the scalability of data lakes with the performance and governance of data 
+warehouses. 
+Key Responsibilities 
+• Build and maintain unified data lakehouse platforms (Delta Lake, Apache Hudi, 
+Apache Iceberg) 
+• Develop ETL/ELT pipelines for batch and streaming workloads 
+• Optimize storage, query performance, and cost efficiency 
+• Implement governance, access controls, and data lineage 
+• Support analytics, BI, and AI/ML workloads 
+Required Skills 
+• Expertise in lakehouse frameworks (Delta Lake, Hudi, Iceberg) 
+• Spark, Flink, or other distributed computing experience 
+• SQL, Python, or Scala programming 
+• Cloud platform experience (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Engineering, or related 
+field 
+• 4–7 years of experience in modern big data architectures

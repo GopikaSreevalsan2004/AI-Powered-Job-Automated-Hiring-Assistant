@@ -1,0 +1,42 @@
+{
+  "job_id": "f493bc70-aeb9-47cb-ba92-523ae37e14a2",
+  "job_title": "Head of Data Engineering",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Head of Data Engineering oversees all data engineering teams and initiatives, ensuring high-performance, scalable, and reliable data systems aligned with business objectives.",
+  "responsibilities": [
+    "Lead multiple data engineering teams and projects",
+    "Define strategy for data platform, pipelines, and analytics support",
+    "Ensure adoption of best practices for engineering, security, and governance",
+    "Manage budgets, resources, and roadmap for data initiatives",
+    "Collaborate with C-level executives to align data strategy with business goals"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 10,
+      "max": 15
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "10\u201315 years of experience in data engineering and leadership"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Leadership and team management experience"
+    },
+    {
+      "name": "Expertise in big data, cloud platforms, and modern data engineering"
+    },
+    {
+      "name": "Strategic planning, budgeting, and project management"
+    },
+    {
+      "name": "Excellent communication and stakeholder management"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,20 @@
+51. Data DevOps Engineer 
+Job Summary 
+The Data DevOps Engineer builds and maintains automated pipelines for data engineering 
+workflows, ensuring smooth deployment, monitoring, and operation of data systems. 
+Key Responsibilities 
+• Design, implement, and maintain CI/CD pipelines for data pipelines and analytics 
+workflows 
+• Automate deployment of big data applications and ETL/ELT workflows 
+• Monitor data systems, pipelines, and workflows for performance and reliability 
+• Collaborate with data engineers, platform engineers, and ML engineers 
+• Ensure infrastructure as code (IaC) best practices are followed 
+Required Skills 
+• CI/CD tools (Jenkins, GitHub Actions, GitLab CI, CircleCI) 
+• Scripting and automation (Python, Bash, PowerShell) 
+• Containerization (Docker, Kubernetes) 
+• Experience with data engineering tools (Spark, Hadoop, Kafka) 
+• Cloud platforms (AWS, GCP, Azure) 
+Qualifications 
+• Bachelor’s degree in Computer Science, Engineering, or related field 
+• 3–6 years of experience in DevOps or data platform operations

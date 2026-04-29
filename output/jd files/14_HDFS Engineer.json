@@ -1,0 +1,47 @@
+{
+  "job_id": "23762afd-bbb1-4d50-931c-a67715d1acd5",
+  "job_title": "HDFS Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The HDFS Engineer manages and optimizes Hadoop Distributed File System (HDFS) to ensure reliable, secure, and high-performance data storage.",
+  "responsibilities": [
+    "Design and manage HDFS storage architecture",
+    "Monitor and optimize data replication and availability",
+    "Troubleshoot storage and node failures",
+    "Implement backup, recovery, and security controls",
+    "Ensure high availability of NameNode services",
+    "Collaborate with Hadoop and infrastructure teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s degree in Engineering or related field",
+      "4\u20137 years of HDFS and Hadoop storage experience",
+      "Data Engineering (Big Data-Focused) \u2013",
+      "Detailed Job Descriptions",
+      "1",
+      "\ufe0f"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep expertise in HDFS internals"
+    },
+    {
+      "name": "Strong Linux and system administration skills"
+    },
+    {
+      "name": "Experience with cluster monitoring tools"
+    },
+    {
+      "name": "Knowledge of Hadoop security and access controls"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

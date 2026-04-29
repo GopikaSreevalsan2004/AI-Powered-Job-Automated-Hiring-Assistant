@@ -1,0 +1,18 @@
+32. AWS Big Data Engineer 
+Job Summary 
+The AWS Big Data Engineer develops, deploys, and manages scalable data solutions using 
+AWS managed services for analytics, ETL, and data warehousing. 
+Key Responsibilities 
+• Build big data pipelines using AWS services (EMR, Glue, Redshift, Kinesis) 
+• Optimize storage, compute, and data processing performance 
+• Implement ETL/ELT workflows in AWS environments 
+• Monitor data pipelines and ensure reliability and fault tolerance 
+• Implement cloud security best practices and IAM policies 
+Required Skills 
+• Expertise in AWS big data services (EMR, Glue, Redshift, S3, Athena) 
+• Programming in Python, Java, or Scala 
+• Experience with streaming data (Kinesis, Kafka) 
+• Strong knowledge of cloud infrastructure and deployment 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with AWS big data solutions

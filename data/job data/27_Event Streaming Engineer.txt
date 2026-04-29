@@ -1,0 +1,18 @@
+27. Event Streaming Engineer 
+Job Summary 
+The Event Streaming Engineer designs and implements event-driven systems that process, 
+store, and distribute real-time events across multiple systems and applications. 
+Key Responsibilities 
+• Develop event-driven architectures using Kafka, Pulsar, or similar systems 
+• Build event pipelines for real-time processing and analytics 
+• Ensure event consistency, ordering, and delivery guarantees 
+• Collaborate with software engineering and data teams 
+• Optimize event processing performance and scalability 
+Required Skills 
+• Expertise in Kafka, Pulsar, or similar messaging systems 
+• Programming in Java, Scala, or Python 
+• Knowledge of stream processing frameworks like Flink or Spark Streaming 
+• Strong understanding of distributed system principles 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience in event-driven engineering

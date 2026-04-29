@@ -1,0 +1,1505 @@
+1. Big Data Engineer 
+Job Summary 
+The Big Data Engineer designs, builds, and maintains scalable data processing systems that 
+handle large volumes of structured and unstructured data. This role focuses on developing 
+robust data pipelines, ensuring data quality, and supporting analytics and machine learning 
+initiatives. 
+Key Responsibilities 
+• Design and develop scalable big data pipelines using Hadoop, Spark, and related tools 
+• Process large datasets efficiently using batch and real-time frameworks 
+• Build and maintain ETL/ELT workflows 
+• Integrate data from multiple sources (databases, APIs, logs, streams) 
+• Optimize data storage and retrieval performance 
+• Ensure data accuracy, reliability, and availability 
+• Collaborate with data scientists, analysts, and product teams 
+• Troubleshoot data pipeline and performance issues 
+Required Skills 
+• Strong programming skills in Python, Java, or Scala 
+• Hands-on experience with Hadoop, Spark, Hive, HBase 
+• Experience with Kafka or other streaming tools 
+• Strong SQL and data modeling skills 
+• Knowledge of Linux, Git, and CI/CD 
+Qualifications 
+• Bachelor’s degree in Computer Science, Engineering, or related field 
+• 2–4 years of experience in Big Data or Data Engineering 
+2. Senior Big Data Engineer 
+Job Summary 
+The Senior Big Data Engineer leads complex data engineering initiatives, designs high
+performance data architectures, and mentors junior engineers while ensuring system 
+scalability and reliability. 
+Key Responsibilities 
+• Design and implement enterprise-scale big data architectures 
+• Optimize performance of data pipelines and storage systems 
+• Lead complex data integration and migration projects 
+• Review code and enforce engineering best practices 
+• Mentor junior and mid-level engineers 
+• Collaborate with stakeholders on data strategy and requirements 
+• Ensure security, compliance, and governance standards 
+Required Skills 
+• Advanced Spark optimization and tuning 
+• Strong experience with cloud platforms (AWS, Azure, GCP) 
+• Deep knowledge of data lakes and data warehouses 
+• Strong problem-solving and architectural skills 
+Qualifications 
+• Bachelor’s or Master’s degree in a relevant field 
+• 5–8 years of experience in Big Data Engineering 
+3
+️. Lead Big Data Engineer 
+Job Summary 
+The Lead Big Data Engineer is responsible for leading a team of engineers, owning end-to
+end big data solutions, and aligning data engineering efforts with business objectives. 
+Key Responsibilities 
+• Lead and manage a team of Big Data Engineers 
+• Architect and deliver scalable data platforms 
+• Define technical standards, frameworks, and best practices 
+• Oversee project delivery and technical execution 
+• Act as the primary technical point of contact for stakeholders 
+• Ensure system scalability, reliability, and cost efficiency 
+• Drive adoption of new big data technologies 
+Required Skills 
+• Strong leadership and team management skills 
+• Expertise in Hadoop, Spark, Kafka, and cloud data services 
+• Experience with data platform modernization 
+• Excellent communication and stakeholder management 
+Qualifications 
+• Bachelor’s or Master’s degree in Engineering or Computer Science 
+• 7–10 years of experience in data engineering, including leadership roles 
+4
+️. Principal Big Data Engineer 
+Job Summary 
+The Principal Big Data Engineer is a senior technical authority responsible for defining long
+term data architecture, solving highly complex engineering problems, and guiding enterprise
+wide data initiatives. 
+Key Responsibilities 
+• Define enterprise big data architecture and strategy 
+• Design highly scalable, fault-tolerant data platforms 
+• Evaluate and select big data technologies and frameworks 
+• Solve complex performance, scalability, and reliability issues 
+• Provide technical leadership across multiple teams 
+• Influence data governance, security, and compliance policies 
+• Partner with senior leadership on data-driven initiatives 
+Required Skills 
+• Expert-level knowledge of distributed systems 
+• Deep understanding of cloud-native big data platforms 
+• Proven experience designing systems at massive scale 
+• Strong strategic thinking and technical leadership 
+Qualifications 
+• Bachelor’s or Master’s degree (PhD preferred) 
+• 10+ years of experience in Big Data and distributed systems 
+5
+️. Junior Big Data Engineer 
+Job Summary 
+The Junior Big Data Engineer supports the development and maintenance of data pipelines 
+and big data platforms under the guidance of senior engineers. 
+Key Responsibilities 
+• Assist in building and maintaining data pipelines 
+• Write and maintain ETL scripts 
+• Perform data validation and quality checks 
+• Support troubleshooting and issue resolution 
+• Learn and apply best practices in big data engineering 
+• Collaborate with team members on data projects 
+Required Skills 
+• Basic knowledge of Python, Java, or Scala 
+• Familiarity with SQL and data concepts 
+• Exposure to Hadoop or Spark is a plus 
+• Strong willingness to learn 
+Qualifications 
+• Bachelor’s degree or final-year student in a relevant field 
+• 0–2 years of experience 
+6
+️. Associate Big Data Engineer 
+Job Summary 
+The Associate Big Data Engineer works on entry-level data engineering tasks, supporting 
+data processing, transformation, and system monitoring activities. 
+Key Responsibilities 
+• Support development of data workflows and pipelines 
+• Assist in data ingestion and transformation tasks 
+• Monitor data jobs and report issues 
+• Document data processes and systems 
+• Work closely with senior engineers to gain hands-on experience 
+Required Skills 
+• Understanding of data structures and databases 
+• Basic programming and SQL skills 
+• Familiarity with big data concepts 
+• Good analytical and problem-solving skills 
+Qualifications 
+• Bachelor’s degree or diploma in Computer Science or related field 
+• Internship or academic project experience in data engineering 
+Hadoop & Distributed Systems Roles – 
+Detailed Job Descriptions 
+7. Hadoop Developer 
+Job Summary 
+The Hadoop Developer is responsible for developing, optimizing, and maintaining big data 
+applications using the Hadoop ecosystem to process large-scale datasets efficiently. 
+Key Responsibilities 
+• Develop data processing applications using Hadoop, Hive, Pig, and Spark 
+• Design and implement MapReduce jobs 
+• Build ETL workflows for large datasets 
+• Optimize query and job performance 
+• Integrate Hadoop with external data sources 
+• Collaborate with data engineers and analysts 
+• Troubleshoot Hadoop job failures and data issues 
+Required Skills 
+• Strong programming skills in Java, Python, or Scala 
+• Hands-on experience with Hadoop, Hive, Pig 
+• Strong SQL and data processing knowledge 
+• Linux and shell scripting experience 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 2–5 years of Hadoop development experience 
+8. Hadoop Engineer 
+Job Summary 
+The Hadoop Engineer focuses on building, maintaining, and optimizing Hadoop clusters and 
+ensuring high availability, scalability, and performance of distributed data systems. 
+Key Responsibilities 
+• Install, configure, and manage Hadoop clusters 
+• Monitor cluster health and performance 
+• Optimize resource utilization and job scheduling 
+• Implement security, backup, and recovery strategies 
+• Troubleshoot cluster and performance issues 
+• Work closely with DevOps and infrastructure teams 
+Required Skills 
+• Deep understanding of HDFS, YARN, and MapReduce 
+• Experience with cluster management tools (Ambari, Cloudera, Hortonworks) 
+• Strong Linux administration skills 
+• Knowledge of Kerberos and Hadoop security 
+Qualifications 
+• Bachelor’s degree in Engineering or equivalent 
+• 3–6 years of Hadoop infrastructure experience 
+9. Hadoop Ecosystem Engineer 
+Job Summary 
+The Hadoop Ecosystem Engineer specializes in integrating and managing multiple Hadoop 
+ecosystem components to deliver end-to-end big data solutions. 
+Key Responsibilities 
+• Design solutions using Hive, HBase, Sqoop, Flume, Kafka, and Spark 
+• Integrate Hadoop with relational and NoSQL databases 
+• Develop data ingestion and transformation pipelines 
+• Optimize performance across ecosystem components 
+• Ensure data consistency and reliability 
+• Support analytics and reporting use cases 
+Required Skills 
+• Strong experience across the Hadoop ecosystem 
+• Programming in Java, Python, or Scala 
+• Knowledge of batch and streaming data processing 
+• Experience with data lakes 
+Qualifications 
+• Bachelor’s or Master’s degree in a relevant field 
+• 4–7 years of Hadoop ecosystem experience 
+10. Spark Developer 
+Job Summary 
+The Spark Developer builds high-performance data processing applications using Apache 
+Spark for batch and real-time analytics. 
+Key Responsibilities 
+• Develop Spark applications using Spark Core, Spark SQL, and Spark Streaming 
+• Optimize Spark jobs for performance and scalability 
+• Work with large datasets in distributed environments 
+• Integrate Spark with Hadoop and cloud platforms 
+• Collaborate with data scientists and engineers 
+• Troubleshoot Spark execution issues 
+Required Skills 
+• Strong Scala, Python (PySpark), or Java skills 
+• In-depth knowledge of Apache Spark internals 
+• Experience with Hadoop and distributed storage 
+• SQL and data transformation expertise 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of Spark development experience 
+11. Apache Spark Engineer 
+Job Summary 
+The Apache Spark Engineer designs and manages enterprise-grade Spark-based data 
+processing platforms, focusing on scalability, reliability, and cost efficiency. 
+Key Responsibilities 
+• Architect and maintain Spark-based data platforms 
+• Optimize memory management and job execution 
+• Implement real-time and batch data pipelines 
+• Monitor Spark clusters and workloads 
+• Ensure fault tolerance and system reliability 
+• Guide best practices for Spark development 
+Required Skills 
+• Expert knowledge of Apache Spark and distributed computing 
+• Experience with cloud-based Spark services (Databricks, EMR) 
+• Strong performance tuning and debugging skills 
+• Programming expertise in Scala or Python 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of Spark and big data experience 
+12. Distributed Systems Engineer (Data) 
+Job Summary 
+The Distributed Systems Engineer (Data) designs and builds scalable, fault-tolerant 
+distributed data systems that power large-scale analytics and data processing platforms. 
+Key Responsibilities 
+• Design and implement distributed data architectures 
+• Ensure system scalability, fault tolerance, and consistency 
+• Optimize data storage and processing frameworks 
+• Address latency, throughput, and reliability challenges 
+• Collaborate across engineering and infrastructure teams 
+• Evaluate new distributed data technologies 
+Required Skills 
+• Strong understanding of distributed systems principles 
+• Experience with Hadoop, Spark, Kafka, or similar systems 
+• Proficiency in Java, Scala, or Go 
+• Knowledge of CAP theorem, consensus, and replication 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of distributed systems experience 
+13. MapReduce Developer 
+Job Summary 
+The MapReduce Developer specializes in writing and optimizing MapReduce programs to 
+process massive datasets efficiently within Hadoop environments. 
+Key Responsibilities 
+• Design and implement MapReduce jobs 
+• Optimize data processing workflows 
+• Debug and improve job performance 
+• Manage data transformations at scale 
+• Work closely with Hadoop engineers and analysts 
+Required Skills 
+• Strong Java programming skills 
+• In-depth understanding of MapReduce framework 
+• Knowledge of HDFS and YARN 
+• Experience with large-scale batch processing 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 2–5 years of MapReduce development experience 
+14. HDFS Engineer 
+Job Summary 
+The HDFS Engineer manages and optimizes Hadoop Distributed File System (HDFS) to 
+ensure reliable, secure, and high-performance data storage. 
+Key Responsibilities 
+• Design and manage HDFS storage architecture 
+• Monitor and optimize data replication and availability 
+• Troubleshoot storage and node failures 
+• Implement backup, recovery, and security controls 
+• Ensure high availability of NameNode services 
+• Collaborate with Hadoop and infrastructure teams 
+Required Skills 
+• Deep expertise in HDFS internals 
+• Strong Linux and system administration skills 
+• Experience with cluster monitoring tools 
+• Knowledge of Hadoop security and access controls 
+Qualifications 
+• Bachelor’s degree in Engineering or related field 
+• 4–7 years of HDFS and Hadoop storage experience 
+Data Engineering (Big Data-Focused) – 
+Detailed Job Descriptions 
+1
+️5. Data Engineer (Big Data) 
+Job Summary 
+The Data Engineer (Big Data) designs, builds, and maintains scalable data pipelines and 
+platforms that process large volumes of data for analytics, reporting, and machine learning. 
+Key Responsibilities 
+• Design and implement big data pipelines using Spark, Hadoop, and SQL 
+• Build and maintain ETL/ELT workflows for structured and unstructured data 
+• Integrate data from multiple sources including APIs, databases, and logs 
+• Ensure data quality, reliability, and performance 
+• Optimize storage and query performance 
+• Collaborate with data scientists, analysts, and product teams 
+Required Skills 
+• Programming in Python, Java, or Scala 
+• Strong SQL and data modeling skills 
+• Experience with Hadoop, Spark, Hive 
+• Familiarity with cloud data platforms 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–5 years of data engineering experience 
+16. Senior Data Engineer (Big Data) 
+Job Summary 
+The Senior Data Engineer (Big Data) leads the design and implementation of complex data 
+systems, mentors engineers, and ensures scalable and secure data platforms. 
+Key Responsibilities 
+• Architect large-scale data processing systems 
+• Optimize performance of data pipelines and storage 
+• Lead complex data integration initiatives 
+• Review code and enforce engineering standards 
+• Mentor junior engineers 
+• Collaborate with stakeholders on data requirements 
+Required Skills 
+• Advanced Spark optimization and tuning 
+• Cloud platforms (AWS, Azure, GCP) 
+• Data lake and warehouse architecture 
+• Strong problem-solving skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–9 years of big data engineering experience 
+17. Cloud Data Engineer 
+Job Summary 
+The Cloud Data Engineer builds cloud-native data pipelines and platforms using managed big 
+data and analytics services. 
+Key Responsibilities 
+• Develop data pipelines using cloud services (AWS, Azure, GCP) 
+• Design data lakes and cloud data warehouses 
+• Implement data security, governance, and monitoring 
+• Optimize cost and performance of cloud data solutions 
+• Automate infrastructure using IaC tools 
+Required Skills 
+• Experience with AWS Glue, EMR, Redshift, Azure Data Factory, or BigQuery 
+• Strong SQL and Python skills 
+• Knowledge of Terraform or CloudFormation 
+• Understanding of cloud security principles 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of cloud data engineering experience 
+18. Streaming Data Engineer 
+Job Summary 
+The Streaming Data Engineer builds real-time data pipelines and streaming platforms that 
+process high-velocity data for real-time analytics and applications. 
+Key Responsibilities 
+• Develop real-time pipelines using Kafka, Spark Streaming, or Flink 
+• Ensure low-latency and fault-tolerant streaming systems 
+• Monitor and optimize streaming workloads 
+• Integrate streaming data with downstream analytics systems 
+• Handle data ordering, deduplication, and windowing 
+Required Skills 
+• Expertise in Kafka, Flink, or Spark Streaming 
+• Strong understanding of real-time data processing concepts 
+• Programming in Scala, Java, or Python 
+• Experience with event-driven architectures 
+Qualifications 
+• Bachelor’s degree 
+• 4–8 years of streaming data experience 
+19. Batch Processing Engineer 
+Job Summary 
+The Batch Processing Engineer designs and manages large-scale batch data processing 
+workflows for analytics and reporting. 
+Key Responsibilities 
+• Develop batch data processing pipelines using Spark or Hadoop 
+• Schedule and monitor batch jobs 
+• Optimize batch job performance and resource utilization 
+• Manage data dependencies and workflows 
+• Ensure data accuracy and completeness 
+Required Skills 
+• Strong Spark or Hadoop experience 
+• SQL and data transformation expertise 
+• Workflow orchestration tools (Airflow, Oozie) 
+• Linux and scripting skills 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of batch processing experience 
+20. ETL Engineer (Big Data) 
+Job Summary 
+The ETL Engineer (Big Data) builds scalable Extract, Transform, Load pipelines to move 
+and transform large datasets across systems. 
+Key Responsibilities 
+• Design and develop ETL pipelines using big data frameworks 
+• Extract data from diverse sources 
+• Transform data for analytics and reporting 
+• Load data into data lakes or warehouses 
+• Monitor and troubleshoot ETL jobs 
+Required Skills 
+• ETL tools (Informatica, Talend, AWS Glue) 
+• Spark, Hadoop, SQL 
+• Data quality and validation techniques 
+• Strong problem-solving skills 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of ETL development experience 
+21. ELT Engineer 
+Job Summary 
+The ELT Engineer focuses on loading raw data into data platforms and transforming it within 
+data warehouses or lakes using modern analytics tools. 
+Key Responsibilities 
+• Design ELT workflows using cloud data warehouses 
+• Implement transformations using SQL, dbt, or similar tools 
+• Manage raw, staging, and curated data layers 
+• Optimize transformation performance 
+• Ensure data lineage and documentation 
+Required Skills 
+• Strong SQL expertise 
+• Experience with dbt, Snowflake, BigQuery, or Redshift 
+• Knowledge of modern analytics engineering practices 
+• Understanding of data modeling techniques 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of ELT or analytics engineering experience 
+22. Data Pipeline Engineer 
+Job Summary 
+The Data Pipeline Engineer focuses on building reliable, scalable pipelines that move data 
+across systems for downstream consumption. 
+Key Responsibilities 
+• Design and implement end-to-end data pipelines 
+• Ensure pipeline reliability and fault tolerance 
+• Optimize data flow and performance 
+• Monitor pipeline health and failures 
+• Collaborate with analytics and ML teams 
+Required Skills 
+• Strong programming and SQL skills 
+• Experience with orchestration tools (Airflow, Prefect) 
+• Knowledge of data integration patterns 
+• Familiarity with cloud platforms 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of data pipeline experience 
+23. Data Platform Engineer 
+Job Summary 
+The Data Platform Engineer designs and maintains enterprise data platforms that support 
+analytics, machine learning, and business intelligence at scale. 
+Key Responsibilities 
+• Build and manage scalable data platforms and frameworks 
+• Develop reusable data services and tools 
+• Ensure platform reliability, security, and scalability 
+• Support multiple data consumers across the organization 
+• Drive platform modernization initiatives 
+Required Skills 
+• Strong knowledge of big data and cloud platforms 
+• Experience with data lakes, lakehouses, and warehouses 
+• Platform engineering and DevOps practices 
+• Automation and monitoring tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of data platform engineering experience 
+Streaming & Real-Time Data Roles – 
+Detailed Job Descriptions 
+24. Real-Time Data Engineer 
+Job Summary 
+The Real-Time Data Engineer designs and implements high-throughput, low-latency data 
+pipelines to process streaming and event-driven data for analytics and operational systems. 
+Key Responsibilities 
+• Develop and maintain real-time data pipelines 
+• Implement streaming architectures using Kafka, Flink, Spark Streaming, or Storm 
+• Ensure data consistency, reliability, and low-latency delivery 
+• Collaborate with data scientists and analysts for real-time analytics 
+• Monitor and optimize streaming workloads and infrastructure 
+• Troubleshoot and resolve streaming system issues 
+Required Skills 
+• Programming in Java, Scala, or Python 
+• Strong knowledge of Kafka, Spark Streaming, Flink, or Storm 
+• Experience with distributed systems and event-driven architectures 
+• SQL and real-time data transformation expertise 
+Qualifications 
+• Bachelor’s degree in Computer Science, Engineering, or related field 
+• 3–6 years of real-time data engineering experience 
+25. Streaming Platform Engineer 
+Job Summary 
+The Streaming Platform Engineer builds, manages, and optimizes event-driven streaming 
+platforms to support real-time analytics and applications. 
+Key Responsibilities 
+• Design and deploy streaming data platforms 
+• Integrate multiple streaming technologies and data sources 
+• Ensure scalability, reliability, and fault tolerance 
+• Maintain platform security and compliance 
+• Optimize cluster resources and streaming performance 
+• Collaborate with data engineers, analysts, and DevOps teams 
+Required Skills 
+• Expertise in Kafka, Flink, or Spark Streaming 
+• Knowledge of cloud-based streaming services (AWS Kinesis, Azure Event Hubs, 
+GCP Pub/Sub) 
+• Linux and cluster management skills 
+• Familiarity with monitoring and alerting tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in streaming platform engineering 
+26. Kafka Engineer 
+Job Summary 
+The Kafka Engineer specializes in designing, implementing, and managing Apache Kafka 
+clusters and related messaging systems for high-volume data streaming. 
+Key Responsibilities 
+• Design, deploy, and maintain Kafka clusters 
+• Implement topics, partitions, and replication strategies 
+• Monitor and optimize Kafka performance and throughput 
+• Ensure high availability and fault tolerance 
+• Integrate Kafka with data pipelines and applications 
+• Provide guidance on Kafka best practices 
+Required Skills 
+• Deep knowledge of Apache Kafka internals 
+• Experience with Kafka Connect, Kafka Streams, and KSQL 
+• Linux and scripting skills 
+• Understanding of distributed systems and event-driven architecture 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of Kafka and streaming experience 
+27. Event Streaming Engineer 
+Job Summary 
+The Event Streaming Engineer designs and implements event-driven systems that process, 
+store, and distribute real-time events across multiple systems and applications. 
+Key Responsibilities 
+• Develop event-driven architectures using Kafka, Pulsar, or similar systems 
+• Build event pipelines for real-time processing and analytics 
+• Ensure event consistency, ordering, and delivery guarantees 
+• Collaborate with software engineering and data teams 
+• Optimize event processing performance and scalability 
+Required Skills 
+• Expertise in Kafka, Pulsar, or similar messaging systems 
+• Programming in Java, Scala, or Python 
+• Knowledge of stream processing frameworks like Flink or Spark Streaming 
+• Strong understanding of distributed system principles 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience in event-driven engineering 
+28. Flink Engineer 
+Job Summary 
+The Flink Engineer builds high-performance, scalable, and low-latency data pipelines using 
+Apache Flink for real-time analytics and operational intelligence. 
+Key Responsibilities 
+• Develop and maintain Flink applications 
+• Optimize Flink jobs for performance and fault tolerance 
+• Implement stateful streaming pipelines 
+• Integrate Flink with Kafka, HDFS, or cloud storage 
+• Monitor, debug, and tune streaming workloads 
+Required Skills 
+• Strong expertise in Apache Flink 
+• Programming in Java or Scala 
+• Knowledge of distributed stream processing concepts 
+• Experience with real-time analytics 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of Flink or stream processing experience 
+29. Storm Developer 
+Job Summary 
+The Storm Developer designs, implements, and maintains Apache Storm topologies for 
+processing real-time streaming data efficiently and reliably. 
+Key Responsibilities 
+• Develop Storm topologies for data ingestion, processing, and analytics 
+• Optimize performance, resource utilization, and fault tolerance 
+• Integrate Storm with Kafka, HDFS, or databases 
+• Monitor topologies and troubleshoot issues 
+• Collaborate with data engineers and analysts 
+Required Skills 
+• Strong experience with Apache Storm 
+• Programming in Java or Python 
+• Understanding of distributed and parallel processing 
+• Knowledge of real-time data processing patterns 
+Qualifications 
+• Bachelor’s degree 
+• 3–5 years of experience with Storm or similar frameworks 
+30. Stream Processing Engineer 
+Job Summary 
+The Stream Processing Engineer builds, optimizes, and maintains data pipelines that process 
+real-time streaming data for analytics, monitoring, and decision-making. 
+Key Responsibilities 
+• Design and implement real-time stream processing workflows 
+• Optimize data throughput and latency 
+• Ensure fault tolerance and reliability of streaming systems 
+• Collaborate with stakeholders for real-time data requirements 
+• Monitor and maintain processing infrastructure 
+Required Skills 
+• Experience with Spark Streaming, Flink, or Storm 
+• Programming in Java, Scala, or Python 
+• Knowledge of Kafka, cloud streaming services, and distributed systems 
+• SQL and data transformation expertise 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of stream processing experience 
+Cloud & Modern Big Data Roles – Detailed 
+Job Descriptions 
+31. Cloud Big Data Engineer 
+Job Summary 
+The Cloud Big Data Engineer designs, implements, and maintains cloud-native big data 
+solutions for large-scale data processing, analytics, and AI/ML workloads. 
+Key Responsibilities 
+• Design, develop, and deploy cloud-based big data pipelines 
+• Manage data ingestion, processing, and storage in cloud environments 
+• Optimize cost, scalability, and performance of cloud-based data platforms 
+• Ensure security, compliance, and governance of cloud data assets 
+• Collaborate with data scientists, analysts, and DevOps teams 
+• Monitor and troubleshoot cloud data systems 
+Required Skills 
+• Experience with cloud platforms (AWS, Azure, GCP) 
+• Expertise in Hadoop, Spark, or Flink in the cloud 
+• Strong SQL and Python/Scala programming skills 
+• Knowledge of cloud storage, data lakes, and cloud-native architectures 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Engineering, or related field 
+• 4–7 years of experience in cloud big data engineering 
+32. AWS Big Data Engineer 
+Job Summary 
+The AWS Big Data Engineer develops, deploys, and manages scalable data solutions using 
+AWS managed services for analytics, ETL, and data warehousing. 
+Key Responsibilities 
+• Build big data pipelines using AWS services (EMR, Glue, Redshift, Kinesis) 
+• Optimize storage, compute, and data processing performance 
+• Implement ETL/ELT workflows in AWS environments 
+• Monitor data pipelines and ensure reliability and fault tolerance 
+• Implement cloud security best practices and IAM policies 
+Required Skills 
+• Expertise in AWS big data services (EMR, Glue, Redshift, S3, Athena) 
+• Programming in Python, Java, or Scala 
+• Experience with streaming data (Kinesis, Kafka) 
+• Strong knowledge of cloud infrastructure and deployment 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with AWS big data solutions 
+33. Azure Big Data Engineer 
+Job Summary 
+The Azure Big Data Engineer designs and maintains large-scale big data solutions on 
+Microsoft Azure for analytics and machine learning workloads. 
+Key Responsibilities 
+• Develop and manage data pipelines using Azure Data Factory, Synapse Analytics, 
+Databricks 
+• Integrate Azure storage and compute services for big data workflows 
+• Optimize pipelines for performance and cost efficiency 
+• Ensure security and compliance of data assets 
+• Collaborate with analytics and AI/ML teams 
+Required Skills 
+• Experience with Azure services (Data Factory, Synapse, Databricks, Data Lake 
+Storage) 
+• Programming in Python, Scala, or SQL 
+• Strong knowledge of distributed data processing 
+• Familiarity with monitoring and alerting tools 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of Azure big data experience 
+34. GCP Big Data Engineer 
+Job Summary 
+The GCP Big Data Engineer builds, manages, and optimizes scalable big data pipelines and 
+platforms using Google Cloud services. 
+Key Responsibilities 
+• Implement data pipelines using BigQuery, Dataflow, Dataproc, Pub/Sub 
+• Develop batch and streaming ETL/ELT workflows 
+• Optimize cloud data storage, compute, and query performance 
+• Ensure data security, governance, and compliance 
+• Collaborate with data science and analytics teams 
+Required Skills 
+• Expertise in GCP services (BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Storage) 
+• Strong SQL, Python, and Java/Scala programming 
+• Knowledge of distributed computing and cloud architecture 
+• Experience with monitoring and logging tools 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of GCP big data experience 
+35. Serverless Data Engineer 
+Job Summary 
+The Serverless Data Engineer builds fully serverless big data solutions for ETL, analytics, 
+and real-time processing without managing traditional infrastructure. 
+Key Responsibilities 
+• Design serverless data pipelines using cloud services like AWS Lambda, Kinesis, 
+Glue, Step Functions 
+• Develop batch and streaming workflows 
+• Optimize cost and performance using serverless paradigms 
+• Ensure scalability, security, and fault tolerance 
+• Collaborate with cross-functional teams for analytics and ML projects 
+Required Skills 
+• Experience with serverless computing platforms (AWS Lambda, Azure Functions, 
+GCP Cloud Functions) 
+• Strong Python or Java skills 
+• Knowledge of serverless architecture patterns 
+• Experience with event-driven pipelines and message queues 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of cloud big data experience 
+36. Lakehouse Engineer 
+Job Summary 
+The Lakehouse Engineer designs, implements, and maintains modern data lakehouse 
+architectures that combine the features of data lakes and data warehouses. 
+Key Responsibilities 
+• Implement lakehouse platforms using Delta Lake, Apache Hudi, or Iceberg 
+• Build ETL/ELT pipelines for batch and streaming data 
+• Optimize storage, query performance, and scalability 
+• Ensure data governance, security, and consistency 
+• Support analytics, BI, and ML workloads 
+Required Skills 
+• Expertise in lakehouse frameworks (Delta Lake, Hudi, Iceberg) 
+• Strong SQL, Python, or Scala programming 
+• Knowledge of Spark, Flink, or other distributed engines 
+• Cloud experience with AWS, Azure, or GCP 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in modern big data architectures 
+37. Big Data Platform Engineer 
+Job Summary 
+The Big Data Platform Engineer builds, maintains, and optimizes enterprise-scale big data 
+platforms for analytics, AI, and operational workloads. 
+Key Responsibilities 
+• Architect and deploy scalable big data platforms (on-premise, cloud, or hybrid) 
+• Ensure high availability, fault tolerance, and performance 
+• Maintain data ingestion, processing, and storage pipelines 
+• Implement monitoring, alerting, and automation for platform operations 
+• Collaborate with data engineers, analysts, and DevOps teams 
+Required Skills 
+• Deep knowledge of Hadoop, Spark, Kafka, and cloud platforms 
+• Strong programming and system design skills 
+• Experience with data governance, security, and compliance 
+• Familiarity with platform automation and DevOps tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of experience in big data platform engineering 
+Data Warehousing & Analytics Engineering – Detailed Job Descriptions 
+38. Analytics Engineer 
+Job Summary 
+The Analytics Engineer bridges the gap between data engineering and business analytics, 
+building reliable and reusable data models and pipelines for reporting and decision-making. 
+Key Responsibilities 
+• Develop and maintain analytics-focused data pipelines 
+• Build data models to support dashboards, reporting, and BI 
+• Collaborate with analysts, product teams, and data scientists 
+• Optimize data transformations for performance and scalability 
+• Ensure data quality, consistency, and lineage 
+• Implement version control and CI/CD for analytics code 
+Required Skills 
+• SQL expertise and data modeling experience 
+• Experience with ETL/ELT tools and workflow orchestration (Airflow, dbt) 
+• Python or R for analytics pipelines 
+• Familiarity with cloud data warehouses and analytics platforms 
+Qualifications 
+• Bachelor’s degree in Computer Science, Data Science, or related field 
+• 2–5 years of experience in analytics engineering or data modeling 
+39. Big Data Analytics Engineer 
+Job Summary 
+The Big Data Analytics Engineer develops scalable data pipelines and platforms to support 
+large-scale analytics, dashboards, and machine learning initiatives. 
+Key Responsibilities 
+• Build and optimize big data pipelines for analytics workloads 
+• Design and implement data models for large-scale datasets 
+• Support data extraction, transformation, and visualization for BI 
+• Collaborate with data scientists for ML feature engineering 
+• Ensure data quality, governance, and performance tuning 
+Required Skills 
+• Expertise in SQL, Spark, Hadoop, or cloud analytics tools 
+• Strong Python or Scala programming skills 
+• Knowledge of ETL/ELT and data modeling best practices 
+• Experience with data lakes and warehouses 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–6 years of experience in big data analytics engineering 
+40. Data Warehouse Engineer 
+Job Summary 
+The Data Warehouse Engineer designs, develops, and maintains enterprise data warehouses 
+to support reporting, analytics, and business intelligence. 
+Key Responsibilities 
+• Design and implement data warehouse architectures 
+• Develop ETL/ELT workflows to populate warehouse tables 
+• Optimize queries and storage for performance 
+• Monitor data quality and integrity 
+• Collaborate with BI, analytics, and product teams 
+• Document data models, pipelines, and schemas 
+Required Skills 
+• Strong SQL and data modeling skills 
+• Experience with ETL/ELT tools 
+• Knowledge of data warehousing concepts (star/snowflake schemas) 
+• Familiarity with cloud or on-premise warehouse technologies 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience in data warehousing 
+41. Cloud Data Warehouse Engineer 
+Job Summary 
+The Cloud Data Warehouse Engineer builds, manages, and optimizes cloud-native data 
+warehouses for analytics and reporting. 
+Key Responsibilities 
+• Design cloud data warehouses using AWS Redshift, GCP BigQuery, or Azure 
+Synapse 
+• Build ETL/ELT pipelines to load cloud data warehouses 
+• Optimize storage, queries, and cost for cloud platforms 
+• Ensure data security, compliance, and governance 
+• Support BI and analytics teams with data models and reports 
+Required Skills 
+• Experience with cloud data warehouse platforms 
+• Strong SQL and ETL/ELT skills 
+• Python or Scala for automation and transformations 
+• Knowledge of cloud storage and architecture best practices 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with cloud data warehousing 
+42. Snowflake Engineer 
+Job Summary 
+The Snowflake Engineer specializes in designing and optimizing data pipelines and storage 
+for Snowflake-based data warehouse solutions. 
+Key Responsibilities 
+• Develop and optimize ETL/ELT pipelines for Snowflake 
+• Build and maintain data models and schemas 
+• Optimize query performance and storage costs 
+• Integrate Snowflake with analytics and BI tools 
+• Ensure data security, compliance, and governance 
+Required Skills 
+• Expert in Snowflake architecture and features 
+• Strong SQL and data modeling skills 
+• Experience with Python or ETL/ELT tools 
+• Knowledge of cloud platforms (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with Snowflake 
+43. BigQuery Engineer 
+Job Summary 
+The BigQuery Engineer develops, manages, and optimizes Google BigQuery data 
+warehouses and pipelines for large-scale analytics. 
+Key Responsibilities 
+• Build and maintain BigQuery datasets and ETL/ELT pipelines 
+• Optimize query performance and storage costs 
+• Implement data governance, security, and lineage 
+• Integrate BigQuery with BI tools like Looker, Tableau, or Data Studio 
+• Collaborate with analytics and data science teams 
+Required Skills 
+• Expert in Google BigQuery and SQL 
+• Experience with Python or ETL/ELT tools 
+• Knowledge of cloud architecture and data pipelines 
+• Familiarity with large-scale analytics workflows 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with BigQuery and cloud data engineering 
+44. Redshift Engineer 
+Job Summary 
+The Redshift Engineer designs, builds, and maintains AWS Redshift data warehouses, 
+ensuring efficient and secure analytics solutions. 
+Key Responsibilities 
+• Develop and optimize ETL/ELT workflows for Redshift 
+• Design schemas and data models for performance and scalability 
+• Monitor and tune queries and storage 
+• Ensure security, compliance, and data governance 
+• Collaborate with BI, analytics, and data engineering teams 
+Required Skills 
+• Expertise in AWS Redshift and SQL 
+• Experience with ETL/ELT tools and cloud pipelines 
+• Knowledge of data modeling and warehousing best practices 
+• Python or scripting skills for automation 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with Redshift or AWS cloud data warehouses 
+Machine Learning & AI Data Engineering – Detailed Job Descriptions 
+45. ML Data Engineer 
+Job Summary 
+The ML Data Engineer builds and manages large-scale data pipelines that feed machine 
+learning models with clean, reliable, and feature-rich datasets. 
+Key Responsibilities 
+• Develop and maintain data pipelines for ML workflows 
+• Transform raw data into model-ready features 
+• Collaborate with data scientists to support ML experiments 
+• Ensure data quality, consistency, and reproducibility 
+• Optimize pipelines for performance and scalability 
+• Monitor data workflows and troubleshoot issues 
+Required Skills 
+• Strong programming in Python, Java, or Scala 
+• Experience with Spark, Hadoop, or cloud-based data pipelines 
+• Knowledge of SQL and data modeling 
+• Familiarity with ML frameworks (TensorFlow, PyTorch, scikit-learn) 
+• Understanding of feature engineering best practices 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Science, or related field 
+• 3–6 years of experience in ML data pipelines or big data engineering 
+46. AI Data Engineer 
+Job Summary 
+The AI Data Engineer designs, builds, and maintains data infrastructure for AI applications, 
+ensuring high-quality, scalable datasets for training and inference. 
+Key Responsibilities 
+• Build and maintain AI data pipelines for structured and unstructured data 
+• Collaborate with AI teams to define data requirements 
+• Integrate multiple data sources and ensure consistency 
+• Optimize storage and retrieval of large-scale AI datasets 
+• Implement monitoring, versioning, and lineage for AI data 
+Required Skills 
+• Programming in Python or Scala 
+• Knowledge of big data frameworks (Spark, Hadoop) 
+• Experience with cloud AI platforms (AWS Sagemaker, Azure ML, GCP AI Platform) 
+• Understanding of ML lifecycle and data preparation 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–7 years of experience in AI-focused data engineering 
+47. Feature Store Engineer 
+Job Summary 
+The Feature Store Engineer designs, builds, and maintains feature stores that provide 
+consistent, reusable features for machine learning models. 
+Key Responsibilities 
+• Develop and maintain centralized feature stores 
+• Ensure features are accessible, versioned, and reproducible 
+• Automate feature extraction, transformation, and validation 
+• Collaborate with data scientists and ML engineers 
+• Monitor feature usage and performance 
+Required Skills 
+• Experience with feature store platforms (Feast, Tecton, Hopsworks) 
+• Strong programming in Python or Scala 
+• Knowledge of Spark, Hadoop, or cloud pipelines 
+• Understanding of ML feature engineering and modeling 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–6 years of experience in ML or data engineering 
+48. MLOps Data Engineer 
+Job Summary 
+The MLOps Data Engineer bridges ML and operations by building robust data infrastructure 
+for production ML workflows and automating model deployment pipelines. 
+Key Responsibilities 
+• Develop production-ready data pipelines for ML models 
+• Automate ML model training, validation, and deployment pipelines 
+• Ensure data and model versioning, monitoring, and lineage 
+• Collaborate with ML engineers to operationalize AI solutions 
+• Optimize pipelines for performance, scalability, and reliability 
+Required Skills 
+• Programming in Python, Scala, or Java 
+• Knowledge of ML lifecycle and MLOps tools (MLflow, Kubeflow, Airflow, Prefect) 
+• Cloud experience (AWS, GCP, Azure) 
+• Strong SQL and data engineering skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in ML data pipelines or MLOps 
+49. Data Engineer – AI Platforms 
+Job Summary 
+The Data Engineer – AI Platforms builds and maintains the core data infrastructure for AI 
+platforms, enabling efficient access, processing, and management of AI datasets. 
+Key Responsibilities 
+• Design and implement data pipelines for AI platform services 
+• Ensure high-performance data storage and retrieval for AI workloads 
+• Integrate structured, semi-structured, and unstructured data sources 
+• Support AI feature engineering and model training workflows 
+• Monitor data systems and ensure reliability and scalability 
+Required Skills 
+• Expertise in Spark, Hadoop, or cloud-native data platforms 
+• Python or Scala programming skills 
+• Knowledge of AI frameworks and large-scale ML datasets 
+• Familiarity with data governance, lineage, and security 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in AI or ML-focused data engineering 
+50. Model Data Infrastructure Engineer 
+Job Summary 
+The Model Data Infrastructure Engineer designs, builds, and maintains scalable infrastructure 
+to support machine learning model training, experimentation, and deployment. 
+Key Responsibilities 
+• Develop and maintain large-scale data pipelines for ML model input 
+• Ensure data consistency, quality, and accessibility for training and inference 
+• Implement infrastructure for model versioning, evaluation, and monitoring 
+• Collaborate with data scientists and ML engineers to improve workflows 
+• Optimize storage, compute, and processing for AI datasets 
+Required Skills 
+• Strong programming skills in Python, Scala, or Java 
+• Knowledge of distributed computing frameworks (Spark, Hadoop) 
+• Experience with MLOps, ML lifecycle tools, and feature stores 
+• Cloud experience (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of experience in ML infrastructure or AI data engineering 
+DevOps, Infrastructure & Reliability (Data) – Detailed Job Descriptions 
+51. Data DevOps Engineer 
+Job Summary 
+The Data DevOps Engineer builds and maintains automated pipelines for data engineering 
+workflows, ensuring smooth deployment, monitoring, and operation of data systems. 
+Key Responsibilities 
+• Design, implement, and maintain CI/CD pipelines for data pipelines and analytics 
+workflows 
+• Automate deployment of big data applications and ETL/ELT workflows 
+• Monitor data systems, pipelines, and workflows for performance and reliability 
+• Collaborate with data engineers, platform engineers, and ML engineers 
+• Ensure infrastructure as code (IaC) best practices are followed 
+Required Skills 
+• CI/CD tools (Jenkins, GitHub Actions, GitLab CI, CircleCI) 
+• Scripting and automation (Python, Bash, PowerShell) 
+• Containerization (Docker, Kubernetes) 
+• Experience with data engineering tools (Spark, Hadoop, Kafka) 
+• Cloud platforms (AWS, GCP, Azure) 
+Qualifications 
+• Bachelor’s degree in Computer Science, Engineering, or related field 
+• 3–6 years of experience in DevOps or data platform operations 
+52. Data Infrastructure Engineer 
+Job Summary 
+The Data Infrastructure Engineer designs, deploys, and maintains the core infrastructure that 
+powers large-scale data platforms and pipelines. 
+Key Responsibilities 
+• Architect and maintain scalable and reliable data infrastructure 
+• Manage distributed storage, compute clusters, and data lakes 
+• Implement automation for infrastructure provisioning and monitoring 
+• Ensure high availability, fault tolerance, and disaster recovery 
+• Collaborate with platform and data engineering teams 
+Required Skills 
+• Strong Linux/Unix administration skills 
+• Experience with Hadoop, Spark, Kafka, and distributed storage 
+• Cloud infrastructure expertise (AWS, Azure, GCP) 
+• Infrastructure as Code (Terraform, CloudFormation, Ansible) 
+• Monitoring and logging tools (Prometheus, Grafana, ELK Stack) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in data infrastructure or cloud operations 
+53. Data Reliability Engineer 
+Job Summary 
+The Data Reliability Engineer ensures the availability, stability, and performance of large
+scale data systems and pipelines across the organization. 
+Key Responsibilities 
+• Monitor and maintain operational health of data pipelines and platforms 
+• Implement alerts, monitoring, and automated remediation for data workflows 
+• Identify and resolve performance bottlenecks and system failures 
+• Collaborate with engineering, data science, and platform teams 
+• Enforce best practices for reliability, scalability, and observability 
+Required Skills 
+• Strong experience in monitoring and observability tools (Prometheus, Grafana, ELK, 
+Datadog) 
+• Scripting and automation (Python, Bash) 
+• Distributed data systems experience (Hadoop, Spark, Kafka) 
+• Cloud experience (AWS, GCP, Azure) 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of experience in reliability engineering for data systems 
+54. Data SRE (Site Reliability Engineer) 
+Job Summary 
+The Data Site Reliability Engineer (SRE) applies software engineering principles to build 
+highly reliable, scalable, and automated data platforms and services. 
+Key Responsibilities 
+• Design and implement highly reliable and scalable data systems 
+• Build automation for deployment, scaling, and monitoring 
+• Ensure SLA/SLO compliance for data pipelines and services 
+• Troubleshoot complex operational issues and system failures 
+• Collaborate with data engineers and platform teams to improve reliability 
+Required Skills 
+• Expertise in distributed systems and cloud platforms 
+• Programming and automation (Python, Go, Java) 
+• CI/CD and container orchestration (Kubernetes, Docker) 
+• Monitoring, alerting, and observability (Prometheus, Grafana, ELK, Datadog) 
+• Incident management and post-mortem analysis 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of experience in SRE or reliability engineering for data systems 
+55. Platform Reliability Engineer (Data) 
+Job Summary 
+The Platform Reliability Engineer focuses on ensuring the performance, scalability, and 
+reliability of enterprise-wide data platforms and pipelines. 
+Key Responsibilities 
+• Design and maintain reliable, scalable, and fault-tolerant data platforms 
+• Implement platform monitoring, alerting, and automated remediation 
+• Optimize compute, storage, and workflow performance 
+• Collaborate with DevOps, data engineering, and ML teams 
+• Support disaster recovery, backup, and high-availability strategies 
+Required Skills 
+• Strong knowledge of distributed data systems (Hadoop, Spark, Kafka) 
+• Cloud and platform architecture expertise (AWS, GCP, Azure) 
+• CI/CD pipelines and infrastructure automation 
+• Observability and monitoring tools 
+• Programming/scripting (Python, Bash, Go) 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–10 years of experience in platform reliability or data infrastructure 
+Architecture & Leadership Roles – Detailed 
+Job Descriptions 
+56. Big Data Architect 
+Job Summary 
+The Big Data Architect designs and implements enterprise-scale big data solutions, ensuring 
+efficient data storage, processing, and analytics across distributed systems. 
+Key Responsibilities 
+• Design architecture for big data platforms, pipelines, and lakes 
+• Evaluate and select big data technologies (Hadoop, Spark, Kafka, Flink) 
+• Optimize data workflows for scalability, performance, and reliability 
+• Ensure integration of structured, semi-structured, and unstructured data 
+• Collaborate with engineering, analytics, and business teams 
+• Define data security, governance, and compliance standards 
+Required Skills 
+• Deep expertise in big data frameworks and distributed systems 
+• Strong programming and data modeling skills 
+• Cloud platforms (AWS, Azure, GCP) and data lakes/warehouses 
+• System design, scalability, and performance optimization 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Engineering, or related field 
+• 8–12 years of experience in big data engineering and architecture 
+57. Data Architect (Big Data) 
+Job Summary 
+The Data Architect (Big Data) is responsible for designing data models, pipelines, and 
+governance frameworks to support analytics and machine learning at scale. 
+Key Responsibilities 
+• Design enterprise-level big data solutions and pipelines 
+• Develop logical and physical data models for analytics and ML workloads 
+• Ensure data consistency, quality, and lineage 
+• Guide implementation of ETL/ELT pipelines and storage strategies 
+• Collaborate with architects, engineers, and business stakeholders 
+Required Skills 
+• Data modeling and schema design (star/snowflake, normalized/denormalized) 
+• Expertise in Hadoop, Spark, Kafka, and cloud data platforms 
+• SQL, Python, or Scala programming 
+• Knowledge of data governance and metadata management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 7–10 years of experience in data architecture and engineering 
+58. Enterprise Data Architect 
+Job Summary 
+The Enterprise Data Architect designs the organization-wide data strategy, ensuring 
+integration, quality, and governance of data assets across all systems. 
+Key Responsibilities 
+• Define enterprise data architecture, standards, and best practices 
+• Align data strategy with business goals and analytics needs 
+• Oversee integration across transactional, analytical, and big data systems 
+• Ensure compliance, security, and regulatory adherence 
+• Guide teams on data architecture design and implementation 
+Required Skills 
+• Enterprise-level data architecture and governance 
+• Cloud, big data, and traditional data warehousing expertise 
+• Strong communication and stakeholder management 
+• SQL, ETL/ELT, and programming skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 10+ years of experience in data architecture across multiple systems 
+59. Principal Data Architect 
+Job Summary 
+The Principal Data Architect leads the design of complex data solutions, mentors teams, and 
+drives innovation in data architecture practices. 
+Key Responsibilities 
+• Lead architecture for enterprise data platforms and pipelines 
+• Evaluate emerging technologies and recommend adoption strategies 
+• Ensure scalability, performance, and reliability of data systems 
+• Mentor architects and senior engineers on design and best practices 
+• Collaborate with business and technical leadership on strategy 
+Required Skills 
+• Expert in distributed systems, cloud platforms, and big data technologies 
+• Advanced data modeling and system design expertise 
+• Strong leadership, mentoring, and strategic planning skills 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 12+ years of experience in data architecture and enterprise data systems 
+60. Head of Data Engineering 
+Job Summary 
+The Head of Data Engineering oversees all data engineering teams and initiatives, ensuring 
+high-performance, scalable, and reliable data systems aligned with business objectives. 
+Key Responsibilities 
+• Lead multiple data engineering teams and projects 
+• Define strategy for data platform, pipelines, and analytics support 
+• Ensure adoption of best practices for engineering, security, and governance 
+• Manage budgets, resources, and roadmap for data initiatives 
+• Collaborate with C-level executives to align data strategy with business goals 
+Required Skills 
+• Leadership and team management experience 
+• Expertise in big data, cloud platforms, and modern data engineering 
+• Strategic planning, budgeting, and project management 
+• Excellent communication and stakeholder management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 10–15 years of experience in data engineering and leadership 
+61. Director of Data Engineering 
+Job Summary 
+The Director of Data Engineering leads enterprise-wide data engineering operations, strategy, 
+and architecture, driving innovation and operational excellence. 
+Key Responsibilities 
+• Define and execute data engineering strategy and roadmap 
+• Oversee design, implementation, and maintenance of large-scale data platforms 
+• Ensure cross-team collaboration and alignment with business objectives 
+• Manage budgets, resources, and hiring for data engineering teams 
+• Guide adoption of emerging technologies and best practices 
+Required Skills 
+• Leadership of large data engineering teams 
+• Enterprise data architecture and big data platforms 
+• Cloud platforms, distributed systems, and analytics 
+• Strategic thinking, planning, and stakeholder communication 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 12–18 years of experience in data engineering and leadership 
+62. VP of Data Engineering 
+Job Summary 
+The VP of Data Engineering is an executive leader responsible for the organization’s data 
+engineering vision, strategy, and operations at a global or enterprise level. 
+Key Responsibilities 
+• Set the overall strategy and vision for data engineering 
+• Oversee multiple data engineering divisions and enterprise platforms 
+• Align data initiatives with organizational objectives and business strategy 
+• Manage executive stakeholders and drive innovation in data capabilities 
+• Ensure operational excellence, scalability, and security of all data systems 
+Required Skills 
+• Executive leadership and strategic planning 
+• Deep expertise in big data, cloud platforms, analytics, and enterprise data architecture 
+• Financial management, resource planning, and organizational leadership 
+• Strong communication, negotiation, and stakeholder engagement 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 15+ years of experience in data engineering, architecture, and leadership 
+Freelance, Consulting & Contract Roles – 
+Detailed Job Descriptions 
+63. Freelance Big Data Engineer 
+Job Summary 
+The Freelance Big Data Engineer works independently or with multiple clients to design, 
+build, and maintain big data pipelines and platforms on a contract basis. 
+Key Responsibilities 
+• Develop scalable data pipelines using Hadoop, Spark, Kafka, or cloud services 
+• Integrate data from multiple sources (structured, semi-structured, unstructured) 
+• Ensure data quality, consistency, and performance optimization 
+• Deliver solutions according to client requirements and deadlines 
+• Provide documentation and knowledge transfer for deployed systems 
+Required Skills 
+• Strong programming in Python, Java, or Scala 
+• Expertise in distributed computing frameworks (Hadoop, Spark) 
+• SQL, data modeling, and cloud data platform experience 
+• Self-management, communication, and client-facing skills 
+Qualifications 
+• Bachelor’s degree in Computer Science, Data Science, or related field 
+• 3–8 years of experience in big data engineering 
+• Proven freelance or independent project experience preferred 
+64. Contract Big Data Engineer 
+Job Summary 
+The Contract Big Data Engineer is engaged on a temporary basis to support enterprise or 
+startup data initiatives, delivering high-quality engineering solutions. 
+Key Responsibilities 
+• Implement and optimize big data pipelines and ETL/ELT workflows 
+• Support ongoing data platform projects or migration initiatives 
+• Ensure system reliability, scalability, and security 
+• Collaborate with internal teams and stakeholders on requirements 
+• Provide operational support and troubleshooting for contracted period 
+Required Skills 
+• Expertise in Hadoop, Spark, Kafka, or other distributed systems 
+• SQL and programming skills (Python, Java, Scala) 
+• Cloud platform knowledge (AWS, GCP, Azure) 
+• Ability to quickly understand client systems and deliver solutions 
+Qualifications 
+• Bachelor’s degree 
+• 3–7 years of big data engineering experience 
+• Prior contract or consultancy experience is a plus 
+65. Big Data Consultant 
+Job Summary 
+The Big Data Consultant provides expert guidance to organizations on designing, 
+implementing, and optimizing big data strategies and platforms. 
+Key Responsibilities 
+• Assess client data architecture and provide recommendations 
+• Design scalable and cost-effective big data solutions 
+• Guide technology selection and implementation best practices 
+• Advise on cloud migration, platform upgrades, and analytics enablement 
+• Deliver workshops, documentation, and executive recommendations 
+Required Skills 
+• Deep knowledge of Hadoop, Spark, Kafka, Flink, and cloud platforms 
+• Strong communication and client management skills 
+• Experience with data governance, security, and compliance 
+• Ability to translate business requirements into technical solutions 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–12 years of experience in big data architecture, consulting, or engineering 
+• Proven client-facing consultancy experience 
+66. Data Engineering Consultant 
+Job Summary 
+The Data Engineering Consultant helps organizations implement, optimize, and scale data 
+pipelines and engineering practices for analytics and ML initiatives. 
+Key Responsibilities 
+• Design and implement data pipelines and ETL/ELT workflows 
+• Optimize data storage, processing, and workflow performance 
+• Mentor and guide client teams on best practices and standards 
+• Support cloud adoption, data governance, and platform modernization 
+• Provide actionable insights and technical recommendations 
+Required Skills 
+• Expertise in Spark, Hadoop, Kafka, SQL, and cloud data platforms 
+• Strong Python, Scala, or Java programming skills 
+• Familiarity with data modeling, warehousing, and analytics platforms 
+• Excellent client-facing and advisory capabilities 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–10 years of experience in data engineering and consulting 
+• Previous experience in client-facing data projects 
+67. Big Data Solutions Architect 
+Job Summary 
+The Big Data Solutions Architect designs end-to-end big data platforms and solutions for 
+clients, ensuring performance, scalability, and alignment with business goals. 
+Key Responsibilities 
+• Architect enterprise or startup big data solutions (cloud or on-premise) 
+• Define technology stack, storage, and processing frameworks 
+• Ensure scalability, fault tolerance, and security compliance 
+• Collaborate with client engineering teams to deliver high-quality solutions 
+• Provide technical leadership and documentation for deployed systems 
+Required Skills 
+• Deep expertise in big data ecosystems (Hadoop, Spark, Kafka, Flink) 
+• Cloud architecture skills (AWS, Azure, GCP) 
+• Strong system design, data modeling, and SQL skills 
+• Excellent communication and stakeholder management abilities 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 8–15 years of experience in big data engineering and architecture 
+• Proven track record of delivering enterprise-scale solutions 
+Entry-Level & Training Roles – Detailed 
+Job Descriptions 
+68. Big Data Engineer Intern 
+Job Summary 
+The Big Data Engineer Intern assists in developing and maintaining big data pipelines and 
+platforms while gaining hands-on experience with distributed systems and cloud 
+technologies. 
+Key Responsibilities 
+• Assist in building and maintaining data pipelines and ETL/ELT workflows 
+• Work with structured and unstructured data sources 
+• Support testing, debugging, and documentation of data solutions 
+• Learn and apply big data technologies like Hadoop, Spark, and Kafka 
+• Collaborate with senior engineers on data platform projects 
+Required Skills 
+• Basic programming skills (Python, Java, or Scala) 
+• Understanding of SQL and relational databases 
+• Interest in distributed systems, cloud platforms, and big data 
+• Analytical thinking and problem-solving skills 
+Qualifications 
+• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data 
+Science, or related field 
+• No prior work experience required; internships or projects are a plus 
+69. Data Engineering Intern 
+Job Summary 
+The Data Engineering Intern works with mentors to gain practical experience in building and 
+maintaining data pipelines, databases, and analytics platforms. 
+Key Responsibilities 
+• Assist in designing and implementing data ingestion and processing workflows 
+• Support data cleaning, transformation, and integration tasks 
+• Learn to work with cloud data platforms and big data frameworks 
+• Contribute to documentation and testing of pipelines 
+• Participate in team meetings and technical discussions 
+Required Skills 
+• Programming basics (Python, SQL, or Java) 
+• Understanding of data structures and algorithms 
+• Eagerness to learn big data tools and cloud platforms 
+• Good communication and teamwork skills 
+Qualifications 
+• Undergraduate or graduate student in Computer Science, Data Science, or related 
+field 
+• Strong academic performance and interest in data engineering 
+70. Graduate Big Data Engineer 
+Job Summary 
+The Graduate Big Data Engineer is an entry-level professional responsible for assisting in the 
+design, development, and maintenance of big data solutions under guidance. 
+Key Responsibilities 
+• Build, test, and maintain data pipelines and ETL workflows 
+• Work with distributed computing frameworks like Hadoop and Spark 
+• Assist in integrating and transforming large datasets for analytics 
+• Support troubleshooting, performance tuning, and data quality checks 
+• Collaborate with senior engineers and data architects 
+Required Skills 
+• Programming in Python, Java, or Scala 
+• SQL and relational database knowledge 
+• Understanding of big data concepts and distributed systems 
+• Willingness to learn cloud platforms (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Science, or related field 
+• Internship or project experience in data or analytics is preferred 
+71. Trainee Big Data Engineer 
+Job Summary 
+The Trainee Big Data Engineer participates in hands-on training and real-world projects to 
+build foundational skills in big data engineering and analytics pipelines. 
+Key Responsibilities 
+• Learn to design and implement data ingestion and processing pipelines 
+• Assist in developing ETL workflows and data transformation scripts 
+• Gain experience with cloud platforms, Spark, Hadoop, and Kafka 
+• Conduct data quality checks and support debugging 
+• Work under the supervision of senior engineers or mentors 
+Required Skills 
+• Basic programming skills (Python, Java, or Scala) 
+• Understanding of SQL and data modeling basics 
+• Interest in cloud technologies, analytics, and big data 
+• Good learning attitude and teamwork skills 
+Qualifications 
+• Recent graduate or final-year student in Computer Science, Data Science, or related 
+field 
+• Academic projects or certifications in data engineering are a plus 
+72. Apprentice Big Data Engineer 
+Job Summary 
+The Apprentice Big Data Engineer learns foundational skills in big data engineering while 
+contributing to small-scale data projects and assisting the engineering team. 
+Key Responsibilities 
+• Support development of data pipelines and ETL processes 
+• Assist in data extraction, cleaning, and transformation 
+• Learn to use big data tools and cloud platforms under guidance 
+• Participate in training sessions, workshops, and team discussions 
+• Document workflows and follow standard engineering practices 
+Required Skills 
+• Basic knowledge of Python, SQL, or Java 
+• Familiarity with relational databases and data structures 
+• Eagerness to learn big data technologies and analytics 
+• Good communication and collaboration skills 
+Qualifications 
+• Recent graduate, undergraduate, or final-year student in a relevant field 
+• Willingness to undergo hands-on training and mentorship 
+Emerging & Future-Focused Data 
+Engineering Roles – Detailed Job 
+Descriptions 
+73. Lakehouse Engineer 
+Job Summary 
+The Lakehouse Engineer designs and manages modern data lakehouse architectures, 
+combining the scalability of data lakes with the performance and governance of data 
+warehouses. 
+Key Responsibilities 
+• Build and maintain unified data lakehouse platforms (Delta Lake, Apache Hudi, 
+Apache Iceberg) 
+• Develop ETL/ELT pipelines for batch and streaming workloads 
+• Optimize storage, query performance, and cost efficiency 
+• Implement governance, access controls, and data lineage 
+• Support analytics, BI, and AI/ML workloads 
+Required Skills 
+• Expertise in lakehouse frameworks (Delta Lake, Hudi, Iceberg) 
+• Spark, Flink, or other distributed computing experience 
+• SQL, Python, or Scala programming 
+• Cloud platform experience (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Engineering, or related 
+field 
+• 4–7 years of experience in modern big data architectures 
+74. Data Mesh Engineer 
+Job Summary 
+The Data Mesh Engineer implements decentralized, domain-oriented data architectures to 
+enable scalable and self-serve data access across large organizations. 
+Key Responsibilities 
+• Design and implement data mesh architecture following domain-driven principles 
+• Build self-service data pipelines and APIs for data consumers 
+• Establish governance, data quality, and interoperability standards 
+• Enable discoverability and cataloging of datasets across domains 
+• Collaborate with product, analytics, and engineering teams 
+Required Skills 
+• Experience in data mesh concepts and architectures 
+• Strong SQL, Python, or Scala programming skills 
+• Familiarity with cloud-native data platforms and streaming systems 
+• Knowledge of governance, cataloging, and metadata management 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in distributed data architectures 
+75. Autonomous Data Engineer 
+Job Summary 
+The Autonomous Data Engineer designs self-managing data systems that minimize manual 
+intervention using automation, AI, and orchestration tools. 
+Key Responsibilities 
+• Develop AI-driven data pipelines and autonomous workflows 
+• Automate data quality checks, transformation, and error handling 
+• Implement self-optimizing data ingestion and processing systems 
+• Monitor and fine-tune pipelines with minimal human intervention 
+• Integrate with ML and real-time analytics platforms 
+Required Skills 
+• Knowledge of MLOps, AI-driven orchestration, and workflow automation 
+• Experience with Spark, Flink, Kafka, and distributed systems 
+• Strong programming in Python, Scala, or Java 
+• Cloud platform experience with serverless or autonomous services 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5+ years of experience in big data and automated data engineering 
+76. AI-Powered Data Engineer 
+Job Summary 
+The AI-Powered Data Engineer leverages generative AI and machine learning to optimize 
+data pipelines, perform predictive transformations, and enhance analytics capabilities. 
+Key Responsibilities 
+• Build intelligent data pipelines with AI-assisted transformations 
+• Implement predictive data quality and anomaly detection systems 
+• Integrate AI services into ETL/ELT workflows 
+• Collaborate with ML and analytics teams to enhance data-driven insights 
+• Optimize AI-assisted data workflows for performance and cost 
+Required Skills 
+• Knowledge of generative AI tools and ML pipelines 
+• Programming in Python, Java, or Scala 
+• Experience with Spark, Hadoop, or cloud data platforms 
+• Strong understanding of AI/ML lifecycle integration with data systems 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in data engineering and AI integration 
+77. Real-Time Analytics Engineer 
+Job Summary 
+The Real-Time Analytics Engineer designs and maintains low-latency, streaming data 
+systems for instant insights, monitoring, and analytics. 
+Key Responsibilities 
+• Build streaming pipelines using Kafka, Kinesis, Flink, or Storm 
+• Implement real-time data ingestion, transformation, and aggregation 
+• Optimize pipelines for latency, throughput, and reliability 
+• Support dashboards, anomaly detection, and AI/ML real-time models 
+• Monitor and troubleshoot production streaming systems 
+Required Skills 
+• Expertise in real-time streaming platforms (Kafka, Flink, Kinesis, Storm) 
+• Programming in Python, Java, or Scala 
+• SQL and distributed systems knowledge 
+• Cloud experience for serverless or real-time processing 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in streaming and real-time data engineering 
+78. Edge Data Engineer 
+Job Summary 
+The Edge Data Engineer designs data pipelines and analytics systems for edge devices, 
+enabling real-time processing close to data sources. 
+Key Responsibilities 
+• Implement data collection, processing, and storage at edge locations 
+• Optimize data pipelines for bandwidth, latency, and resource constraints 
+• Ensure security, privacy, and reliability of edge data systems 
+• Integrate edge data with centralized cloud or lakehouse platforms 
+• Support analytics, AI, and ML applications on edge data 
+Required Skills 
+• Experience with IoT, edge computing, or distributed processing 
+• Programming in Python, Java, or C++ 
+• Knowledge of streaming frameworks and edge-to-cloud integration 
+• Familiarity with security, compression, and low-latency optimization 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in edge computing or real-time data systems 
+79. Privacy-Preserving Data Engineer 
+Job Summary 
+The Privacy-Preserving Data Engineer builds data pipelines and platforms that maintain 
+compliance, anonymity, and confidentiality using advanced privacy techniques. 
+Key Responsibilities 
+• Implement data anonymization, encryption, and differential privacy techniques 
+• Ensure compliance with GDPR, CCPA, and other regulations 
+• Design secure pipelines for analytics, ML, and AI workflows 
+• Collaborate with legal, compliance, and engineering teams 
+• Monitor and audit privacy-preserving measures in data systems 
+Required Skills 
+• Knowledge of privacy-preserving technologies (differential privacy, federated 
+learning, homomorphic encryption) 
+• Strong programming in Python, Scala, or Java 
+• SQL and data engineering expertise 
+• Cloud and distributed data platform experience 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in secure data engineering and compliance 

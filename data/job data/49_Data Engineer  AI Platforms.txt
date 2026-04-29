@@ -1,0 +1,18 @@
+49. Data Engineer – AI Platforms 
+Job Summary 
+The Data Engineer – AI Platforms builds and maintains the core data infrastructure for AI 
+platforms, enabling efficient access, processing, and management of AI datasets. 
+Key Responsibilities 
+• Design and implement data pipelines for AI platform services 
+• Ensure high-performance data storage and retrieval for AI workloads 
+• Integrate structured, semi-structured, and unstructured data sources 
+• Support AI feature engineering and model training workflows 
+• Monitor data systems and ensure reliability and scalability 
+Required Skills 
+• Expertise in Spark, Hadoop, or cloud-native data platforms 
+• Python or Scala programming skills 
+• Knowledge of AI frameworks and large-scale ML datasets 
+• Familiarity with data governance, lineage, and security 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–8 years of experience in AI or ML-focused data engineering

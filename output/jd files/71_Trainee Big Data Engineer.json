@@ -1,0 +1,43 @@
+{
+  "job_id": "ea5edf63-fa59-468d-9586-3015deace7d4",
+  "job_title": "Trainee Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Trainee Big Data Engineer participates in hands-on training and real-world projects to build foundational skills in big data engineering and analytics pipelines.",
+  "responsibilities": [
+    "Learn to design and implement data ingestion and processing pipelines",
+    "Assist in developing ETL workflows and data transformation scripts",
+    "Gain experience with cloud platforms, Spark, Hadoop, and Kafka",
+    "Conduct data quality checks and support debugging",
+    "Work under the supervision of senior engineers or mentors"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 0
+    },
+    "education": [
+      "Recent graduate or final-year student in Computer Science, Data Science, or related",
+      "field",
+      "Academic projects or certifications in data engineering are a plus"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Basic programming skills (Python, Java, or Scala)"
+    },
+    {
+      "name": "Understanding of SQL and data modeling basics"
+    },
+    {
+      "name": "Interest in cloud technologies, analytics, and big data"
+    },
+    {
+      "name": "Good learning attitude and teamwork skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,21 @@
+6
+️. Associate Big Data Engineer 
+Job Summary 
+The Associate Big Data Engineer works on entry-level data engineering tasks, supporting 
+data processing, transformation, and system monitoring activities. 
+Key Responsibilities 
+• Support development of data workflows and pipelines 
+• Assist in data ingestion and transformation tasks 
+• Monitor data jobs and report issues 
+• Document data processes and systems 
+• Work closely with senior engineers to gain hands-on experience 
+Required Skills 
+• Understanding of data structures and databases 
+• Basic programming and SQL skills 
+• Familiarity with big data concepts 
+• Good analytical and problem-solving skills 
+Qualifications 
+• Bachelor’s degree or diploma in Computer Science or related field 
+• Internship or academic project experience in data engineering 
+Hadoop & Distributed Systems Roles – 
+Detailed Job Descriptions

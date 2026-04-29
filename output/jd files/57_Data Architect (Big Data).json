@@ -1,0 +1,42 @@
+{
+  "job_id": "c6ce5e4d-6b86-4980-adec-7a5f8ceb47b6",
+  "job_title": "Data Architect (Big Data)",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Architect (Big Data) is responsible for designing data models, pipelines, and governance frameworks to support analytics and machine learning at scale.",
+  "responsibilities": [
+    "Design enterprise-level big data solutions and pipelines",
+    "Develop logical and physical data models for analytics and ML workloads",
+    "Ensure data consistency, quality, and lineage",
+    "Guide implementation of ETL/ELT pipelines and storage strategies",
+    "Collaborate with architects, engineers, and business stakeholders"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 7,
+      "max": 10
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "7\u201310 years of experience in data architecture and engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Data modeling and schema design (star/snowflake, normalized/denormalized)"
+    },
+    {
+      "name": "Expertise in Hadoop, Spark, Kafka, and cloud data platforms"
+    },
+    {
+      "name": "SQL, Python, or Scala programming"
+    },
+    {
+      "name": "Knowledge of data governance and metadata management"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

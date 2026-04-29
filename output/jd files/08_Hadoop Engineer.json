@@ -1,0 +1,43 @@
+{
+  "job_id": "827d57c4-2be4-49d9-8ca8-d65f9c1564dc",
+  "job_title": "Hadoop Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Hadoop Engineer focuses on building, maintaining, and optimizing Hadoop clusters and ensuring high availability, scalability, and performance of distributed data systems.",
+  "responsibilities": [
+    "Install, configure, and manage Hadoop clusters",
+    "Monitor cluster health and performance",
+    "Optimize resource utilization and job scheduling",
+    "Implement security, backup, and recovery strategies",
+    "Troubleshoot cluster and performance issues",
+    "Work closely with DevOps and infrastructure teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree in Engineering or equivalent",
+      "3\u20136 years of Hadoop infrastructure experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Deep understanding of HDFS, YARN, and MapReduce"
+    },
+    {
+      "name": "Experience with cluster management tools (Ambari, Cloudera, Hortonworks)"
+    },
+    {
+      "name": "Strong Linux administration skills"
+    },
+    {
+      "name": "Knowledge of Kerberos and Hadoop security"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

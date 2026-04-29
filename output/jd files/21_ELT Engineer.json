@@ -1,0 +1,42 @@
+{
+  "job_id": "25bf10bb-bd49-41ff-a910-30ca2781c298",
+  "job_title": "ELT Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The ELT Engineer focuses on loading raw data into data platforms and transforming it within data warehouses or lakes using modern analytics tools.",
+  "responsibilities": [
+    "Design ELT workflows using cloud data warehouses",
+    "Implement transformations using SQL, dbt, or similar tools",
+    "Manage raw, staging, and curated data layers",
+    "Optimize transformation performance",
+    "Ensure data lineage and documentation"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of ELT or analytics engineering experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong SQL expertise"
+    },
+    {
+      "name": "Experience with dbt, Snowflake, BigQuery, or Redshift"
+    },
+    {
+      "name": "Knowledge of modern analytics engineering practices"
+    },
+    {
+      "name": "Understanding of data modeling techniques"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

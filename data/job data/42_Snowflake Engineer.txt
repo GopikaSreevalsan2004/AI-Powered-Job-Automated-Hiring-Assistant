@@ -1,0 +1,18 @@
+42. Snowflake Engineer 
+Job Summary 
+The Snowflake Engineer specializes in designing and optimizing data pipelines and storage 
+for Snowflake-based data warehouse solutions. 
+Key Responsibilities 
+• Develop and optimize ETL/ELT pipelines for Snowflake 
+• Build and maintain data models and schemas 
+• Optimize query performance and storage costs 
+• Integrate Snowflake with analytics and BI tools 
+• Ensure data security, compliance, and governance 
+Required Skills 
+• Expert in Snowflake architecture and features 
+• Strong SQL and data modeling skills 
+• Experience with Python or ETL/ELT tools 
+• Knowledge of cloud platforms (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of experience with Snowflake

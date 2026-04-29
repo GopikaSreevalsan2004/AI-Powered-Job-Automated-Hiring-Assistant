@@ -1,0 +1,46 @@
+{
+  "job_id": "0ac4a152-0beb-47cb-98aa-b6b645800e0c",
+  "job_title": "Azure Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Azure Big Data Engineer designs and maintains large-scale big data solutions on Microsoft Azure for analytics and machine learning workloads.",
+  "responsibilities": [
+    "Develop and manage data pipelines using Azure Data Factory, Synapse Analytics,",
+    "Databricks",
+    "Integrate Azure storage and compute services for big data workflows",
+    "Optimize pipelines for performance and cost efficiency",
+    "Ensure security and compliance of data assets",
+    "Collaborate with analytics and AI/ML teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of Azure big data experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with Azure services (Data Factory, Synapse, Databricks, Data Lake"
+    },
+    {
+      "name": "Storage)"
+    },
+    {
+      "name": "Programming in Python, Scala, or SQL"
+    },
+    {
+      "name": "Strong knowledge of distributed data processing"
+    },
+    {
+      "name": "Familiarity with monitoring and alerting tools"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

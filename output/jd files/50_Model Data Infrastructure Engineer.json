@@ -1,0 +1,43 @@
+{
+  "job_id": "34e98af3-f1e2-4626-a510-3623aa2e94a8",
+  "job_title": "Model Data Infrastructure Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Model Data Infrastructure Engineer designs, builds, and maintains scalable infrastructure to support machine learning model training, experimentation, and deployment.",
+  "responsibilities": [
+    "Develop and maintain large-scale data pipelines for ML model input",
+    "Ensure data consistency, quality, and accessibility for training and inference",
+    "Implement infrastructure for model versioning, evaluation, and monitoring",
+    "Collaborate with data scientists and ML engineers to improve workflows",
+    "Optimize storage, compute, and processing for AI datasets"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u20138 years of experience in ML infrastructure or AI data engineering",
+      "DevOps, Infrastructure & Reliability (Data) \u2013 Detailed Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming skills in Python, Scala, or Java"
+    },
+    {
+      "name": "Knowledge of distributed computing frameworks (Spark, Hadoop)"
+    },
+    {
+      "name": "Experience with MLOps, ML lifecycle tools, and feature stores"
+    },
+    {
+      "name": "Cloud experience (AWS, Azure, GCP)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

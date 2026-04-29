@@ -1,0 +1,19 @@
+66. Data Engineering Consultant 
+Job Summary 
+The Data Engineering Consultant helps organizations implement, optimize, and scale data 
+pipelines and engineering practices for analytics and ML initiatives. 
+Key Responsibilities 
+• Design and implement data pipelines and ETL/ELT workflows 
+• Optimize data storage, processing, and workflow performance 
+• Mentor and guide client teams on best practices and standards 
+• Support cloud adoption, data governance, and platform modernization 
+• Provide actionable insights and technical recommendations 
+Required Skills 
+• Expertise in Spark, Hadoop, Kafka, SQL, and cloud data platforms 
+• Strong Python, Scala, or Java programming skills 
+• Familiarity with data modeling, warehousing, and analytics platforms 
+• Excellent client-facing and advisory capabilities 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–10 years of experience in data engineering and consulting 
+• Previous experience in client-facing data projects

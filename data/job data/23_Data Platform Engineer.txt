@@ -1,0 +1,20 @@
+23. Data Platform Engineer 
+Job Summary 
+The Data Platform Engineer designs and maintains enterprise data platforms that support 
+analytics, machine learning, and business intelligence at scale. 
+Key Responsibilities 
+• Build and manage scalable data platforms and frameworks 
+• Develop reusable data services and tools 
+• Ensure platform reliability, security, and scalability 
+• Support multiple data consumers across the organization 
+• Drive platform modernization initiatives 
+Required Skills 
+• Strong knowledge of big data and cloud platforms 
+• Experience with data lakes, lakehouses, and warehouses 
+• Platform engineering and DevOps practices 
+• Automation and monitoring tools 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 6–10 years of data platform engineering experience 
+Streaming & Real-Time Data Roles – 
+Detailed Job Descriptions

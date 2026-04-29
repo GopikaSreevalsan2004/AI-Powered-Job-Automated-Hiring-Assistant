@@ -1,0 +1,42 @@
+{
+  "job_id": "ebe6886b-d40a-414d-aba3-0d32e8aac85d",
+  "job_title": "Graduate Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Graduate Big Data Engineer is an entry-level professional responsible for assisting in the design, development, and maintenance of big data solutions under guidance.",
+  "responsibilities": [
+    "Build, test, and maintain data pipelines and ETL workflows",
+    "Work with distributed computing frameworks like Hadoop and Spark",
+    "Assist in integrating and transforming large datasets for analytics",
+    "Support troubleshooting, performance tuning, and data quality checks",
+    "Collaborate with senior engineers and data architects"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 0,
+      "max": 0
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Science, or related field",
+      "Internship or project experience in data or analytics is preferred"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Programming in Python, Java, or Scala"
+    },
+    {
+      "name": "SQL and relational database knowledge"
+    },
+    {
+      "name": "Understanding of big data concepts and distributed systems"
+    },
+    {
+      "name": "Willingness to learn cloud platforms (AWS, Azure, GCP)"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

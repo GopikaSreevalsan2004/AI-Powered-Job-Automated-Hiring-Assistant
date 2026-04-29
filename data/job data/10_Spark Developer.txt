@@ -1,0 +1,19 @@
+10. Spark Developer 
+Job Summary 
+The Spark Developer builds high-performance data processing applications using Apache 
+Spark for batch and real-time analytics. 
+Key Responsibilities 
+• Develop Spark applications using Spark Core, Spark SQL, and Spark Streaming 
+• Optimize Spark jobs for performance and scalability 
+• Work with large datasets in distributed environments 
+• Integrate Spark with Hadoop and cloud platforms 
+• Collaborate with data scientists and engineers 
+• Troubleshoot Spark execution issues 
+Required Skills 
+• Strong Scala, Python (PySpark), or Java skills 
+• In-depth knowledge of Apache Spark internals 
+• Experience with Hadoop and distributed storage 
+• SQL and data transformation expertise 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 3–6 years of Spark development experience

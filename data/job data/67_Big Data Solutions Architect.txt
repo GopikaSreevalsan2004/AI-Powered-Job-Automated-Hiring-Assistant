@@ -1,0 +1,21 @@
+67. Big Data Solutions Architect 
+Job Summary 
+The Big Data Solutions Architect designs end-to-end big data platforms and solutions for 
+clients, ensuring performance, scalability, and alignment with business goals. 
+Key Responsibilities 
+• Architect enterprise or startup big data solutions (cloud or on-premise) 
+• Define technology stack, storage, and processing frameworks 
+• Ensure scalability, fault tolerance, and security compliance 
+• Collaborate with client engineering teams to deliver high-quality solutions 
+• Provide technical leadership and documentation for deployed systems 
+Required Skills 
+• Deep expertise in big data ecosystems (Hadoop, Spark, Kafka, Flink) 
+• Cloud architecture skills (AWS, Azure, GCP) 
+• Strong system design, data modeling, and SQL skills 
+• Excellent communication and stakeholder management abilities 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 8–15 years of experience in big data engineering and architecture 
+• Proven track record of delivering enterprise-scale solutions 
+Entry-Level & Training Roles – Detailed 
+Job Descriptions

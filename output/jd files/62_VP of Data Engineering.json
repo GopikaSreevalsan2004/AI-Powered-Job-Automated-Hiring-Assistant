@@ -1,0 +1,44 @@
+{
+  "job_id": "ae1c1a23-e03c-46cc-aed4-0263e89e65ac",
+  "job_title": "VP of Data Engineering",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The VP of Data Engineering is an executive leader responsible for the organization\u2019s data engineering vision, strategy, and operations at a global or enterprise level.",
+  "responsibilities": [
+    "Set the overall strategy and vision for data engineering",
+    "Oversee multiple data engineering divisions and enterprise platforms",
+    "Align data initiatives with organizational objectives and business strategy",
+    "Manage executive stakeholders and drive innovation in data capabilities",
+    "Ensure operational excellence, scalability, and security of all data systems"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 15,
+      "max": 15
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "15+ years of experience in data engineering, architecture, and leadership",
+      "Freelance, Consulting & Contract Roles \u2013",
+      "Detailed Job Descriptions"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Executive leadership and strategic planning"
+    },
+    {
+      "name": "Deep expertise in big data, cloud platforms, analytics, and enterprise data architecture"
+    },
+    {
+      "name": "Financial management, resource planning, and organizational leadership"
+    },
+    {
+      "name": "Strong communication, negotiation, and stakeholder engagement"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,20 @@
+7. Hadoop Developer 
+Job Summary 
+The Hadoop Developer is responsible for developing, optimizing, and maintaining big data 
+applications using the Hadoop ecosystem to process large-scale datasets efficiently. 
+Key Responsibilities 
+• Develop data processing applications using Hadoop, Hive, Pig, and Spark 
+• Design and implement MapReduce jobs 
+• Build ETL workflows for large datasets 
+• Optimize query and job performance 
+• Integrate Hadoop with external data sources 
+• Collaborate with data engineers and analysts 
+• Troubleshoot Hadoop job failures and data issues 
+Required Skills 
+• Strong programming skills in Java, Python, or Scala 
+• Hands-on experience with Hadoop, Hive, Pig 
+• Strong SQL and data processing knowledge 
+• Linux and shell scripting experience 
+Qualifications 
+• Bachelor’s degree in Computer Science or related field 
+• 2–5 years of Hadoop development experience

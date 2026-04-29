@@ -1,0 +1,18 @@
+70. Graduate Big Data Engineer 
+Job Summary 
+The Graduate Big Data Engineer is an entry-level professional responsible for assisting in the 
+design, development, and maintenance of big data solutions under guidance. 
+Key Responsibilities 
+• Build, test, and maintain data pipelines and ETL workflows 
+• Work with distributed computing frameworks like Hadoop and Spark 
+• Assist in integrating and transforming large datasets for analytics 
+• Support troubleshooting, performance tuning, and data quality checks 
+• Collaborate with senior engineers and data architects 
+Required Skills 
+• Programming in Python, Java, or Scala 
+• SQL and relational database knowledge 
+• Understanding of big data concepts and distributed systems 
+• Willingness to learn cloud platforms (AWS, Azure, GCP) 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Data Science, or related field 
+• Internship or project experience in data or analytics is preferred

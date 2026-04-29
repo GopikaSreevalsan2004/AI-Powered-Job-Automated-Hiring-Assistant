@@ -1,0 +1,18 @@
+75. Autonomous Data Engineer 
+Job Summary 
+The Autonomous Data Engineer designs self-managing data systems that minimize manual 
+intervention using automation, AI, and orchestration tools. 
+Key Responsibilities 
+• Develop AI-driven data pipelines and autonomous workflows 
+• Automate data quality checks, transformation, and error handling 
+• Implement self-optimizing data ingestion and processing systems 
+• Monitor and fine-tune pipelines with minimal human intervention 
+• Integrate with ML and real-time analytics platforms 
+Required Skills 
+• Knowledge of MLOps, AI-driven orchestration, and workflow automation 
+• Experience with Spark, Flink, Kafka, and distributed systems 
+• Strong programming in Python, Scala, or Java 
+• Cloud platform experience with serverless or autonomous services 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5+ years of experience in big data and automated data engineering

@@ -1,0 +1,18 @@
+34. GCP Big Data Engineer 
+Job Summary 
+The GCP Big Data Engineer builds, manages, and optimizes scalable big data pipelines and 
+platforms using Google Cloud services. 
+Key Responsibilities 
+• Implement data pipelines using BigQuery, Dataflow, Dataproc, Pub/Sub 
+• Develop batch and streaming ETL/ELT workflows 
+• Optimize cloud data storage, compute, and query performance 
+• Ensure data security, governance, and compliance 
+• Collaborate with data science and analytics teams 
+Required Skills 
+• Expertise in GCP services (BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Storage) 
+• Strong SQL, Python, and Java/Scala programming 
+• Knowledge of distributed computing and cloud architecture 
+• Experience with monitoring and logging tools 
+Qualifications 
+• Bachelor’s degree 
+• 3–6 years of GCP big data experience

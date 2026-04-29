@@ -1,0 +1,42 @@
+{
+  "job_id": "160bd6b6-765e-4a3e-9350-abec5006b90f",
+  "job_title": "Feature Store Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Feature Store Engineer designs, builds, and maintains feature stores that provide consistent, reusable features for machine learning models.",
+  "responsibilities": [
+    "Develop and maintain centralized feature stores",
+    "Ensure features are accessible, versioned, and reproducible",
+    "Automate feature extraction, transformation, and validation",
+    "Collaborate with data scientists and ML engineers",
+    "Monitor feature usage and performance"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "3\u20136 years of experience in ML or data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with feature store platforms (Feast, Tecton, Hopsworks)"
+    },
+    {
+      "name": "Strong programming in Python or Scala"
+    },
+    {
+      "name": "Knowledge of Spark, Hadoop, or cloud pipelines"
+    },
+    {
+      "name": "Understanding of ML feature engineering and modeling"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

@@ -1,0 +1,45 @@
+{
+  "job_id": "d6505061-4206-4001-898a-9a490ecc4250",
+  "job_title": "Data SRE (Site Reliability Engineer)",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Site Reliability Engineer (SRE) applies software engineering principles to build highly reliable, scalable, and automated data platforms and services.",
+  "responsibilities": [
+    "Design and implement highly reliable and scalable data systems",
+    "Build automation for deployment, scaling, and monitoring",
+    "Ensure SLA/SLO compliance for data pipelines and services",
+    "Troubleshoot complex operational issues and system failures",
+    "Collaborate with data engineers and platform teams to improve reliability"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "5\u20138 years of experience in SRE or reliability engineering for data systems"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in distributed systems and cloud platforms"
+    },
+    {
+      "name": "Programming and automation (Python, Go, Java)"
+    },
+    {
+      "name": "CI/CD and container orchestration (Kubernetes, Docker)"
+    },
+    {
+      "name": "Monitoring, alerting, and observability (Prometheus, Grafana, ELK, Datadog)"
+    },
+    {
+      "name": "Incident management and post-mortem analysis"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

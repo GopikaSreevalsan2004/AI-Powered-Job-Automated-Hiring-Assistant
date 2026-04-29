@@ -1,0 +1,18 @@
+18. Streaming Data Engineer 
+Job Summary 
+The Streaming Data Engineer builds real-time data pipelines and streaming platforms that 
+process high-velocity data for real-time analytics and applications. 
+Key Responsibilities 
+• Develop real-time pipelines using Kafka, Spark Streaming, or Flink 
+• Ensure low-latency and fault-tolerant streaming systems 
+• Monitor and optimize streaming workloads 
+• Integrate streaming data with downstream analytics systems 
+• Handle data ordering, deduplication, and windowing 
+Required Skills 
+• Expertise in Kafka, Flink, or Spark Streaming 
+• Strong understanding of real-time data processing concepts 
+• Programming in Scala, Java, or Python 
+• Experience with event-driven architectures 
+Qualifications 
+• Bachelor’s degree 
+• 4–8 years of streaming data experience

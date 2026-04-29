@@ -1,0 +1,42 @@
+{
+  "job_id": "cda39969-cdd2-479d-bdc7-8da1e5d4f8a3",
+  "job_title": "BigQuery Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The BigQuery Engineer develops, manages, and optimizes Google BigQuery data warehouses and pipelines for large-scale analytics.",
+  "responsibilities": [
+    "Build and maintain BigQuery datasets and ETL/ELT pipelines",
+    "Optimize query performance and storage costs",
+    "Implement data governance, security, and lineage",
+    "Integrate BigQuery with BI tools like Looker, Tableau, or Data Studio",
+    "Collaborate with analytics and data science teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 3,
+      "max": 6
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "3\u20136 years of experience with BigQuery and cloud data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expert in Google BigQuery and SQL"
+    },
+    {
+      "name": "Experience with Python or ETL/ELT tools"
+    },
+    {
+      "name": "Knowledge of cloud architecture and data pipelines"
+    },
+    {
+      "name": "Familiarity with large-scale analytics workflows"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

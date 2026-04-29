@@ -1,0 +1,19 @@
+54. Data SRE (Site Reliability Engineer) 
+Job Summary 
+The Data Site Reliability Engineer (SRE) applies software engineering principles to build 
+highly reliable, scalable, and automated data platforms and services. 
+Key Responsibilities 
+• Design and implement highly reliable and scalable data systems 
+• Build automation for deployment, scaling, and monitoring 
+• Ensure SLA/SLO compliance for data pipelines and services 
+• Troubleshoot complex operational issues and system failures 
+• Collaborate with data engineers and platform teams to improve reliability 
+Required Skills 
+• Expertise in distributed systems and cloud platforms 
+• Programming and automation (Python, Go, Java) 
+• CI/CD and container orchestration (Kubernetes, Docker) 
+• Monitoring, alerting, and observability (Prometheus, Grafana, ELK, Datadog) 
+• Incident management and post-mortem analysis 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 5–8 years of experience in SRE or reliability engineering for data systems

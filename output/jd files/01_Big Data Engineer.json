@@ -1,0 +1,48 @@
+{
+  "job_id": "26ae439d-7b67-4f7c-ac5b-3291ae38eb7b",
+  "job_title": "Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Big Data Engineer designs, builds, and maintains scalable data processing systems that handle large volumes of structured and unstructured data. This role focuses on developing robust data pipelines, ensuring data quality, and supporting analytics and machine learning initiatives.",
+  "responsibilities": [
+    "Design and develop scalable big data pipelines using Hadoop, Spark, and related tools",
+    "Process large datasets efficiently using batch and real-time frameworks",
+    "Build and maintain ETL/ELT workflows",
+    "Integrate data from multiple sources (databases, APIs, logs, streams)",
+    "Optimize data storage and retrieval performance",
+    "Ensure data accuracy, reliability, and availability",
+    "Collaborate with data scientists, analysts, and product teams",
+    "Troubleshoot data pipeline and performance issues"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 2,
+      "max": 4
+    },
+    "education": [
+      "Bachelor\u2019s degree in Computer Science, Engineering, or related field",
+      "2\u20134 years of experience in Big Data or Data Engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming skills in Python, Java, or Scala"
+    },
+    {
+      "name": "Hands-on experience with Hadoop, Spark, Hive, HBase"
+    },
+    {
+      "name": "Experience with Kafka or other streaming tools"
+    },
+    {
+      "name": "Strong SQL and data modeling skills"
+    },
+    {
+      "name": "Knowledge of Linux, Git, and CI/CD"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

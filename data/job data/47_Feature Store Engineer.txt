@@ -1,0 +1,18 @@
+47. Feature Store Engineer 
+Job Summary 
+The Feature Store Engineer designs, builds, and maintains feature stores that provide 
+consistent, reusable features for machine learning models. 
+Key Responsibilities 
+• Develop and maintain centralized feature stores 
+• Ensure features are accessible, versioned, and reproducible 
+• Automate feature extraction, transformation, and validation 
+• Collaborate with data scientists and ML engineers 
+• Monitor feature usage and performance 
+Required Skills 
+• Experience with feature store platforms (Feast, Tecton, Hopsworks) 
+• Strong programming in Python or Scala 
+• Knowledge of Spark, Hadoop, or cloud pipelines 
+• Understanding of ML feature engineering and modeling 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 3–6 years of experience in ML or data engineering

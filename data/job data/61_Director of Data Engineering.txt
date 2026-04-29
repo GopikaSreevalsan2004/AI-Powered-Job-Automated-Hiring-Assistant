@@ -1,0 +1,18 @@
+61. Director of Data Engineering 
+Job Summary 
+The Director of Data Engineering leads enterprise-wide data engineering operations, strategy, 
+and architecture, driving innovation and operational excellence. 
+Key Responsibilities 
+• Define and execute data engineering strategy and roadmap 
+• Oversee design, implementation, and maintenance of large-scale data platforms 
+• Ensure cross-team collaboration and alignment with business objectives 
+• Manage budgets, resources, and hiring for data engineering teams 
+• Guide adoption of emerging technologies and best practices 
+Required Skills 
+• Leadership of large data engineering teams 
+• Enterprise data architecture and big data platforms 
+• Cloud platforms, distributed systems, and analytics 
+• Strategic thinking, planning, and stakeholder communication 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 12–18 years of experience in data engineering and leadership

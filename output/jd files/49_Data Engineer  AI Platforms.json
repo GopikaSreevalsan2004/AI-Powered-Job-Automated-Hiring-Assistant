@@ -1,0 +1,42 @@
+{
+  "job_id": "75be4ce3-4ee2-44a8-aed0-0c56dc389438",
+  "job_title": "Data Engineer  AI Platforms",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Engineer \u2013 AI Platforms builds and maintains the core data infrastructure for AI platforms, enabling efficient access, processing, and management of AI datasets.",
+  "responsibilities": [
+    "Design and implement data pipelines for AI platform services",
+    "Ensure high-performance data storage and retrieval for AI workloads",
+    "Integrate structured, semi-structured, and unstructured data sources",
+    "Support AI feature engineering and model training workflows",
+    "Monitor data systems and ensure reliability and scalability"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "4\u20138 years of experience in AI or ML-focused data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Expertise in Spark, Hadoop, or cloud-native data platforms"
+    },
+    {
+      "name": "Python or Scala programming skills"
+    },
+    {
+      "name": "Knowledge of AI frameworks and large-scale ML datasets"
+    },
+    {
+      "name": "Familiarity with data governance, lineage, and security"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

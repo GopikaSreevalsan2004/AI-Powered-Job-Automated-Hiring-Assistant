@@ -1,0 +1,19 @@
+69. Data Engineering Intern 
+Job Summary 
+The Data Engineering Intern works with mentors to gain practical experience in building and 
+maintaining data pipelines, databases, and analytics platforms. 
+Key Responsibilities 
+• Assist in designing and implementing data ingestion and processing workflows 
+• Support data cleaning, transformation, and integration tasks 
+• Learn to work with cloud data platforms and big data frameworks 
+• Contribute to documentation and testing of pipelines 
+• Participate in team meetings and technical discussions 
+Required Skills 
+• Programming basics (Python, SQL, or Java) 
+• Understanding of data structures and algorithms 
+• Eagerness to learn big data tools and cloud platforms 
+• Good communication and teamwork skills 
+Qualifications 
+• Undergraduate or graduate student in Computer Science, Data Science, or related 
+field 
+• Strong academic performance and interest in data engineering

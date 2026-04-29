@@ -1,0 +1,19 @@
+31. Cloud Big Data Engineer 
+Job Summary 
+The Cloud Big Data Engineer designs, implements, and maintains cloud-native big data 
+solutions for large-scale data processing, analytics, and AI/ML workloads. 
+Key Responsibilities 
+• Design, develop, and deploy cloud-based big data pipelines 
+• Manage data ingestion, processing, and storage in cloud environments 
+• Optimize cost, scalability, and performance of cloud-based data platforms 
+• Ensure security, compliance, and governance of cloud data assets 
+• Collaborate with data scientists, analysts, and DevOps teams 
+• Monitor and troubleshoot cloud data systems 
+Required Skills 
+• Experience with cloud platforms (AWS, Azure, GCP) 
+• Expertise in Hadoop, Spark, or Flink in the cloud 
+• Strong SQL and Python/Scala programming skills 
+• Knowledge of cloud storage, data lakes, and cloud-native architectures 
+Qualifications 
+• Bachelor’s or Master’s degree in Computer Science, Engineering, or related field 
+• 4–7 years of experience in cloud big data engineering

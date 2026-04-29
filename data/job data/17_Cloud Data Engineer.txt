@@ -1,0 +1,18 @@
+17. Cloud Data Engineer 
+Job Summary 
+The Cloud Data Engineer builds cloud-native data pipelines and platforms using managed big 
+data and analytics services. 
+Key Responsibilities 
+• Develop data pipelines using cloud services (AWS, Azure, GCP) 
+• Design data lakes and cloud data warehouses 
+• Implement data security, governance, and monitoring 
+• Optimize cost and performance of cloud data solutions 
+• Automate infrastructure using IaC tools 
+Required Skills 
+• Experience with AWS Glue, EMR, Redshift, Azure Data Factory, or BigQuery 
+• Strong SQL and Python skills 
+• Knowledge of Terraform or CloudFormation 
+• Understanding of cloud security principles 
+Qualifications 
+• Bachelor’s degree 
+• 4–7 years of cloud data engineering experience

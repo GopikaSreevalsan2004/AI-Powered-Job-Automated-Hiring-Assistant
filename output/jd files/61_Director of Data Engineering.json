@@ -1,0 +1,42 @@
+{
+  "job_id": "90762bb7-e911-43a1-8680-53e0397bff1e",
+  "job_title": "Director of Data Engineering",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Director of Data Engineering leads enterprise-wide data engineering operations, strategy, and architecture, driving innovation and operational excellence.",
+  "responsibilities": [
+    "Define and execute data engineering strategy and roadmap",
+    "Oversee design, implementation, and maintenance of large-scale data platforms",
+    "Ensure cross-team collaboration and alignment with business objectives",
+    "Manage budgets, resources, and hiring for data engineering teams",
+    "Guide adoption of emerging technologies and best practices"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 12,
+      "max": 18
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree",
+      "12\u201318 years of experience in data engineering and leadership"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Leadership of large data engineering teams"
+    },
+    {
+      "name": "Enterprise data architecture and big data platforms"
+    },
+    {
+      "name": "Cloud platforms, distributed systems, and analytics"
+    },
+    {
+      "name": "Strategic thinking, planning, and stakeholder communication"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

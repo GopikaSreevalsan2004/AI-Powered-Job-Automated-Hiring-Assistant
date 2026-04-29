@@ -1,0 +1,87 @@
+{
+  "Tech": {
+    "Programming Languages": [
+      "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Ruby", "Go", "Rust", "PHP", "Swift", "Kotlin", "R", "Dart"
+    ],
+    "Frameworks & Libraries": [
+      "React", "Angular", "Vue.js", "Node.js", "Express", "Django", "Flask", "FastAPI", "Spring Boot", "Ruby on Rails", "ASP.NET", "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "Pandas", "NumPy"
+    ],
+    "Databases & Big Data": [
+      "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis", "Cassandra", "Elasticsearch", "Neo4j", "Oracle", "SQL Server",
+      "Hadoop", "Spark", "Kafka", "Snowflake", "BigQuery", "Redshift", "Hive", "Presto", "Flink", "HBase"
+    ],
+    "Cloud & DevOps": [
+      "AWS", "GCP", "Google Cloud Platform", "Azure", "Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform", "Ansible", "Linux", "Bash", "CircleCI", "Pulumi", "Prometheus", "Grafana"
+    ],
+    "ML & AI": [
+      "Machine Learning", "Deep Learning", "Data Mining", "Natural Language Processing", "Computer Vision", "TensorFlow", "PyTorch", "Scikit-Learn", "Keras", "LLMs", "Generative AI", "LangChain"
+    ],
+    "Other Tech": [
+      "Git", "REST API", "GraphQL", "Microservices", "Docker", "Agile", "Scrum", "TDD", "Unit Testing"
+    ]
+  },
+  "Business": {
+    "Management": [
+      "Project Management", "Product Management", "Agile", "Scrum", "Kanban", "Leadership", "Team Building", "Strategic Planning"
+    ],
+    "Operations & Finance": [
+      "Business Intelligence", "Data Analysis", "Financial Modeling", "Risk Management", "Supply Chain Management", "Process Improvement", "Strategic Planning", "Market Research", "Operations Management"
+    ],
+    "Marketing & Sales": [
+      "Digital Marketing", "SEO", "SEM", "Content Marketing", "Email Marketing", "Sales Strategy", "CRM", "Public Relations"
+    ],
+    "Soft Skills": [
+      "Communication", "Problem Solving", "Critical Thinking", "Time Management", "Adaptability", "Collaboration", "Negotiation", "Public Speaking", "Leadership", "Team Management", "Stakeholder Management"
+    ]
+  },
+  "Creative": {
+    "Design": [
+      "UX Design", "UI Design", "Graphic Design", "Web Design", "Figma", "Adobe Creative Suite", "Photoshop", "Illustrator", "InDesign", "Sketch"
+    ],
+    "Content": [
+      "Copywriting", "Content Creation", "Video Editing", "Animation", "Social Media Management", "Technical Writing", "Creative Writing"
+    ],
+    "Tools": [
+      "Figma", "Adobe Creative Suite", "Photoshop", "Illustrator", "InDesign", "Sketch", "After Effects", "Premiere Pro", "Canva", "Final Cut Pro"
+    ]
+  },
+  "Synonyms": {
+    "ML": "Machine Learning",
+    "AI": "Artificial Intelligence",
+    "DL": "Deep Learning",
+    "NLP": "Natural Language Processing",
+    "CV": "Computer Vision",
+    "SWE": "Software Engineering",
+    "SDE": "Software Development",
+    "AWS": "Amazon Web Services",
+    "GCP": "Google Cloud Platform",
+    "K8S": "Kubernetes",
+    "JS": "JavaScript",
+    "TS": "TypeScript",
+    "Py": "Python",
+    "Python3": "Python",
+    "DB": "Database",
+    "RDBMS": "Relational Database",
+    "NOSQL": "NoSQL",
+    "HDFS": "Hadoop",
+    "BI": "Business Intelligence",
+    "ETL": "Extract, Transform, Load",
+    "ELT": "Extract, Load, Transform",
+    "CI/CD": "Continuous Integration",
+    "React.js": "React",
+    "VueJS": "Vue.js",
+    "NodeJS": "Node.js",
+    "Golang": "Go",
+    "Postgres": "PostgreSQL",
+    "Snowflake DB": "Snowflake",
+    "BQ": "BigQuery"
+  },
+  "Stacks": {
+    "MERN": ["MongoDB", "Express", "React", "Node.js"],
+    "MEAN": ["MongoDB", "Express", "Angular", "Node.js"],
+    "MEVN": ["MongoDB", "Express", "Vue.js", "Node.js"],
+    "LAMP": ["Linux", "Apache", "MySQL", "PHP"],
+    "LEMP": ["Linux", "Nginx", "MySQL", "PHP"],
+    "JAMstack": ["JavaScript", "APIs", "Markup"]
+  }
+}

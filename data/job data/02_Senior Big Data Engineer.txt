@@ -1,0 +1,21 @@
+2. Senior Big Data Engineer 
+Job Summary 
+The Senior Big Data Engineer leads complex data engineering initiatives, designs high
+performance data architectures, and mentors junior engineers while ensuring system 
+scalability and reliability. 
+Key Responsibilities 
+• Design and implement enterprise-scale big data architectures 
+• Optimize performance of data pipelines and storage systems 
+• Lead complex data integration and migration projects 
+• Review code and enforce engineering best practices 
+• Mentor junior and mid-level engineers 
+• Collaborate with stakeholders on data strategy and requirements 
+• Ensure security, compliance, and governance standards 
+Required Skills 
+• Advanced Spark optimization and tuning 
+• Strong experience with cloud platforms (AWS, Azure, GCP) 
+• Deep knowledge of data lakes and data warehouses 
+• Strong problem-solving and architectural skills 
+Qualifications 
+• Bachelor’s or Master’s degree in a relevant field 
+• 5–8 years of experience in Big Data Engineering

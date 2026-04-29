@@ -1,0 +1,44 @@
+{
+  "job_id": "e262485b-25b6-458a-b951-858bcf75f971",
+  "job_title": "Senior Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Senior Big Data Engineer leads complex data engineering initiatives, designs high performance data architectures, and mentors junior engineers while ensuring system scalability and reliability.",
+  "responsibilities": [
+    "Design and implement enterprise-scale big data architectures",
+    "Optimize performance of data pipelines and storage systems",
+    "Lead complex data integration and migration projects",
+    "Review code and enforce engineering best practices",
+    "Mentor junior and mid-level engineers",
+    "Collaborate with stakeholders on data strategy and requirements",
+    "Ensure security, compliance, and governance standards"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 5,
+      "max": 8
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in a relevant field",
+      "5\u20138 years of experience in Big Data Engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Advanced Spark optimization and tuning"
+    },
+    {
+      "name": "Strong experience with cloud platforms (AWS, Azure, GCP)"
+    },
+    {
+      "name": "Deep knowledge of data lakes and data warehouses"
+    },
+    {
+      "name": "Strong problem-solving and architectural skills"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

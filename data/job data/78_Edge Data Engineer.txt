@@ -1,0 +1,18 @@
+78. Edge Data Engineer 
+Job Summary 
+The Edge Data Engineer designs data pipelines and analytics systems for edge devices, 
+enabling real-time processing close to data sources. 
+Key Responsibilities 
+• Implement data collection, processing, and storage at edge locations 
+• Optimize data pipelines for bandwidth, latency, and resource constraints 
+• Ensure security, privacy, and reliability of edge data systems 
+• Integrate edge data with centralized cloud or lakehouse platforms 
+• Support analytics, AI, and ML applications on edge data 
+Required Skills 
+• Experience with IoT, edge computing, or distributed processing 
+• Programming in Python, Java, or C++ 
+• Knowledge of streaming frameworks and edge-to-cloud integration 
+• Familiarity with security, compression, and low-latency optimization 
+Qualifications 
+• Bachelor’s or Master’s degree 
+• 4–7 years of experience in edge computing or real-time data systems

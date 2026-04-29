@@ -1,0 +1,43 @@
+{
+  "job_id": "4fc22b26-15f1-4c98-ba22-f57c657cef20",
+  "job_title": "Cloud Big Data Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Cloud Big Data Engineer designs, implements, and maintains cloud-native big data solutions for large-scale data processing, analytics, and AI/ML workloads.",
+  "responsibilities": [
+    "Design, develop, and deploy cloud-based big data pipelines",
+    "Manage data ingestion, processing, and storage in cloud environments",
+    "Optimize cost, scalability, and performance of cloud-based data platforms",
+    "Ensure security, compliance, and governance of cloud data assets",
+    "Collaborate with data scientists, analysts, and DevOps teams",
+    "Monitor and troubleshoot cloud data systems"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or related field",
+      "4\u20137 years of experience in cloud big data engineering"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Experience with cloud platforms (AWS, Azure, GCP)"
+    },
+    {
+      "name": "Expertise in Hadoop, Spark, or Flink in the cloud"
+    },
+    {
+      "name": "Strong SQL and Python/Scala programming skills"
+    },
+    {
+      "name": "Knowledge of cloud storage, data lakes, and cloud-native architectures"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}

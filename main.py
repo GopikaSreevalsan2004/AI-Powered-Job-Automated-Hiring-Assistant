@@ -1,10 +1,12 @@
 import os
 import sys
+import json
 from utils.logger import setup_logger
 from utils.text_cleaner import TextCleaner
 from utils.file_handler import FileHandler
 from parsers.pdf_parser import PDFParser
 from parsers.docx_parser import DOCXParser
+from ats_engine.skill_extractor import SkillExtractionEngine
 
 def main():
     # 1. Setup Logging
@@ -20,6 +22,7 @@ def main():
     pdf_parser = PDFParser(logger=logger)
     docx_parser = DOCXParser(logger=logger)
     cleaner = TextCleaner()
+    skill_extractor = SkillExtractionEngine(logger=logger)
 
     # 4. Get Resume Files
     resume_files = file_handler.list_resumes()
@@ -51,7 +54,14 @@ def main():
         
         # Save Output
         output_path = file_handler.save_processed(file_path, cleaned_text)
-        logger.info(f"Successfully processed and saved to: {output_path}")
+        
+        # Extract and Save Skills
+        extracted_skills = skill_extractor.extract_skills(cleaned_text)
+        skills_output_path = os.path.splitext(output_path)[0] + "_skills.json"
+        with open(skills_output_path, 'w', encoding='utf-8') as f:
+            json.dump(extracted_skills, f, indent=2)
+            
+        logger.info(f"Successfully processed and saved text to {output_path} and skills to {skills_output_path}")
 
     logger.info("Resume extraction process completed.")
 

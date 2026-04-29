@@ -1,0 +1,42 @@
+{
+  "job_id": "3603f473-cb4a-44db-8cb1-5f9e45490cfc",
+  "job_title": "Data Pipeline Engineer",
+  "company": "Placeholder Company",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "summary": "The Data Pipeline Engineer focuses on building reliable, scalable pipelines that move data across systems for downstream consumption.",
+  "responsibilities": [
+    "Design and implement end-to-end data pipelines",
+    "Ensure pipeline reliability and fault tolerance",
+    "Optimize data flow and performance",
+    "Monitor pipeline health and failures",
+    "Collaborate with analytics and ML teams"
+  ],
+  "requirements": {
+    "years_of_experience": {
+      "min": 4,
+      "max": 7
+    },
+    "education": [
+      "Bachelor\u2019s degree",
+      "4\u20137 years of data pipeline experience"
+    ]
+  },
+  "skills_required": [
+    {
+      "name": "Strong programming and SQL skills"
+    },
+    {
+      "name": "Experience with orchestration tools (Airflow, Prefect)"
+    },
+    {
+      "name": "Knowledge of data integration patterns"
+    },
+    {
+      "name": "Familiarity with cloud platforms"
+    }
+  ],
+  "skills_preferred": [],
+  "benefits": [],
+  "metadata": {}
+}
