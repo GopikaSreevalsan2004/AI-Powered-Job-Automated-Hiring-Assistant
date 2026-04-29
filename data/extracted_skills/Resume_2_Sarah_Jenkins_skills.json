@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Azure",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Jenkins",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Expert",
+        "mentions": 1
+    },
+    {
+        "name": "Leadership",
+        "confidence_score": 0.9,
+        "category": "Soft",
+        "level": "Expert",
+        "mentions": 1
+    }
+]

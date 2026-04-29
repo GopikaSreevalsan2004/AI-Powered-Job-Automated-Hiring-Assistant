@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Machine Learning",
+        "confidence_score": 1.0,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 5
+    },
+    {
+        "name": "Python",
+        "confidence_score": 1.0,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 6
+    },
+    {
+        "name": "NumPy",
+        "confidence_score": 0.95,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "JavaScript",
+        "confidence_score": 0.95,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "Pandas",
+        "confidence_score": 0.95,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "Business Intelligence",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Django",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "SQLite",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "MySQL",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "LLMs",
+        "confidence_score": 0.86,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    }
+]

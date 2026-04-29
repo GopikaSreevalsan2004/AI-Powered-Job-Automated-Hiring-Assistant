@@ -228,9 +228,10 @@ class SkillExtractionEngine:
         for original, norm, base_conf in normalized_skills:
             # 1. Frequency calculation for boosting
             # Escaping for regex safety
-            pattern = r'\b' + re.escape(original.lower()) + r'\b'
+            escaped_term = re.escape(original.lower())
+            pattern = r'(?<![a-zA-Z0-9_])' + escaped_term + r'(?![a-zA-Z0-9_])'
             mentions = re.findall(pattern, text_lower)
-            count = len(mentions)
+            count = max(1, len(mentions)) # ensure at least 1 count if it was extracted
             
             # Contextual signal: if the skill is mentioned multiple times, boost confidence
             # Mentions boost: 1 mention = +0, 2 = +0.05, 3+ = +0.10
