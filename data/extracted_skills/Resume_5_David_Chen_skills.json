@@ -7,7 +7,21 @@
         "mentions": 2
     },
     {
-        "name": "Python",
+        "name": "Feature Engineering",
+        "confidence_score": 0.95,
+        "category": "Technical",
+        "level": "Expert",
+        "mentions": 2
+    },
+    {
+        "name": "DVC",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "MLOps",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",
@@ -15,6 +29,13 @@
     },
     {
         "name": "TensorFlow",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Python",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",

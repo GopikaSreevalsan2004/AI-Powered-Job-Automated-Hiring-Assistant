@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "name": "Excavation",
+        "confidence_score": 0.95,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Artifact Analysis",
+        "confidence_score": 0.95,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "Academic Writing",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Expert",
+        "mentions": 1
+    },
+    {
+        "name": "GIS Mapping",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    }
+]

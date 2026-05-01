@@ -1,23 +1,23 @@
 {
   "Tech": {
     "Programming Languages": [
-      "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Ruby", "Go", "Rust", "PHP", "Swift", "Kotlin", "R", "Dart"
+      "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Ruby", "Go", "Rust", "PHP", "Swift", "Kotlin", "R", "Dart", "Scala"
     ],
     "Frameworks & Libraries": [
       "React", "Angular", "Vue.js", "Node.js", "Express", "Django", "Flask", "FastAPI", "Spring Boot", "Ruby on Rails", "ASP.NET", "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "Pandas", "NumPy"
     ],
     "Databases & Big Data": [
       "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis", "Cassandra", "Elasticsearch", "Neo4j", "Oracle", "SQL Server",
-      "Hadoop", "Spark", "Kafka", "Snowflake", "BigQuery", "Redshift", "Hive", "Presto", "Flink", "HBase"
+      "Hadoop", "Spark", "Kafka", "Snowflake", "BigQuery", "Redshift", "Hive", "Presto", "Flink", "HBase", "PySpark", "MapReduce", "Spark Streaming", "Spark SQL"
     ],
     "Cloud & DevOps": [
-      "AWS", "GCP", "Google Cloud Platform", "Azure", "Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform", "Ansible", "Linux", "Bash", "CircleCI", "Pulumi", "Prometheus", "Grafana"
+      "AWS", "GCP", "Google Cloud Platform", "Azure", "Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform", "Ansible", "Linux", "Bash", "CircleCI", "Pulumi", "Prometheus", "Grafana", "Shell Scripting"
     ],
     "ML & AI": [
-      "Machine Learning", "Deep Learning", "Data Mining", "Natural Language Processing", "Computer Vision", "TensorFlow", "PyTorch", "Scikit-Learn", "Keras", "LLMs", "Generative AI", "LangChain"
+      "Machine Learning", "Deep Learning", "Data Mining", "Natural Language Processing", "Computer Vision", "TensorFlow", "PyTorch", "Scikit-Learn", "Keras", "LLMs", "Generative AI", "LangChain", "Feature Engineering", "MLOps", "DVC"
     ],
     "Other Tech": [
-      "Git", "REST API", "GraphQL", "Microservices", "Docker", "Agile", "Scrum", "TDD", "Unit Testing"
+      "Git", "REST API", "GraphQL", "Microservices", "Docker", "Agile", "Scrum", "TDD", "Unit Testing", "Data Architecture"
     ]
   },
   "Business": {
@@ -43,6 +43,23 @@
     ],
     "Tools": [
       "Figma", "Adobe Creative Suite", "Photoshop", "Illustrator", "InDesign", "Sketch", "After Effects", "Premiere Pro", "Canva", "Final Cut Pro"
+    ]
+  },
+  "Other Domains": {
+    "Social Work": [
+      "Case Management", "Counseling", "Advocacy", "Crisis Intervention"
+    ],
+    "Archaeology": [
+      "GIS Mapping", "Artifact Analysis", "Excavation", "Academic Writing"
+    ],
+    "Library Science": [
+      "Metadata Standards", "Archival Preservation", "Database Management", "Digitization"
+    ],
+    "Fitness & Wellness": [
+      "Strength Training", "Nutrition Coaching", "Yoga", "Client Assessment"
+    ],
+    "Civil Engineering": [
+      "AutoCAD", "Structural Analysis", "Site Surveying"
     ]
   },
   "Synonyms": {
@@ -74,7 +91,8 @@
     "Golang": "Go",
     "Postgres": "PostgreSQL",
     "Snowflake DB": "Snowflake",
-    "BQ": "BigQuery"
+    "BQ": "BigQuery",
+    "Team Leadership": "Leadership"
   },
   "Stacks": {
     "MERN": ["MongoDB", "Express", "React", "Node.js"],

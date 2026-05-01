@@ -14,10 +14,27 @@ class ExperienceEngine:
 
     def process_experience_text(self, text: str, job_requirements: Dict = None) -> Dict:
         """
-        Full pipeline: Parse -> Analyze -> Score
+        Full pipeline: Classify -> Parse -> Analyze -> Score
         """
+        # 0. Isolate Experience Section
+        from parsers.resume_classifier import ResumeSectionClassifier
+        classifier = ResumeSectionClassifier()
+        # TextCleaner usually collapses newlines, so we must standardize headings first
+        from utils.text_cleaner import TextCleaner
+        text = TextCleaner.standardize_headings(text)
+        sections = classifier.classify_lines(text)
+        
+        experience_text = ""
+        for sec in sections:
+            if sec["label"] == "Experience":
+                experience_text += sec["text"] + "\n"
+                
+        # Fallback to full text if no section found (for very short resumes)
+        if not experience_text.strip():
+            experience_text = text
+            
         # 1. Parse
-        raw_experiences = self.parser.parse_experience_block(text)
+        raw_experiences = self.parser.parse_experience_block(experience_text)
         
         # Normalize dates for analyzer and scorer
         processed_experiences = []

@@ -35,5 +35,4 @@ class TextCleaner:
         
         # Clean up any double newlines introduced
         text = re.sub(r'\n\s*\n', '\n\n', text)
-        print ("hi")
         return text

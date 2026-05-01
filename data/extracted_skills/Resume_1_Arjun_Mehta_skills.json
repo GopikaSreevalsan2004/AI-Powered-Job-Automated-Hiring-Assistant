@@ -1,27 +1,6 @@
 [
     {
-        "name": "Hadoop",
-        "confidence_score": 0.9,
-        "category": "Technical",
-        "level": "Intermediate",
-        "mentions": 1
-    },
-    {
-        "name": "Spark",
-        "confidence_score": 0.9,
-        "category": "Technical",
-        "level": "Intermediate",
-        "mentions": 1
-    },
-    {
-        "name": "Python",
-        "confidence_score": 0.9,
-        "category": "Technical",
-        "level": "Intermediate",
-        "mentions": 1
-    },
-    {
-        "name": "Java",
+        "name": "Kafka",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",
@@ -35,7 +14,28 @@
         "mentions": 1
     },
     {
-        "name": "Kafka",
+        "name": "Spark",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Java",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Python",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Hadoop",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",

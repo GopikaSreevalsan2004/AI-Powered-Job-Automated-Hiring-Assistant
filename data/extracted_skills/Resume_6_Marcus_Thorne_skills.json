@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "name": "Advocacy",
+        "confidence_score": 0.95,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "Crisis Intervention",
+        "confidence_score": 0.95,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 2
+    },
+    {
+        "name": "Counseling",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Case Management",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    }
+]

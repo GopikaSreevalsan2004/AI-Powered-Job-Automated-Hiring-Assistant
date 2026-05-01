@@ -7,14 +7,35 @@
         "mentions": 5
     },
     {
-        "name": "Docker",
+        "name": "Kubernetes",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",
         "mentions": 1
     },
     {
-        "name": "Kubernetes",
+        "name": "Spark SQL",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Spark Streaming",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Scala",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Docker",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",

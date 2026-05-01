@@ -14,7 +14,21 @@
         "mentions": 2
     },
     {
+        "name": "MapReduce",
+        "confidence_score": 0.95,
+        "category": "Technical",
+        "level": "Expert",
+        "mentions": 2
+    },
+    {
         "name": "HBase",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Shell Scripting",
         "confidence_score": 0.9,
         "category": "Technical",
         "level": "Intermediate",

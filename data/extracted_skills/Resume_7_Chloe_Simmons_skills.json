@@ -5,5 +5,26 @@
         "category": "Domain Knowledge",
         "level": "Intermediate",
         "mentions": 1
+    },
+    {
+        "name": "Site Surveying",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Expert",
+        "mentions": 1
+    },
+    {
+        "name": "Structural Analysis",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "AutoCAD",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
     }
 ]

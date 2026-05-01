@@ -1,5 +1,12 @@
 [
     {
+        "name": "Python",
+        "confidence_score": 1.0,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 6
+    },
+    {
         "name": "Machine Learning",
         "confidence_score": 1.0,
         "category": "Technical",
@@ -7,11 +14,11 @@
         "mentions": 5
     },
     {
-        "name": "Python",
-        "confidence_score": 1.0,
+        "name": "Pandas",
+        "confidence_score": 0.95,
         "category": "Technical",
         "level": "Intermediate",
-        "mentions": 6
+        "mentions": 2
     },
     {
         "name": "NumPy",
@@ -28,16 +35,30 @@
         "mentions": 2
     },
     {
-        "name": "Pandas",
+        "name": "Data Analysis",
         "confidence_score": 0.95,
-        "category": "Technical",
+        "category": "Domain Knowledge",
         "level": "Intermediate",
         "mentions": 2
+    },
+    {
+        "name": "MySQL",
+        "confidence_score": 0.9,
+        "category": "Technical",
+        "level": "Intermediate",
+        "mentions": 1
     },
     {
         "name": "Business Intelligence",
         "confidence_score": 0.9,
         "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Feature Engineering",
+        "confidence_score": 0.9,
+        "category": "Technical",
         "level": "Intermediate",
         "mentions": 1
     },
@@ -56,9 +77,9 @@
         "mentions": 1
     },
     {
-        "name": "MySQL",
-        "confidence_score": 0.9,
-        "category": "Technical",
+        "name": "Case Management",
+        "confidence_score": 0.87,
+        "category": "Domain Knowledge",
         "level": "Intermediate",
         "mentions": 1
     },

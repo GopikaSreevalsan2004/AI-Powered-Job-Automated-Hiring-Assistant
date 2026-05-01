@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "name": "Metadata Standards",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Archival Preservation",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Database Management",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Digitization",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    }
+]

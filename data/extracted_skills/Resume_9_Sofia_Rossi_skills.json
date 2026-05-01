@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "name": "Nutrition Coaching",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    },
+    {
+        "name": "Client Assessment",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Expert",
+        "mentions": 1
+    },
+    {
+        "name": "Yoga",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Expert",
+        "mentions": 1
+    },
+    {
+        "name": "Strength Training",
+        "confidence_score": 0.9,
+        "category": "Domain Knowledge",
+        "level": "Intermediate",
+        "mentions": 1
+    }
+]
