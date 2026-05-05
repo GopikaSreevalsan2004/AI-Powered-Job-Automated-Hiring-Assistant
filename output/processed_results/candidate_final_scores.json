@@ -1,12 +1,12 @@
 {
     "Resume1.pdf": {
-        "final_score": 0.2022,
+        "final_score": 0.2822,
         "score_breakdown": {
             "skill_match": {
-                "score": 0.0,
+                "score": 0.2,
                 "weight": 0.4,
-                "contribution": 0.0,
-                "explanation": "Matched 0 out of 5 required skills."
+                "contribution": 0.08,
+                "explanation": "Matched 1 out of 5 required skills."
             },
             "experience_relevance": {
                 "score": 0.54,
@@ -28,7 +28,7 @@
             }
         },
         "status": "Complete Profile",
-        "explanation": "Candidate scored 20.2/100. Strengths include: Strong professional experience match. Areas for concern: Missing core technical skills."
+        "explanation": "Candidate scored 28.2/100. Strengths include: Strong professional experience match. Areas for concern: Missing core technical skills."
     },
     "Resume_10_Dr._Helena_Vance.pdf": {
         "final_score": 0.0425,
@@ -62,13 +62,13 @@
         "explanation": "Candidate scored 4.2/100. Areas for concern: Missing core technical skills, Minimal relevant work history."
     },
     "Resume_1_Arjun_Mehta.pdf": {
-        "final_score": 0.1551,
+        "final_score": 0.3951,
         "score_breakdown": {
             "skill_match": {
-                "score": 0.0,
+                "score": 0.6,
                 "weight": 0.4,
-                "contribution": 0.0,
-                "explanation": "Matched 0 out of 5 required skills."
+                "contribution": 0.24,
+                "explanation": "Matched 3 out of 5 required skills."
             },
             "experience_relevance": {
                 "score": 0.45,
@@ -90,7 +90,7 @@
             }
         },
         "status": "Complete Profile",
-        "explanation": "Candidate scored 15.5/100. Areas for concern: Missing core technical skills."
+        "explanation": "Candidate scored 39.5/100. "
     },
     "Resume_2_Sarah_Jenkins.pdf": {
         "final_score": 0.1422,
@@ -124,13 +124,13 @@
         "explanation": "Candidate scored 14.2/100. Areas for concern: Missing core technical skills."
     },
     "Resume_3_Li_Wei.pdf": {
-        "final_score": 0.056,
+        "final_score": 0.216,
         "score_breakdown": {
             "skill_match": {
-                "score": 0.0,
+                "score": 0.4,
                 "weight": 0.4,
-                "contribution": 0.0,
-                "explanation": "Matched 0 out of 5 required skills."
+                "contribution": 0.16,
+                "explanation": "Matched 2 out of 5 required skills."
             },
             "experience_relevance": {
                 "score": 0.15,
@@ -152,16 +152,16 @@
             }
         },
         "status": "Complete Profile",
-        "explanation": "Candidate scored 5.6/100. Areas for concern: Missing core technical skills, Minimal relevant work history."
+        "explanation": "Candidate scored 21.6/100. Areas for concern: Minimal relevant work history."
     },
     "Resume_4_Elena_Rodriguez.pdf": {
-        "final_score": 0.0594,
+        "final_score": 0.2194,
         "score_breakdown": {
             "skill_match": {
-                "score": 0.0,
+                "score": 0.4,
                 "weight": 0.4,
-                "contribution": 0.0,
-                "explanation": "Matched 0 out of 5 required skills."
+                "contribution": 0.16,
+                "explanation": "Matched 2 out of 5 required skills."
             },
             "experience_relevance": {
                 "score": 0.16,
@@ -183,16 +183,16 @@
             }
         },
         "status": "Complete Profile",
-        "explanation": "Candidate scored 5.9/100. Areas for concern: Missing core technical skills, Minimal relevant work history."
+        "explanation": "Candidate scored 21.9/100. Areas for concern: Minimal relevant work history."
     },
     "Resume_5_David_Chen.pdf": {
-        "final_score": 0.1412,
+        "final_score": 0.2212,
         "score_breakdown": {
             "skill_match": {
-                "score": 0.0,
+                "score": 0.2,
                 "weight": 0.4,
-                "contribution": 0.0,
-                "explanation": "Matched 0 out of 5 required skills."
+                "contribution": 0.08,
+                "explanation": "Matched 1 out of 5 required skills."
             },
             "experience_relevance": {
                 "score": 0.46,
@@ -214,7 +214,7 @@
             }
         },
         "status": "Complete Profile",
-        "explanation": "Candidate scored 14.1/100. Areas for concern: Missing core technical skills."
+        "explanation": "Candidate scored 22.1/100. Areas for concern: Missing core technical skills."
     },
     "Resume_6_Marcus_Thorne.pdf": {
         "final_score": 0.0428,

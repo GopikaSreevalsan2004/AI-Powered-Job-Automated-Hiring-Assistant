@@ -43,7 +43,7 @@ class MasterScorer:
         skill_score = 0.0
         skill_explanation = "No required skills found."
         if req_skills:
-            matches = [s for s in req_skills if any(s in f for f in found_skills)]
+            matches = [s for s in req_skills if any(f in s for f in found_skills)]
             skill_score = len(matches) / len(req_skills)
             skill_explanation = f"Matched {len(matches)} out of {len(req_skills)} required skills."
         elif found_skills:
