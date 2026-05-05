@@ -1,0 +1,305 @@
+{
+  "Resume1.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": "July 2025",
+        "end_date": "Ongoing",
+        "role": "Data Science &AI",
+        "company": "Scope India",
+        "description": "across all devices. functionalities include food item listing, category filtering, cart management, order processing, and secure data handling. --- Page 2 --- AI-Based Multiple Disease Prediction System (Ongoing Project) Developed an AI-based web application that predicts multiple diseases using machine learning algorithms. The system analyzes user health data and symptoms to provide early disease prediction and risk assessment. Implemented using Python, machine learning models, and a user-friendly interface to assist in preliminary healthcare analysis. TECH",
+        "start_dt": "2025-07-01T00:00:00",
+        "end_dt": "2026-05-05T09:04:04.052105",
+        "relevance_score": 0.54,
+        "scoring_details": {
+          "total_score": 0.54,
+          "title_score": 0.57,
+          "skill_score": 0.6,
+          "duration_score": 0.28,
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Data"
+          ],
+          "duration_months": 10
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.8,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_10_Dr._Helena_Vance.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Senior Researcher",
+        "company": "Antiquity Institute",
+        "description": "Led international teams and published archaeological findings.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.14,
+        "scoring_details": {
+          "total_score": 0.14,
+          "title_score": 0.3,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_1_Arjun_Mehta.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Big Data Engineer",
+        "company": "TechStream",
+        "description": "Developed scalable pipelines and managed ETL workflows.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.45,
+        "scoring_details": {
+          "total_score": 0.45,
+          "title_score": 1.0,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_2_Sarah_Jenkins.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Lead Engineer",
+        "company": "CloudScale",
+        "description": "Designed enterprise architectures and enforced best practices.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.41,
+        "scoring_details": {
+          "total_score": 0.41,
+          "title_score": 0.9,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_3_Li_Wei.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Hadoop Developer",
+        "company": "DataBridge",
+        "description": "Implemented efficient ETL workflows and resolved job failures.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.15,
+        "scoring_details": {
+          "total_score": 0.15,
+          "title_score": 0.34,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_4_Elena_Rodriguez.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Spark Developer",
+        "company": "Velocity Data",
+        "description": "Built real-time monitoring tools for high- frequency transactions.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.16,
+        "scoring_details": {
+          "total_score": 0.16,
+          "title_score": 0.36,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_5_David_Chen.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "ML Engineer",
+        "company": "Neural Innovations",
+        "description": "Optimized model training pipelines and automated data cleaning.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.46,
+        "scoring_details": {
+          "total_score": 0.46,
+          "title_score": 0.84,
+          "skill_score": 0.2,
+          "duration_score": 0.0,
+          "matched_skills": [
+            "Data"
+          ],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_6_Marcus_Thorne.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Child Welfare Specialist",
+        "company": "City Services",
+        "description": "Managed family caseloads and coordinated legal support.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.14,
+        "scoring_details": {
+          "total_score": 0.14,
+          "title_score": 0.32,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_7_Chloe_Simmons.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Project Lead",
+        "company": "UrbanBuild",
+        "description": "Designed roadway systems and managed site inspections.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.0,
+        "scoring_details": {
+          "total_score": 0.0,
+          "title_score": 0.0,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_8_Julian_Vane.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Digital Archivist",
+        "company": "Heritage Library",
+        "description": "Led document digitization and database modernization.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.15,
+        "scoring_details": {
+          "total_score": 0.15,
+          "title_score": 0.33,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  },
+  "Resume_9_Sofia_Rossi.pdf": {
+    "structured_experiences": [
+      {
+        "start_date": null,
+        "end_date": null,
+        "role": "Lead Instructor",
+        "company": "Vitality Gym",
+        "description": "Designed inclusive fitness programs and managed private coaching.",
+        "start_dt": null,
+        "end_dt": null,
+        "relevance_score": 0.07,
+        "scoring_details": {
+          "total_score": 0.07,
+          "title_score": 0.16,
+          "skill_score": 0.0,
+          "duration_score": 0.0,
+          "matched_skills": [],
+          "duration_months": 0
+        }
+      }
+    ],
+    "analysis": {
+      "total_experience_years": 0.0,
+      "gaps": [],
+      "overlaps": []
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "Resume1.pdf": {
+    "education": [
+      {
+        "degree": "Bachelor",
+        "raw_degree": "Bachelor",
+        "institution": "Bachelor of Science in Mathematics (BSC), 2022-2025 Mathama Gandhi College, Kesavadasapuram(Kerala University) Higher Secondary School , 2020-2022 LMS Higher Secondary School, Thiruvananthapuram Secondary School , 2020 Kaviyattu English Medium School, Thiruvananthapuram LANGUAGES \u2022 ENGLISH \u2022 MALAYALAM \u2022 TAMIL DECLARATION I do hereby declare that all the above information is true to the best of my knowledge and belief. GOPIKA S S",
+        "field_of_study": "Science in Mathematics",
+        "end_date": "2022-01-01"
+      }
+    ],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.35,
+      "education_score": 0.4993333333333333,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_10_Dr._Helena_Vance.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_1_Arjun_Mehta.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_2_Sarah_Jenkins.pdf": {
+    "education": [],
+    "certifications": [
+      {
+        "name": "Microsoft Azure Certification",
+        "raw_name": "AWS, Azure, Data Architecture, PySpark, Team Leadership",
+        "category": "Cloud",
+        "issuing_organization": "Unknown",
+        "issue_date": null
+      }
+    ],
+    "relevance_scoring": {
+      "total_academic_score": 0.18,
+      "education_score": 0.0,
+      "certification_score": 0.6
+    }
+  },
+  "Resume_3_Li_Wei.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_4_Elena_Rodriguez.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_5_David_Chen.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_6_Marcus_Thorne.pdf": {
+    "education": [],
+    "certifications": [
+      {
+        "name": "Compassionate Professional Focused On Child Welfare And Family Advocacy With A Background In Crisis Intervention.",
+        "raw_name": "Compassionate professional focused on child welfare and family advocacy with a background in crisis intervention.",
+        "category": "General",
+        "issuing_organization": "Unknown",
+        "issue_date": null
+      }
+    ],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_7_Chloe_Simmons.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_8_Julian_Vane.pdf": {
+    "education": [],
+    "certifications": [],
+    "relevance_scoring": {
+      "total_academic_score": 0.0,
+      "education_score": 0.0,
+      "certification_score": 0.0
+    }
+  },
+  "Resume_9_Sofia_Rossi.pdf": {
+    "education": [],
+    "certifications": [
+      {
+        "name": "Certified Instructor Specializing In Holistic Wellness And Group Fitness Programming For All Levels.",
+        "raw_name": "Certified instructor specializing in holistic wellness and group fitness programming for all levels.",
+        "category": "General",
+        "issuing_organization": "Unknown",
+        "issue_date": null
+      }
+    ],
+    "relevance_scoring": {
+      "total_academic_score": 0.12,
+      "education_score": 0.0,
+      "certification_score": 0.4
+    }
+  }
+}
