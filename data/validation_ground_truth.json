@@ -1,0 +1,37 @@
+{
+    "Resume_1_Arjun_Mehta.pdf": {
+        "category": "Tech",
+        "profile": "Senior",
+        "expected_skills": ["Python", "Java", "Hadoop", "Spark", "Hive", "SQL", "Kafka"],
+        "expected_score_range": [0.7, 1.0],
+        "manual_review_status": "Shortlisted"
+    },
+    "Resume_6_Marcus_Thorne.pdf": {
+        "category": "Non-Tech",
+        "profile": "Senior",
+        "expected_skills": ["Case Management", "Legal Support", "Coordination"],
+        "expected_score_range": [0.0, 0.3],
+        "manual_review_status": "Rejected"
+    },
+    "Resume1.pdf": {
+        "category": "Tech",
+        "profile": "Fresher",
+        "expected_skills": ["Python", "Machine Learning", "Data Science", "Web Development"],
+        "expected_score_range": [0.4, 0.7],
+        "manual_review_status": "Shortlisted"
+    },
+    "Resume_9_Sofia_Rossi.pdf": {
+        "category": "Non-Tech",
+        "profile": "Senior",
+        "expected_skills": ["Fitness Coaching", "Program Design"],
+        "expected_score_range": [0.0, 0.2],
+        "manual_review_status": "Rejected"
+    },
+    "Resume_4_Elena_Rodriguez.pdf": {
+        "category": "Tech",
+        "profile": "Senior",
+        "expected_skills": ["Spark", "Real-time Monitoring", "Transactions"],
+        "expected_score_range": [0.6, 0.9],
+        "manual_review_status": "Shortlisted"
+    }
+}
