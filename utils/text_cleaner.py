@@ -6,17 +6,21 @@ class TextCleaner:
         if not text:
             return ""
         
-        # Normalize whitespace (replace multiple spaces/newlines with single ones)
+        # 1. Strip common PDF artifacts and watermarks
+        text = re.sub(r'(Page \d+ of \d+|Confidential|Resume of .*|www\..*\.com)', '', text, flags=re.IGNORECASE)
+        
+        # 2. Normalize encoding and remove non-printable characters
+        text = text.encode('ascii', 'ignore').decode('ascii') # Force ASCII for stability
+        
+        # 3. Normalize whitespace and newlines
         text = re.sub(r'\s+', ' ', text)
         
-        # Remove non-printable characters and noise symbols
-        # Keeping basic punctuation and common resume symbols like bullets
-        text = re.sub(r'[^\x20-\x7E\s•●○\-\*]', '', text)
+        # 4. Remove special noise symbols but keep separators
+        text = re.sub(r'[^\w\s.,;:|&+/@#$%()\-•●○\*]', '', text)
         
-        # Standardize capitalization for common headings
-        headings = ["SKILLS", "EDUCATION", "EXPERIENCE", "PROJECTS", "CERTIFICATIONS", "SUMMARY", "CONTACT"]
+        # 5. Standardize capitalization for common headings
+        headings = ["SKILLS", "EDUCATION", "EXPERIENCE", "PROJECTS", "CERTIFICATIONS", "SUMMARY", "CONTACT", "WORK HISTORY"]
         for heading in headings:
-            # Match heading at start or after a period/newline
             pattern = rf'(?i)\b{heading}\b'
             text = re.sub(pattern, heading, text)
             

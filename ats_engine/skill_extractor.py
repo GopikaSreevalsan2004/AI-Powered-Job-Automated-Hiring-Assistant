@@ -10,10 +10,17 @@ except ImportError:
     HAS_SPACY = False
 
 try:
-    from fuzzywuzzy import fuzz
+    from rapidfuzz import fuzz, process
     HAS_FUZZY = True
+    HAS_RAPIDFUZZ = True
 except ImportError:
-    HAS_FUZZY = False
+    try:
+        from fuzzywuzzy import fuzz
+        HAS_FUZZY = True
+        HAS_RAPIDFUZZ = False
+    except ImportError:
+        HAS_FUZZY = False
+        HAS_RAPIDFUZZ = False
 
 from utils.synonym_mapper import SynonymMapper
 
@@ -166,47 +173,61 @@ class SkillExtractionEngine:
 
     def _normalize_skills(self, skills: List[str]) -> List[Tuple[str, str, float]]:
         """
-        Normalizes skills, resolves synonyms, corrects spelling via fuzzy matching (if possible).
-        Returns tuples of (original, normalized, confidence).
-        We only keep skills that map to known taxonomy with high confidence, 
-        plus a few exact high-confidence unknown nouns.
+        Normalizes skills, resolves synonyms, corrects spelling.
+        Uses exact match cache for O(1) lookups before falling back to fuzzy matching.
         """
         normalized = []
+        unique_skills = set(skills)
         
-        for skill in set(skills): # Deduplicate first for performance
-            # 1. Check exact synonym match
+        # Pre-filter: Exact matches in known skills or synonyms
+        unmatched = []
+        for skill in unique_skills:
+            skill_lower = skill.lower()
+            
+            # 1. Exact match in taxonomy
+            if skill_lower in self.known_skills:
+                normalized.append((skill, self.known_skills[skill_lower]["name"], 1.0))
+                continue
+                
+            # 2. Check synonym mapper (exact)
             norm = self.synonym_mapper.normalize_skill(skill)
-            if norm.lower() != skill.lower() and norm.lower() in self.known_skills:
-                # Was mapped via synonym, very confident
-                normalized.append((skill, self.known_skills[norm.lower()]["name"], 0.90))
+            if norm.lower() != skill_lower and norm.lower() in self.known_skills:
+                normalized.append((skill, self.known_skills[norm.lower()]["name"], 0.95))
                 continue
-                
-            # 2. Check exact match in known skills
-            if norm.lower() in self.known_skills:
-                normalized.append((skill, self.known_skills[norm.lower()]["name"], 0.90))
-                continue
-                
-            # 3. Fuzzy match spelling variations against known skills
-            if HAS_FUZZY:
+            
+            # If still unmatched, add to fuzzy candidate list
+            if len(skill_lower) > 2: # Don't fuzzy match very short strings
+                unmatched.append(skill)
+
+        # 3. Fuzzy match remaining unmatched skills
+        if HAS_FUZZY and unmatched:
+            # Prepare known skills list for batch processing if using rapidfuzz
+            known_list = list(self.known_skills.keys())
+            
+            for skill in unmatched:
+                norm = skill.lower()
                 best_match = None
                 highest_score = 0
-                for known_lower, known_data in self.known_skills.items():
-                    # Quick length check to avoid comparing very different strings
-                    if abs(len(norm) - len(known_lower)) > 4:
-                        continue
-                        
-                    score = fuzz.ratio(norm.lower(), known_lower)
-                    if score > highest_score:
-                        highest_score = score
-                        best_match = known_data["name"]
-                        if highest_score == 100:
-                            break
                 
-                # Threshold for fuzzy match
+                if HAS_RAPIDFUZZ:
+                    # RapidFuzz is highly optimized
+                    match = process.extractOne(norm, known_list, scorer=fuzz.ratio, score_cutoff=85)
+                    if match:
+                        highest_score = match[1]
+                        best_match = self.known_skills[match[0]]["name"]
+                else:
+                    # Fallback to standard fuzzywuzzy
+                    for known_lower in known_list:
+                        if abs(len(norm) - len(known_lower)) > 3:
+                            continue
+                        score = fuzz.ratio(norm, known_lower)
+                        if score > highest_score:
+                            highest_score = score
+                            best_match = self.known_skills[known_lower]["name"]
+                            if highest_score == 100: break
+
                 if highest_score >= 85:
-                    confidence = highest_score / 100.0
-                    normalized.append((skill, best_match, confidence))
-                    continue
+                    normalized.append((skill, best_match, highest_score / 100.0))
                     
         return normalized
 
