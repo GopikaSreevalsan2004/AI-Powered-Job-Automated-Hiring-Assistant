@@ -105,6 +105,13 @@ class ShortlistingEngine:
             summary += "\n"
             
         summary += "## ❌ Auto-Rejected\n"
-        summary += f"Total: {len(processed_data['auto_rejected'])} candidates filtered out based on low alignment scores.\n"
+        summary += f"Total: {len(processed_data['auto_rejected'])} candidates filtered out.\n\n"
         
+        summary += "## 📋 Full Candidate Roster\n"
+        summary += "| Rank | Name | Score | Skills | Exp | Edu | Sem |\n"
+        summary += "|------|------|-------|--------|-----|-----|-----|\n"
+        for i, c in enumerate(processed_data['all_ranked']):
+            br = c['score_breakdown']
+            summary += f"| {i+1} | {c['candidate_name']} | {c['final_score']*100:.1f}% | {br['skill_match']['score']*100:.0f}% | {br['experience_relevance']['score']*100:.0f}% | {br['education_alignment']['score']*100:.0f}% | {br['semantic_similarity']['score']*100:.0f}% |\n"
+            
         return summary
