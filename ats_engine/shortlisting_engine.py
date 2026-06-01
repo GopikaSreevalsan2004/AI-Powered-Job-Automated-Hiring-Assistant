@@ -40,10 +40,10 @@ class ShortlistingEngine:
                 cand['status_zone'] = "Shortlisted"
                 shortlisted.append(cand)
             elif score >= self.review_threshold:
-                cand['status_zone'] = "Needs Review"
+                cand['status_zone'] = "Review"
                 review.append(cand)
             else:
-                cand['status_zone'] = "Auto-Rejected"
+                cand['status_zone'] = "Rejected"
                 rejected.append(cand)
                 
         return {

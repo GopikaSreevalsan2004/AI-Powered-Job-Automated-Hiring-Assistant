@@ -97,8 +97,23 @@ class ExperienceScorer:
         months = 0
         
         if start_dt and end_dt:
-            months = (end_dt.year - start_dt.year) * 12 + (end_dt.month - start_dt.month)
-            months = max(0, months)
+            # Ensure they are date/datetime objects
+            if isinstance(start_dt, str):
+                from datetime import datetime
+                try:
+                    start_dt = datetime.strptime(start_dt, "%Y-%m-%d").date()
+                except: pass
+            if isinstance(end_dt, str):
+                from datetime import datetime
+                try:
+                    end_dt = datetime.strptime(end_dt, "%Y-%m-%d").date()
+                except: pass
+                
+            try:
+                months = (end_dt.year - start_dt.year) * 12 + (end_dt.month - start_dt.month)
+                months = max(0, months)
+            except (AttributeError, TypeError):
+                months = 0
             
             # Dynamic duration scoring based on requirements, default to max at 3 years (36 months)
             target_months = job_requirements.get('required_experience_months', 36)

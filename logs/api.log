@@ -1,0 +1,4 @@
+2026-06-01 12:56:25,204 ERROR [ats_api]: Error processing job job_78eb6ace-7e04-4f51-afa0-10787df63857: 'str' object has no attribute 'year'
+2026-06-01 12:56:51,482 ERROR [ats_api]: Error processing job job_5eb1b446-1fbd-4d8f-a1eb-b7cfbd67ba00: 'str' object has no attribute 'year'
+2026-06-01 12:56:52,518 ERROR [ats_api]: Error processing job job_76556062-b983-4de1-81d3-e8a0b86f751f: 'str' object has no attribute 'year'
+2026-06-01 12:58:41,344 ERROR [ats_api]: Error processing job job_2f179d92-1962-48e5-8e08-89798c85b027: 'str' object has no attribute 'year'
